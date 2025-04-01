@@ -1,0 +1,1712 @@
+1: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633132; Sample name: SEM_47_S64; SRA: SRS20892371
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Viili 3d"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633132	ID: 40633132
+
+2: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633131; Sample name: SEM_46_S63; SRA: SRS20892369
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Viili 0h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633131	ID: 40633131
+
+3: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633130; Sample name: SEM_45_S62; SRA: SRS20892368
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Tempeh 3d"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="soy"
+    /environmental medium="soy"
+    /food product type="soy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="soy"
+    /isolation source="soy"
+    /latitude and longitude="34.05 N 118.24 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633130	ID: 40633130
+
+4: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633129; Sample name: SEM_44_S61; SRA: SRS20892367
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Tempeh 0h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="soy"
+    /environmental medium="soy"
+    /food product type="soy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="soy"
+    /isolation source="soy"
+    /latitude and longitude="34.05 N 118.24 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633129	ID: 40633129
+
+5: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633128; Sample name: SEM_43_S60; SRA: SRS20892366
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Kimchi solid 60d"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633128	ID: 40633128
+
+6: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633127; Sample name: SEM_42_S59; SRA: SRS20892364
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Kimchi solid 0h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633127	ID: 40633127
+
+7: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633126; Sample name: SEM_41_S58; SRA: SRS20892365
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Kimchi brine 60d"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633126	ID: 40633126
+
+8: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633125; Sample name: SEM_40_S57; SRA: SRS20892363
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Kimchi brine 0h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633125	ID: 40633125
+
+9: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633124; Sample name: EBC_148; SRA: SRS20892361
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Curtido 7d"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633124	ID: 40633124
+
+10: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633123; Sample name: EBC_147; SRA: SRS20892362
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Curtido 96h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633123	ID: 40633123
+
+11: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633122; Sample name: EBC_146; SRA: SRS20892360
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Curtido 0h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633122	ID: 40633122
+
+12: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633121; Sample name: EBC_145; SRA: SRS20892358
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Red Sauerkraut 21d"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633121	ID: 40633121
+
+13: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633120; Sample name: EBC_144; SRA: SRS20892356
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Red Sauerkraut 96h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633120	ID: 40633120
+
+14: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633119; Sample name: EBC_143; SRA: SRS20892354
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Red Sauerkraut 0h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633119	ID: 40633119
+
+15: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633118; Sample name: EBC_142; SRA: SRS20892357
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Wild Sauekraut 21d"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633118	ID: 40633118
+
+16: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633117; Sample name: EBC_141; SRA: SRS20892355
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Seeded Sauerkraut 21d"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633117	ID: 40633117
+
+17: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633116; Sample name: EBC_140; SRA: SRS20892353
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Wild Sauerkraut 96h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633116	ID: 40633116
+
+18: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633115; Sample name: EBC_139; SRA: SRS20892352
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Seeded Sauerkraut 96h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633115	ID: 40633115
+
+19: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633114; Sample name: EBC_138; SRA: SRS20892350
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Wild Sauerkraut 0d"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633114	ID: 40633114
+
+20: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633113; Sample name: EBC_137; SRA: SRS20892351
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Sauerkraut Starter 0h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633113	ID: 40633113
+
+21: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633112; Sample name: EBC_136; SRA: SRS20892348
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Queens SF Fennel Kimchi 7/24/2022"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633112	ID: 40633112
+
+22: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633111; Sample name: EBC_135; SRA: SRS20892346
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Queens SF Lacto Ferm 4% Yellow Peach 8/26/21"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633111	ID: 40633111
+
+23: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633110; Sample name: EBC_134; SRA: SRS20892347
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Queens SF Lacto Ferm Serrano 9/18/2022"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633110	ID: 40633110
+
+24: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633109; Sample name: EBC_133; SRA: SRS20892345
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Queens SF Mukeunji 6/18/22"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633109	ID: 40633109
+
+25: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633108; Sample name: EBC_114; SRA: SRS20892344
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Agria natty (initial)"
+    /collection site geographic feature="Washington, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="fruit"
+    /environmental medium="fruit"
+    /food product type="fruit"
+    /geographic location="USA: Washington"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="fruit"
+    /isolation source="fruit"
+    /latitude and longitude="47.65 N 121.91 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633108	ID: 40633108
+
+26: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633107; Sample name: EBC_113; SRA: SRS20892343
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Mad ange pdc"
+    /collection site geographic feature="Washington, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="fruit"
+    /environmental medium="fruit"
+    /food product type="fruit"
+    /geographic location="USA: Washington"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="fruit"
+    /isolation source="fruit"
+    /latitude and longitude="47.65 N 121.91 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633107	ID: 40633107
+
+27: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633106; Sample name: EBC_112; SRA: SRS20892339
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Agria pdc"
+    /collection site geographic feature="Washington, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="fruit"
+    /environmental medium="fruit"
+    /food product type="fruit"
+    /geographic location="USA: Washington"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="fruit"
+    /isolation source="fruit"
+    /latitude and longitude="47.65 N 121.91 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633106	ID: 40633106
+
+28: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633105; Sample name: EBC_111; SRA: SRS20892342
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Pink small cheese (very smelly!) from Cody Reiss"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633105	ID: 40633105
+
+29: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633104; Sample name: EBC_110; SRA: SRS20892341
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Larger cheese wheel, mouldy (very smelly!) from Cody Reiss"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633104	ID: 40633104
+
+30: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633103; Sample name: EBC_109; SRA: SRS20892340
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Volcano Kimchi Smokeshow Jar"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633103	ID: 40633103
+
+31: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633102; Sample name: EBC_108; SRA: SRS20892337
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Crauti Abete"
+    /collection site geographic feature="Trentino, Italy"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="Italy: Trentino"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="45.89 N 10.95 E"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633102	ID: 40633102
+
+32: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633101; Sample name: EBC_107; SRA: SRS20892336
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Volcano Kimchi 10/4/2022 Green cabbage"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633101	ID: 40633101
+
+33: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633100; Sample name: EBC_106; SRA: SRS20892335
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Volcano Kimchi 10/4/2022 Napa"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633100	ID: 40633100
+
+34: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633099; Sample name: EBC_105; SRA: SRS20892334
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Volcano Kimchi Smokeshow fermented for 8/31-9/02, 2022"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633099	ID: 40633099
+
+35: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633098; Sample name: EBC_104; SRA: SRS20892333
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Volcano Kimchi Turmeric + moringa, Sept 2021"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633098	ID: 40633098
+
+36: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633097; Sample name: EBC_103; SRA: SRS20892330
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Volcano Kimchi Red mustard kimchi, July 21, 2022"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633097	ID: 40633097
+
+37: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633096; Sample name: EBC_102; SRA: SRS20892332
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Volcano Kimchi Bok choi fermented 8/31-9/02, 2022"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633096	ID: 40633096
+
+38: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633095; Sample name: EBC_101; SRA: SRS20892329
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Volcano Kimchi 10/4/2022 Jicama Kimchi"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633095	ID: 40633095
+
+39: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633094; Sample name: EBC_100; SRA: SRS20892331
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Volcano Kimchi Gochujang, no sugar, 1.5 year"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633094	ID: 40633094
+
+40: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633093; Sample name: EBC_099; SRA: SRS20892327
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Cinsoy S-22-P1 12/30/21"
+    /collection site geographic feature="Ohio, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="soy"
+    /environmental medium="soy"
+    /food product type="soy"
+    /geographic location="USA: Ohio"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="soy"
+    /isolation source="soy"
+    /latitude and longitude="39.1 N 84.51 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633093	ID: 40633093
+
+41: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633092; Sample name: EBC_098; SRA: SRS20892324
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Cinsoy S-21-V1 12/30/21"
+    /collection site geographic feature="Ohio, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="soy"
+    /environmental medium="soy"
+    /food product type="soy"
+    /geographic location="USA: Ohio"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="soy"
+    /isolation source="soy"
+    /latitude and longitude="39.1 N 84.51 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633092	ID: 40633092
+
+42: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633091; Sample name: EBC_097; SRA: SRS20892323
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Cinsoy tamari mother 4/29/2021"
+    /collection site geographic feature="Ohio, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="soy"
+    /environmental medium="soy"
+    /food product type="soy"
+    /geographic location="USA: Ohio"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="soy"
+    /isolation source="soy"
+    /latitude and longitude="39.1 N 84.51 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633091	ID: 40633091
+
+43: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633090; Sample name: EBC_096; SRA: SRS20892326
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Cinsoy Shoyu mother 2/28/21"
+    /collection site geographic feature="Ohio, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="soy"
+    /environmental medium="soy"
+    /food product type="soy"
+    /geographic location="USA: Ohio"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="soy"
+    /isolation source="soy"
+    /latitude and longitude="39.1 N 84.51 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633090	ID: 40633090
+
+44: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633089; Sample name: EBC_095; SRA: SRS20892325
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="daikon kasuzuke"
+    /collection site geographic feature="Colorado, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: Colorado"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="39.74 N 104.98 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633089	ID: 40633089
+
+45: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633088; Sample name: EBC_094; SRA: SRS20892322
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="yeast miso"
+    /collection site geographic feature="Antwerp, Belgium"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="soy"
+    /environmental medium="soy"
+    /food product type="soy"
+    /geographic location="Belgium:Antwerp"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="soy"
+    /isolation source="soy"
+    /latitude and longitude="51.22 N 4.39 E"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633088	ID: 40633088
+
+46: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633087; Sample name: EBC_093; SRA: SRS20892321
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Doubanjang october/november 2019"
+    /collection site geographic feature="Tennessee, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="soy"
+    /environmental medium="soy"
+    /food product type="soy"
+    /geographic location="USA: Tennessee"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="soy"
+    /isolation source="soy"
+    /latitude and longitude="36.00 N 85.97 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633087	ID: 40633087
+
+47: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633086; Sample name: EBC_092; SRA: SRS20892320
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Radish kraut"
+    /collection site geographic feature="Tennessee, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: Tennessee"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="36.00 N 85.97 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633086	ID: 40633086
+
+48: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633085; Sample name: EBC_091; SRA: SRS20892319
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Superior Qu"
+    /collection site geographic feature="Colorado, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="wheat"
+    /environmental medium="wheat"
+    /food product type="wheat"
+    /geographic location="USA: Colorado"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="wheat"
+    /isolation source="wheat"
+    /latitude and longitude="39.74 N 104.98 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633085	ID: 40633085
+
+49: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633084; Sample name: EBC_090; SRA: SRS20892317
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Lacto-fermented Elderberry capers"
+    /collection site geographic feature="Antwerp, Belgium"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="Belgium:Antwerp"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="51.22 N 4.39 E"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633084	ID: 40633084
+
+50: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633083; Sample name: EBC_089; SRA: SRS20892315
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Dawadawa"
+    /collection site geographic feature="Nigeria"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="soy"
+    /environmental medium="soy"
+    /food product type="soy"
+    /geographic location="Nigeria"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="soy"
+    /isolation source="soy"
+    /latitude and longitude="9.6 N 7.99 E"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633083	ID: 40633083
+
+
+51: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633082; Sample name: EBC_088; SRA: SRS20892318
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Burma natto"
+    /collection site geographic feature="Burma"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="soy"
+    /environmental medium="soy"
+    /food product type="soy"
+    /geographic location="Myanmar"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="soy"
+    /isolation source="soy"
+    /latitude and longitude="17.17 N 95.99 E"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633082	ID: 40633082
+
+52: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633081; Sample name: EBC_087; SRA: SRS20892314
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="pikliz 2021"
+    /collection site geographic feature="Montana, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: Montana"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="46.58 N 112.02 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633081	ID: 40633081
+
+53: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633080; Sample name: EBC_086; SRA: SRS20892312
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="raw potato kimchi"
+    /collection site geographic feature="Montana, United States of America"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: Montana"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="46.58 N 112.02 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633080	ID: 40633080
+
+54: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633079; Sample name: EBC_085; SRA: SRS20892309
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="brioche miso"
+    /collection site geographic feature="Antwerp, Belgium"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="soy"
+    /environmental medium="soy"
+    /food product type="soy"
+    /geographic location="Belgium:Antwerp"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="soy"
+    /isolation source="soy"
+    /latitude and longitude="51.22 N 4.39 E"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633079	ID: 40633079
+
+55: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633078; Sample name: EBC_084; SRA: SRS20892313
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="shoyu 2019"
+    /collection site geographic feature="Liberty, Tennessee"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="soy"
+    /environmental medium="soy"
+    /food product type="soy"
+    /geographic location="USA: Tennessee"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="soy"
+    /isolation source="soy"
+    /latitude and longitude="36.00 N 85.97 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633078	ID: 40633078
+
+56: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633077; Sample name: EBC_083; SRA: SRS20892310
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="tofuru /03"
+    /collection site geographic feature="Liberty, Tennessee"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="tofu"
+    /environmental medium="tofu"
+    /food product type="tofu"
+    /geographic location="USA: Tennessee"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="soy"
+    /isolation source="soy"
+    /latitude and longitude="36.00 N 85.97 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633077	ID: 40633077
+
+57: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633076; Sample name: EBC_082; SRA: SRS20892311
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="furu 10/20"
+    /collection site geographic feature="Liberty, Tennessee"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="tofu"
+    /environmental medium="tofu"
+    /food product type="tofu"
+    /geographic location="USA: Tennessee"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="soy"
+    /isolation source="soy"
+    /latitude and longitude="36.00 N 85.97 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633076	ID: 40633076
+
+58: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633075; Sample name: EBC_081; SRA: SRS20892307
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="tofuru #1 with special sauce 4/21/19"
+    /collection site geographic feature="Liberty, Tennessee"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="tofu"
+    /environmental medium="tofu"
+    /food product type="tofu"
+    /geographic location="USA: Tennessee"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="soy"
+    /isolation source="soy"
+    /latitude and longitude="36.00 N 85.97 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633075	ID: 40633075
+
+59: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633074; Sample name: EBC_080; SRA: SRS20892308
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="reddish mold on mao dofu"
+    /collection site geographic feature="Liberty, Tennessee"
+    /collection date="2022"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="tofu"
+    /environmental medium="tofu"
+    /food product type="tofu"
+    /geographic location="USA: Tennessee"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="soy"
+    /isolation source="soy"
+    /latitude and longitude="36.00 N 85.97 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633074	ID: 40633074
+
+60: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633073; Sample name: EBC_040; SRA: SRS20892306
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Queens Water Kimchi"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633073	ID: 40633073
+
+61: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633072; Sample name: EBC_038; SRA: SRS20892303
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Stagiaire SB top 2"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="fruit"
+    /environmental medium="fruit"
+    /food product type="fruit"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="fruit"
+    /isolation source="fruit"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633072	ID: 40633072
+
+62: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633071; Sample name: EBC_037; SRA: SRS20892304
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Stagiaire SB top 1"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="fruit"
+    /environmental medium="fruit"
+    /food product type="fruit"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="fruit"
+    /isolation source="fruit"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633071	ID: 40633071
+
+63: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633070; Sample name: EBC_036; SRA: SRS20892302
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Stagiaire rtp"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="fruit"
+    /environmental medium="fruit"
+    /food product type="fruit"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="fruit"
+    /isolation source="fruit"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633070	ID: 40633070
+
+64: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633069; Sample name: EBC_035; SRA: SRS20892301
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Stagiaire SB cider"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="fruit"
+    /environmental medium="fruit"
+    /food product type="fruit"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="fruit"
+    /isolation source="fruit"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633069	ID: 40633069
+
+65: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633068; Sample name: EBC_034; SRA: SRS20892298
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Stagiaire scales and arpeggios supernatant"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="fruit"
+    /environmental medium="fruit"
+    /food product type="fruit"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="fruit"
+    /isolation source="fruit"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633068	ID: 40633068
+
+66: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633067; Sample name: EBC_033; SRA: SRS20892300
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Ruby wine supernatant"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="fruit"
+    /environmental medium="fruit"
+    /food product type="fruit"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="fruit"
+    /isolation source="fruit"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633067	ID: 40633067
+
+67: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633066; Sample name: EBC_032; SRA: SRS20892299
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Ruby wine pellet"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="fruit"
+    /environmental medium="fruit"
+    /food product type="fruit"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="fruit"
+    /isolation source="fruit"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633066	ID: 40633066
+
+68: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633065; Sample name: EBC_031; SRA: SRS20892295
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Alimentari Aurora red kraut brine"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633065	ID: 40633065
+
+69: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633064; Sample name: EBC_030; SRA: SRS20892296
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Alimentari Aurora red kraut solid"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633064	ID: 40633064
+
+70: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633063; Sample name: EBC_029; SRA: SRS20892297
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Alimentari Aurora wild leek capers"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="vegetable"
+    /environmental medium="vegetable"
+    /food product type="vegetable"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="vegetable"
+    /isolation source="vegetable"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633063	ID: 40633063
+
+71: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633062; Sample name: EBC_028; SRA: SRS20892293
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Stagiaire white wine supernatant"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="fruit"
+    /environmental medium="fruit"
+    /food product type="fruit"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="fruit"
+    /isolation source="fruit"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633062	ID: 40633062
+
+72: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633061; Sample name: EBC_027; SRA: SRS20892292
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Stagiaire white wine pellet"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="fruit"
+    /environmental medium="fruit"
+    /food product type="fruit"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="fruit"
+    /isolation source="fruit"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633061	ID: 40633061
+
+73: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633060; Sample name: EBC_026; SRA: SRS20892291
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Stagiaire pink wine supernatant"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="fruit"
+    /environmental medium="fruit"
+    /food product type="fruit"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="fruit"
+    /isolation source="fruit"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633060	ID: 40633060
+
+74: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633059; Sample name: EBC_025; SRA: SRS20892288
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Stagiaire pink wine pellet"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="fruit"
+    /environmental medium="fruit"
+    /food product type="fruit"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="fruit"
+    /isolation source="fruit"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633059	ID: 40633059
+
+75: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633058; Sample name: EBC_024; SRA: SRS20892286
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Goat Kefir 60h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633058	ID: 40633058
+
+76: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633057; Sample name: EBC_023; SRA: SRS20892289
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Goat Kefir 50h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633057	ID: 40633057
+
+77: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633056; Sample name: EBC_022; SRA: SRS20892290
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Goat Kefir 40h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633056	ID: 40633056
+
+78: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633055; Sample name: EBC_021; SRA: SRS20892285
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Goat Kefir 35h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633055	ID: 40633055
+
+79: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633054; Sample name: EBC_020; SRA: SRS20892287
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Goat Kefir 30h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633054	ID: 40633054
+
+80: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633053; Sample name: EBC_019; SRA: SRS20892284
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Goat Kefir 25h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633053	ID: 40633053
+
+81: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633052; Sample name: EBC_018; SRA: SRS20892370
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Goat Kefir 23h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633052	ID: 40633052
+
+82: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633051; Sample name: EBC_017; SRA: SRS20892359
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Goat Kefir 21h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633051	ID: 40633051
+
+83: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633050; Sample name: EBC_016; SRA: SRS20892349
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Goat Kefir 19h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633050	ID: 40633050
+
+84: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633049; Sample name: EBC_015; SRA: SRS20892338
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Goat Kefir 17h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633049	ID: 40633049
+
+85: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633048; Sample name: EBC_014; SRA: SRS20892328
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Goat Kefir 15h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633048	ID: 40633048
+
+86: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633047; Sample name: EBC_013; SRA: SRS20892316
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Goat Kefir 12h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633047	ID: 40633047
+
+87: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633046; Sample name: EBC_012; SRA: SRS20892305
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Goat Kefir 9h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633046	ID: 40633046
+
+88: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633045; Sample name: EBC_011; SRA: SRS20892294
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Goat Kefir 6h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633045	ID: 40633045
+
+89: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633044; Sample name: EBC_010; SRA: SRS20892283
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Goat Kefir 3h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633044	ID: 40633044
+
+90: MIMS Environmental/Metagenome sample from food fermentation metagenome
+Identifiers: BioSample: SAMN40633043; Sample name: EBC_009; SRA: SRS20892282
+Organism: food fermentation metagenome
+Attributes:
+    /isolate="Goat Kefir 0h"
+    /collection site geographic feature="California, United States of America"
+    /collection date="2021"
+    /broad-scale environmental context="fermented food"
+    /local-scale environmental context="dairy"
+    /environmental medium="dairy"
+    /food product type="dairy"
+    /geographic location="USA: California"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="dairy"
+    /isolation source="dairy"
+    /latitude and longitude="37.43 N 122.16 W"
+Description:
+Keywords: GSC:MIxS;MIMS:6.0
+Accession: SAMN40633043	ID: 40633043
+
+

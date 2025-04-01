@@ -1,0 +1,484 @@
+1: s_97
+Identifiers: BioSample: SAMN41895352; Sample name: G97_1_AcFab; SRA: SRS21743248
+Organism: Acetobacter fabarum
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="USA:California,Santa Ana"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589059"
+    /latitude and longitude="33.78 N 117.8 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-01-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895352	ID: 41895352
+
+2: s_65
+Identifiers: BioSample: SAMN41895351; Sample name: G65_1_AcOrz; SRA: SRS21743245
+Organism: Acetobacter oryzoeni
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="USA:Colorado,Colorado Springs"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589058"
+    /latitude and longitude="38.95 N 104.75 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-03-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895351	ID: 41895351
+
+3: s_517
+Identifiers: BioSample: SAMN41895350; Sample name: G517_1_Ac; SRA: SRS21743243
+Organism: Acetobacter sp. 517
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="Canada:British Columbia,Vancouver"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589057"
+    /latitude and longitude="49.27 N 123.18 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-01-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895350	ID: 41895350
+
+4: s_507
+Identifiers: BioSample: SAMN41895348; Sample name: G507_1_AcMalA; SRA: SRS21743241
+Organism: Acetobacter malorum
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="USA:DC,Washington"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589055"
+    /latitude and longitude="38.92 N 77.05 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-01-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895348	ID: 41895348
+
+5: s_514
+Identifiers: BioSample: SAMN41895349; Sample name: G514_1_AcOri; SRA: SRS21743244
+Organism: Acetobacter orientalis
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="USA:Indiana,Fort Wayne"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589056"
+    /latitude and longitude="41.05 N 85.17 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-01-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895349	ID: 41895349
+
+6: s_497
+Identifiers: BioSample: SAMN41895347; Sample name: G497_1_AcPas; SRA: SRS21743242
+Organism: Acetobacter pasteurianus
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="USA:California,Culver City"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589054"
+    /latitude and longitude="34.03 N 118.38 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-01-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895347	ID: 41895347
+
+7: s_490
+Identifiers: BioSample: SAMN41895346; Sample name: G490_1_AcMalA; SRA: SRS21743239
+Organism: Acetobacter malorum
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="USA:North Carolina,Franklin"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589053"
+    /latitude and longitude="35.18 N 83.39 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-01-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895346	ID: 41895346
+
+8: s_398
+Identifiers: BioSample: SAMN41895345; Sample name: G398_1_AcOry; SRA: SRS21743240
+Organism: Acetobacter oryzifermentans
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="USA:Washington,Seattle"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589052"
+    /latitude and longitude="47.71 N 122.3 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-01-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895345	ID: 41895345
+
+9: s_35
+Identifiers: BioSample: SAMN41895344; Sample name: G35_1_AcMalA; SRA: SRS21743238
+Organism: Acetobacter malorum
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="USA:North Carolina,Durham"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589051"
+    /latitude and longitude="35.96 N 78.94 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-01-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895344	ID: 41895344
+
+10: s_272
+Identifiers: BioSample: SAMN41895343; Sample name: G272_1_AcMal; SRA: SRS21743236
+Organism: Acetobacter malorum
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="Norway:Telemark,Notodden"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589050"
+    /latitude and longitude="59.56 N 9.27 E"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-01-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895343	ID: 41895343
+
+11: s_24
+Identifiers: BioSample: SAMN41895342; Sample name: G24_1_AcOry; SRA: SRS21743237
+Organism: Acetobacter oryzifermentans
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="USA:Michigan,Hudsonville"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589049"
+    /latitude and longitude="42.92 N 85.9 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-01-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895342	ID: 41895342
+
+12: s_199
+Identifiers: BioSample: SAMN41895341; Sample name: G199_1_AcOry; SRA: SRS21743254
+Organism: Acetobacter oryzifermentans
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="USA: North Carolina, Holly Springs"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589048"
+    /latitude and longitude="35.64 N 78.87 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-01-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895341	ID: 41895341
+
+13: s_154
+Identifiers: BioSample: SAMN41895340; Sample name: G154_1_AcGha; SRA: SRS21743252
+Organism: Acetobacter ghanensis
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="USA:Arizona,Tuscon"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589047"
+    /latitude and longitude="32.11 N 110.79 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-01-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895340	ID: 41895340
+
+14: s_125
+Identifiers: BioSample: SAMN41895339; Sample name: G125_1_AcPas; SRA: SRS21743253
+Organism: Acetobacter pasteurianus
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="USA:California,Vacaville"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589046"
+    /latitude and longitude="38.44 N 121.96 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-01-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895339	ID: 41895339
+
+15: s_364
+Identifiers: BioSample: SAMN41895338; Sample name: G364_1_GlOxy; SRA: SRS21743251
+Organism: Gluconobacter oxydans
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="Australia:Victoria,Eltham"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589045"
+    /latitude and longitude="37.72 S 145.16 E"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-03-01T00:00:00"
+    /microbiological culture medium="Carr medium"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895338	ID: 41895338
+
+16: s_275
+Identifiers: BioSample: SAMN41895337; Sample name: G275_2_GlPot; SRA: SRS21743250
+Organism: Gluconobacter potus
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="USA:North Carolina,Durham"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589044"
+    /latitude and longitude="35.98 N 78.9 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-03-01T00:00:00"
+    /microbiological culture medium="Carr medium"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895337	ID: 41895337
+
+17: s_13
+Identifiers: BioSample: SAMN41895336; Sample name: G13_1_AcSen; SRA: SRS21743249
+Organism: Acetobacter senegalensis
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="USA:Pennsylvania,Reedsville"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589043"
+    /latitude and longitude="40.66 N 77.59 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-03-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895336	ID: 41895336
+
+18: s_361
+Identifiers: BioSample: SAMN41895335; Sample name: G361_1_AcSen; SRA: SRS21743247
+Organism: Acetobacter senegalensis
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="Thailand:Nakhon Ratchasima"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589042"
+    /latitude and longitude="14.95 N 102.02 E"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-01-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895335	ID: 41895335
+
+19: s_338
+Identifiers: BioSample: SAMN41895334; Sample name: G338_1_AcFab; SRA: SRS21743246
+Organism: Acetobacter fabarum
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="USA:Washington,Seattle"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589041"
+    /latitude and longitude="47.58 N 122.39 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-01-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895334	ID: 41895334
+
+20: s_11
+Identifiers: BioSample: SAMN41895332; Sample name: G11_1_AcOry; SRA: SRS21743234
+Organism: Acetobacter oryzifermentans
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="USA: Maryland,Bethesda"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589039"
+    /latitude and longitude="38.96 N 77.13 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-01-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895332	ID: 41895332
+
+21: s_275
+Identifiers: BioSample: SAMN41895333; Sample name: G275_1_AcTro; SRA: SRS21743235
+Organism: Acetobacter tropicalis
+Attributes:
+    /strain="Not applicable"
+    /collection site geographic feature="kitchens"
+    /collection date="Not applicable"
+    /broad-scale environmental context="Fermented food"
+    /local-scale environmental context="sourdough starter"
+    /environmental medium="sourdough starter"
+    /food product type="sourdough"
+    /geographic location="USA:North Carolina,Durham"
+    /Interagency Food Safety Analytics Collaboration (IFSAC) category="Plants:Grains-Beans:Grains:Ground:Flour-based product:Doughs"
+    /isolation and growth condition="https://doi.org/10.1101/2024.04.11.589040"
+    /latitude and longitude="35.98 N 78.9 W"
+    /number of replicons="unknown"
+    /reference for biomaterial="https://doi.org/10.1101/2024.04.11.589037"
+    /culture isolation date="2023-01-01T00:00:00"
+    /microbiological culture medium="GYCA"
+Description:
+Keywords: GSC:MIxS;MIGS:6.0
+Accession: SAMN41895333	ID: 41895333
+
+
