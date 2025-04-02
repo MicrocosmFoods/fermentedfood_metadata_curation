@@ -1,31 +1,30 @@
 dataset_name	project_accession	Reference
-KastmanEK_2016		
-MASTER_WP4_CSIC_2		
-PorcellatoD_2016		
-WolfeBE_2014		
-XieM_2019		
-CM_UNINA_FFOOD	PRJNA1206071	
-DecadtH_2024	PRJEB64331	
-FalardeauJ_2023	PRJNA863305	
-FontanaF_2023	PRJNA865096	
-FranciosaI_2021	PRJNA636619	
-GonzalezOrozcoB_2023	PRJNA843464	
-KharnaiorP_2023	PRJNA914873	
-LimaC_2020	PRJNA552479	
-LopezSanchezR_2023	PRJNA648868	
-MagliuloR_2024	PRJNA1084214	
-MotaGutierrezJ_2021	PRJNA627182	
-OlgaP_2019	PRJNA636820	
-OlgaP_2019	PRJNA636837	
-OlgaP_2019	PRJNA636891	
-OlgaP_2019	PRJNA637016	
-OlgaP_2019	PRJNA637018	
-QuijadaN_2022	PRJEB48589	
-SalgadoTS_2021	PRJNA704713	
-ShangpliangH_2023_a	PRJNA914731	
-ShangpliangH_2023_b	PRJNA914730	
-TomarS_2023	PRJNA763767	
-YangC_2021	PRJNA683931	
-YasirM_2022	PRJNA816670	
-YouL_2022	PRJNA687995	
-YuY_2022	PRJNA780248	
+KastmanEK_2016		Kastman, E.K., Kamelamela, N., Norville, J.W., Cosetta, C.M., Dutton, R.J., and Wolfe, B.E. (2016). Biotic Interactions Shape the Ecological Distributions of Staphylococcus Species. MBio 7. 10.1128/mBio.01157-16.		
+PorcellatoD_2016		Porcellato, D., and Skeie, S.B. (2016). Bacterial dynamics and functional analysis of microbial metagenomes during ripening of Dutch-type cheese. Int. Dairy J. 61, 182–188.		
+WolfeBE_2014		Wolfe, B.E., Button, J.E., Santarelli, M., and Dutton, R.J. (2014). Cheese rind communities provide tractable systems for in situ and in vitro studies of microbial diversity. Cell 158, 422–433.		
+XieM_2019		Xie, M., Wu, J., An, F., Yue, X., Tao, D., Wu, R., and Lee, Y. (2019). An integrated metagenomic/metaproteomic investigation of microbiota in dajiang-meju, a traditional fermented soybean product in Northeast China. Food Res. Int. 115, 414–424.		
+CM_UNINA_FFOOD	PRJNA1206071	Carlino, N., Blanco-Míguez, A., Punčochář, M., Mengoni, C., Pinto, F., Tatti, A., Manghi, P., Armanini, F., Avagliano, M., Barcenilla, C., Breselge, S., Cabrera-Rubio, R., Calvete-Torre, I., Coakley, M., Cobo-Díaz, J. F., De Filippis, F., Dey, H., Leech, J., Klaassens, E. S., Knobloch, S., O’Neil, D., Quijada, N. M., Sabater, C., Skírnisdóttir, S., Valentino, V., Walsh, L., MASTER EU Consortium, Asnicar, F., Fackelmann, G., Heidrich, V., Rota Stabelli, O., Pasolli, E., Arendt, E., Rubino, F., Cotter, P. D., Ruiz, L., Ercolini, D., Morrison, S., Marchart, J., Sessitsch, A., and Zannini, E. (2024). A pan-European study of the human gut microbiome reveals links with diet, health, and lifestyle. Cell, 187(13), 5795–5816.e15. https://doi.org/10.1016/j.cell.2024.05.028	
+DecadtH_2024	PRJEB64331	Decadt H, Vermote L, Díaz-Muñoz C, Weckx S, De Vuyst L. Decarboxylase activity of the non-starter lactic acid bacterium Loigolactobacillus rennini gives crack defects in Gouda cheese through the production of γ-aminobutyric acid. Appl Environ Microbiol. 2024 Feb 21;90(2):e0165523. doi: 10.1128/aem.01655-23. 	
+FalardeauJ_2023	PRJNA863305	Falardeau J, Yildiz E, Yan Y, Castellarin SD, Wang S. Microbiome and Physicochemical Features Associated with Differential Listeria monocytogenes Growth in Soft, Surface-Ripened Cheeses. Appl Environ Microbiol. 2023 Apr 26;89(4):e0200422. doi: 10.1128/aem.02004-22.
+FontanaF_2023	PRJNA865096	Fontana F, Longhi G, Alessandri G, Lugli GA, Mancabelli L, Tarracchini C, Viappiani A, Anzalone R, Ventura M, Turroni F, Milani C. Multifactorial Microvariability of the Italian Raw Milk Cheese Microbiota and Implication for Current Regulatory Scheme. mSystems. 2023 Feb 23;8(1):e0106822. doi: 10.1128/msystems.01068-22. 
+FranciosaI_2021	PRJNA636619	Franciosa, I., Ferrocino, I., Giordano, M., Mounier, J., Rantsiou, K., & Cocolin, L. (2021). Specific metagenomic asset drives the spontaneous fermentation of Italian sausages. Food Research International, 144, 110379. https://doi.org/10.1016/j.foodres.2021.110379.
+GonzalezOrozcoB_2023	PRJNA843464	González-Orozco BD, García-Cano I, Escobar-Zepeda A, Jiménez-Flores R, Álvarez VB. Metagenomic analysis and antibacterial activity of kefir microorganisms. J Food Sci. 2023 Jul;88(7):2933-2949. doi: 10.1111/1750-3841.16614.
+KharnaiorP_2023	PRJNA914873	Kharnaior P, Tamang JP. Microbiome and metabolome in home-made fermented soybean foods of India revealed by metagenome-assembled genomes and metabolomics. Int J Food Microbiol. 2023 Dec 16;407:110417. doi: 10.1016/j.ijfoodmicro.2023.110417. 
+LimaC_2020	PRJNA552479	de C Lima CO, Vaz ABM, De Castro GM, Lobo F, Solar R, Rodrigues C, Martins Pinto LR, Vandenberghe L, Pereira G, Miúra da Costa A, Benevides RG, Azevedo V, Trovatti Uetanabaro AP, Soccol CR, Góes-Neto A. Integrating microbial metagenomics and physicochemical parameters and a new perspective on starter culture for fine cocoa fermentation. Food Microbiol. 2021 Feb;93:103608. doi: 10.1016/j.fm.2020.103608
+LopezSanchezR_2023	PRJNA648868	López-Sánchez R, Hernández-Oaxaca D, Escobar-Zepeda A, Ramos Cerrillo B, López-Munguía A, Segovia L. Analysing the dynamics of the bacterial community in pozol, a Mexican fermented corn dough. Microbiology (Reading). 2023 Jul;169(7):001355. doi: 10.1099/mic.0.001355.
+MagliuloR_2024	PRJNA1084214	Magarelli M, Novielli P, De Filippis F, Magliulo R, Di Bitonto P, Diacono D, Bellotti R, Tangaro S. Explainable artificial intelligence and microbiome data for food geographical origin: the Mozzarella di Bufala Campana PDO Case of Study. Front Microbiol. 2024 Jun 3;15:1393243. doi: 10.3389/fmicb.2024.1393243.
+MotaGutierrezJ_2021	PRJNA627182	Mota-Gutierrez J, Ferrocino I, Giordano M, Suarez-Quiroz ML, Gonzalez-Ríos O, Cocolin L. Influence of Taxonomic and Functional Content of Microbial Communities on the Quality of Fermented Cocoa Pulp-Bean Mass. Appl Environ Microbiol. 2021 Jun 25;87(14):e0042521. doi: 10.1128/AEM.00425-21.
+OlgaP_2019	PRJNA636820	Lee I, Barh D, Podolich O, Brenig B, Tiwari S, Azevedo V, Góes-Neto A, Reva O, Kozyrovska N, de Vera JP, Kim BS. Metagenome-Assembled Genome Sequences Obtained from a Reactivated Kombucha Microbial Community Exposed to a Mars-Like Environment outside the International Space Station. Microbiol Resour Announc. 2021 Sep 9;10(36):e0054921. doi: 10.1128/MRA.00549-21.
+OlgaP_2019	PRJNA636837	Lee I, Barh D, Podolich O, Brenig B, Tiwari S, Azevedo V, Góes-Neto A, Reva O, Kozyrovska N, de Vera JP, Kim BS. Metagenome-Assembled Genome Sequences Obtained from a Reactivated Kombucha Microbial Community Exposed to a Mars-Like Environment outside the International Space Station. Microbiol Resour Announc. 2021 Sep 9;10(36):e0054921. doi: 10.1128/MRA.00549-21.
+OlgaP_2019	PRJNA636891	Lee I, Barh D, Podolich O, Brenig B, Tiwari S, Azevedo V, Góes-Neto A, Reva O, Kozyrovska N, de Vera JP, Kim BS. Metagenome-Assembled Genome Sequences Obtained from a Reactivated Kombucha Microbial Community Exposed to a Mars-Like Environment outside the International Space Station. Microbiol Resour Announc. 2021 Sep 9;10(36):e0054921. doi: 10.1128/MRA.00549-21.
+OlgaP_2019	PRJNA637016	Lee I, Barh D, Podolich O, Brenig B, Tiwari S, Azevedo V, Góes-Neto A, Reva O, Kozyrovska N, de Vera JP, Kim BS. Metagenome-Assembled Genome Sequences Obtained from a Reactivated Kombucha Microbial Community Exposed to a Mars-Like Environment outside the International Space Station. Microbiol Resour Announc. 2021 Sep 9;10(36):e0054921. doi: 10.1128/MRA.00549-21.
+OlgaP_2019	PRJNA637018	Lee I, Barh D, Podolich O, Brenig B, Tiwari S, Azevedo V, Góes-Neto A, Reva O, Kozyrovska N, de Vera JP, Kim BS. Metagenome-Assembled Genome Sequences Obtained from a Reactivated Kombucha Microbial Community Exposed to a Mars-Like Environment outside the International Space Station. Microbiol Resour Announc. 2021 Sep 9;10(36):e0054921. doi: 10.1128/MRA.00549-21.
+QuijadaN_2022	PRJEB48589	Quijada NM, Dzieciol M, Schmitz-Esser S, Wagner M, Selberherr E. Metatranscriptomic Analyses Unravel Dynamic Changes in the Microbial and Metabolic Transcriptional Profiles in Artisanal Austrian Hard-Cheeses During Ripening. Front Microbiol. 2022 Mar 1;13:813480. doi: 10.3389/fmicb.2022.813480. 
+SalgadoTS_2021	PRJNA704713	Tenorio-Salgado S, Castelán-Sánchez HG, Dávila-Ramos S, Huerta-Saquero A, Rodríguez-Morales S, Merino-Pérez E, Roa de la Fuente LF, Solis-Pereira SE, Pérez-Rueda E, Lizama-Uc G. Metagenomic analysis and antimicrobial activity of two fermented milk kefir samples. Microbiologyopen. 2021 Mar;10(2):e1183. doi: 10.1002/mbo3.1183.
+ShangpliangH_2023_a	PRJNA914731	Shangpliang HNJ, Tamang JP. Metagenome-assembled genomes for biomarkers of bio-functionalities in Laal dahi, an Indian ethnic fermented milk product. Int J Food Microbiol. 2023 Oct 2;402:110300. doi: 10.1016/j.ijfoodmicro.2023.110300.
+ShangpliangH_2023_b	PRJNA914730	Shangpliang HNJ, Tamang JP. Metagenome-assembled genomes for biomarkers of bio-functionalities in Laal dahi, an Indian ethnic fermented milk product. Int J Food Microbiol. 2023 Oct 2;402:110300. doi: 10.1016/j.ijfoodmicro.2023.110300.
+TomarS_2023	PRJNA763767 Tomar S, Mitra D, Kumar G, Kashyap P, Sharma M, Kumar S, Sridhar K, Pant K. Microbial Diversity and Functional Potential of Keem: A Traditional Starter Culture for Alcoholic Beverage-Application of Next-Generation Amplicon and Shotgun Metagenome Sequences. Mol Biotechnol. 2023 Aug 11. doi: 10.1007/s12033-023-00839-3.	
+YangC_2021	PRJNA683931	Yang, C., You, L., Kwok, L.-Y., Jin, H., Peng, J., Zhao, Z., & Sun, Z. (2021). Strain-level multiomics analysis reveals significant variation in cheeses from different regions. LWT - Food Science and Technology, 151, 112043. https://doi.org/10.1016/j.lwt.2021.112043
+YasirM_2022	PRJNA816670	Muhammad Yasir, Ibrahim A. Al-Zahrani, Fehmida Bibi, Moataz Abd El Ghany, Esam I. Azhar. New insights of bacterial communities in fermented vegetables from shotgun metagenomics and identification of antibiotic resistance genes and probiotic bacteria. Food Research International, Volume 157, 2022, 111190. https://doi.org/10.1016/j.foodres.2022.111190.
+YouL_2022	PRJNA687995	You, L., Yang, C., Jin, H., Kwok, L.-Y., Sun, Z., & Zhang, H. (2022). Metagenomic features of traditional fermented milk products. LWT, 155, 112945. https://doi.org/10.1016/j.lwt.2021.112945
+YuY_2022	PRJNA780248	Yu Y, Li L, Xu Y, Li H, Yu Y, Xu Z. Metagenomics Reveals the Microbial Community Responsible for Producing Biogenic Amines During Mustard [Brassica juncea (L.)] Fermentation. Front Microbiol. 2022 Apr 29;13:824644. doi: 10.3389/fmicb.2022.824644.
