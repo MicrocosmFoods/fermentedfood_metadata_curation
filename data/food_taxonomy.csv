@@ -1,0 +1,260 @@
+sample_description,fermented_food,specific_substrate,substrate_category,general_category,substrate_origin,main_ingredient_group
+meat,sausage,meat,meat,fermented_meat,Animal,Meat
+whey,whey,milk,dairy,fermented_dairy,Animal,Dairy
+cheese_brine,cheese,milk,dairy,fermented_dairy,Animal,Dairy
+cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy
+tea,tea,tea,plant,fermented_beverages,Plant,Vegetables/Fruit
+pulque,pulque,agave,other_plant_based,fermented_beverages,Plant,Vegetables/Fruit
+injera,injera,teff,grains,other_fermented_grains,Plant,Cereal
+salami,salami,meat,meat,fermented_meat,Animal,Meat
+honey,honey,nectar,other_plant_based,other_plant_based_fermentation,Plant,Vegetables/Fruit
+beer,beer,barley,grain,fermented_beverages,Plant,Cereal
+chinese liquor,chinese_liquor,grain,grain,fermented_beverages,Plant,Cereal
+sauerkraut,sauerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+meat,italian_sausage,meat,meat,fermented_meat,Animal,Meat
+kefir,kefir,milk,dairy,fermented_dairy,Animal,Dairy
+perunyaan,perunyaan,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed
+peron namsing,peron_namsing,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed
+peha,peha,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed
+grep-chhurpi,grep-chhurpi,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed
+raw canastra cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy
+raw araxa cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy
+raw serro cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy
+ambriss,ambriss,milk,dairy,fermented_dairy,Animal,Dairy
+labneh,labneh,milk,dairy,fermented_dairy,Animal,Dairy
+serdaleh,cheese,milk,dairy,fermented_dairy,Animal,Dairy
+nixtamalized yellow pea miso,miso,yellow_pea,legumes,other_fermented_legumes,Plant,Legumes/nuts/seed
+swedish vreta pea miso,miso,pea,legumes,other_fermented_legume,Plant,Legumes/nuts/seed
+yellow pea miso,miso,pea,legumes,other_fermented_legume,Plant,Legumes/nuts/seed
+novel miso,miso,legume,legumes,other_fermented_legume,Plant,Legumes/nuts/seed
+soybean,kinema,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed
+sourdough,sourdough,wheat,grains,sourdough,Plant,Cereal
+kvass,kvass,rye,grains,fermented_beverages,Plant,Cereal
+kimchi,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+boza,boza,millet,grains,fermented_beverages,Plant,Cereal
+turnip,turnip,turnip,tuber_root,pickled_fruits_vegetables_roots,Plant,Root
+orange,orange,orange,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+tepache,tepache,pineapple,fruit,fermented_beverages,Plant,Vegetables/Fruit
+ginger_beer,ginger_beer,ginger,rhizome,pickled_fruits_vegetables_roots,Plant,Root
+soybean,tempeh,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed
+cucumber,cucumber,cucumber,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+water_kefir,water_kefir,fruit,fruit,fermented_beverages,Plant,Vegetables/Fruit
+tofu_chili,tofu_chili,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed
+daikon,daikon,daikon,tuber_root,pickled_fruits_vegetables_roots,Plant,Root
+picked_vegetables,pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+brown_rice_amazake,amazake,rice,grains,fermented_beverages,Plant,Cereal
+agousha,agousha,milk,dairy,fermented_dairy,Animal,Dairy
+rostagroekport_voroznyj,cheese,milk,dairy,fermented_dairy,Animal,Dairy
+ruz'a,cheese,milk,dairy,fermented_dairy,Animal,Dairy
+apple_cider_vinegar,vinegar,apple_cider,fruit,vinegar,Plant,Vegetables/Fruit
+garlic,pickle,garlic,tuber_root,pickled_fruits_vegetables_roots,Plant,Root
+dukkah,sauerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+ginger,ginger,ginger,tuber_root,pickled_fruits_vegetables_roots,Plant,Root
+okra,pickle,okra,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+tomato_and_mustards,pickle,tomato_and_mustards,fruits_and_vegetables,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+carrot sticks,carrot_sticks,carrot,tuber_root,pickled_fruits_vegetables_roots,Plant,Root
+yogurt,yogurt,milk,dairy,fermented_dairy,Animal,Dairy
+lemon_and_ginger_gizz,ginger_beer,lemon_ginger,fruit_rhizome,fermented_beverages,Plant,Root
+gari,gari,cassava,tuber_root,fermented_cassava,Plant,Root
+fufu,fufu,cassava,tuber_root,fermented_cassava,Plant,Root
+kunu,kunu,millet,grains,fermented_beverages,Plant,Cereal
+iru,iru,locust_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed
+ogiri,ogiri,melon_seed,seed,other_fermented_seeds,Plant,Legumes/nuts/seed
+ugba,ugba,oil_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed
+ogi,ogi,corn,grains,other_fermented_grains,Plant,Cereal
+wara,cheese,milk,dairy,fermented_dairy,Animal,Dairy
+lafun,lafun,cassava,tuber_root,fermented_cassava,Plant,Root
+pito,pito,millet,grain,fermented_beverages,Plant,Cereal
+otika,otika,sorghum,grains,fermented_beverages,Plant,Cereal
+palm_wine,palm_wine,palm_sap,other_plant_based,fermented_beverages,Plant,Vegetables/Fruit
+nono,nono,milk,dairy,fermented_dairy,Animal,Dairy
+dawa_dawa,dawa_dawa,locust_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed
+kantong,kantong,cassava_kapok_seeds,tuber_root,fermented_cassava,Plant,Root
+zonkom,zonkom,millet,grains,fermented_beverages,Plant,Cereal
+wagashi,cheese,milk,dairy,fermented_dairy,Animal,Dairy
+brukina,brukina,milk,dairy,fermented_dairy,Animal,Dairy
+burukutu,burukutu,sorghum_millet,grain,fermented_beverages,Plant,Cereal
+agadagidi,agadagidi,plantain,fruit,fermented_beverages,Plant,Vegetables/Fruit
+emu,emu,palm_sap,other_plant_based,fermented_beverages,Plant,Vegetables/Fruit
+okpehe,okpehe,locust_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed
+fura,fura,milk,dairy,fermented_dairy,Animal,Dairy
+koko,koko,millet,grains,fermented_beverages,Plant,Cereal
+otiru,otiru,African_yam_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed
+nunu,nunu,milk,dairy,fermented_dairy,Animal,Dairy
+obiolor,obiolor,sorghum_millet,grains,fermented_beverages,Plant,Cereal
+sekete,sekete,corn,grain,fermented_beverages,Plant,Cereal
+ugi,ugi,sorghum,grains,other_fermented_grains,Plant,Cereal
+dolo,dolo,sorghum,grain,fermented_beverages,Plant,Cereal
+massa,massa,rice,grains,other_fermented_grains,Plant,Cereal
+soumbala,soumbala,locust_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed
+mou,mou,cassava,tuber_root,fermented_cassava,Plant,Root
+attieke,attieke,cassava,tuber_root,fermented_cassava,Plant,Root
+cocoa,cocoa,cacao_fruit_pulp_and_seeds,fruit,chocolate,Plant,Vegetables/Fruit
+red_pepper_sauce,pickle,chili_pepper,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+pozol,pozol,corn,grain,fermented_beverages,Plant,Cereal
+chocolate_coating,chocolate,cacao,fruit,chocolate,Plant,Vegetables/Fruit
+water_kefir,water_kefir,fig,fruit,fermented_beverages,Plant,Vegetables/Fruit
+bean paste,kinema,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed
+bean paste,bean_paste,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed
+chilli paste,chilli_paste,chilli,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+coffee,coffee,coffee,fruit,fermented_beverages,Plant,Vegetables/Fruit
+milk kefir,kefir,milk,dairy,fermented_dairy,Animal,Dairy
+kombucha,kombucha,tea_sugar,plant,fermented_beverages,Plant,Vegetables/Fruit
+koumiss,koumiss,milk,dairy,fermented_dairy,Animal,Dairy
+soy sauce,soy_sauce,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed
+wine,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit
+yoghurt,yogurt,milk,dairy,fermented_dairy,Animal,Dairy
+apple cider vinegar,apple_cider_vinegar,apple_cider,fruit,vinegar,Plant,Vegetables/Fruit
+apple juice in fermentation (cider),cider,apple_juice,fruit,fermented_beverages,Plant,Vegetables/Fruit
+banana fruits,banana,banana,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+beer,beer,barley,grains,fermented_beverages,Plant,Cereal
+black cherry,cherry,black_cherry,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+blueberry,blueberry,blueberry,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+cabbage,cabbage,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+cassava sour starch fermentation,cassava,cassava,tuber_root,fermented_cassava,Plant,Root
+chardonnay must,chardonnay_must,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit
+aged cheddar cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy
+cheese product,cheese,milk,dairy,fermented_dairy,Animal,Dairy
+kopanisti cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy
+chicha,chicha,corn,grain,fermented_beverages,Plant,Cereal
+chinese pickle,chinese_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+chinese traditional pickle,chinese_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+"chrysanthemum, oze national park",chrysanthemum,chrysanthemum,flower,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+cider,cider,apple,fruit,fermented_beverages,Plant,Vegetables/Fruit
+cocoa bean heap fermentation,chocolate,cacao,fruit,chocolate,Plant,Vegetables/Fruit
+cocoa fermentation,chocolate,cacao,fruit,chocolate,Plant,Vegetables/Fruit
+spontaneous cocoa bean fermentations,chocolate,cacao,fruit,chocolate,Plant,Vegetables/Fruit
+"cocoa bean fermentation, ghana",chocolate,cacao,fruit,chocolate,Plant,Vegetables/Fruit
+dairy products,other_fermented_dairy,milk,dairy,fermented_dairy,Animal,Dairy
+ethiopian coffee fermentation,coffee,coffee,fruit,fermented_beverages,Plant,Vegetables/Fruit
+fermented  brine used for stinky tofu production,stinky_tofu_brine,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed
+fermented brine used for stinky tofu production,stinky_tofu_brine,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed
+fermented cane molasses at alcohol plants,molasses,sugar_cane,vegetable,other_plant_based_fermentation,Plant,Vegetables/Fruit
+fermented cassava,cassava,cassava,tuber_root,fermented_cassava,Plant,Root
+fermented dairy beverage,other_fermented_dairy,milk,dairy,fermented_dairy,Animal,Dairy
+fermented fish,fermented_fish,fish,seafood,fermented_seafood,Animal,Fish
+fermented fruit,pickle,fruit,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+fermented pepper,pickle,pepper,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+fermented radish,pickle,radish,tuber_root,pickled_fruits_vegetables_roots,Plant,Root
+fermented soybean meal,fermented_soybean_meal,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed
+fermented tea leaves (miang),tea,tea,plant,fermented_beverages,Plant,Vegetables/Fruit
+fermented vegetables,pickle,tea,plant,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+fermented vegetables,pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+fermented vinegar broth,broth,broth,meat,other_fermented_meat,Animal,Meat
+fermented wheat flour,sourdough,wheat,grains,sourdough,Plant,Cereal
+fermenting apple juice,cider,apple,fruit,fermented_beverages,Plant,Vegetables/Fruit
+fig,wine,fig,fruit,fermented_beverages,Plant,Vegetables/Fruit
+"fu-tsai, a traditional fermented mustard product",pickle,mustard,plant,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+"fu-tsai, a traditional fermented mustard product",pickle,mustard,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+gochujang,gochujang,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed
+isolated organism,cider,fruit,fruit,fermented_beverages,Plant,Vegetables/Fruit
+jeotgal,jeotgal,seafood,seafood,fermented_seafood,Animal,Fish
+water kefir,water_kefir,sugar,sugar,fermented_beverages,Plant,Vegetables/Fruit
+kefir grain,kefir,milk,dairy,fermented_dairy,Animal,Dairy
+cabbage kimchi,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+scallion kimchi,kimchi,scallion,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+brown algae kimchi,kimchi,wakame,seaweed,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+kombucha,kombucha,sugar,sugar,fermented_beverages,Plant,Vegetables/Fruit
+kombucha tea,kombucha,sugar,sugar,fermented_beverages,Plant,Vegetables/Fruit
+"scoby, kombucha tea",kombucha,sugar,sugar,fermented_beverages,Plant,Vegetables/Fruit
+lupine-based moromi fermentation,moromi,lupine,legumes,other_fermented_legume,Plant,Legumes/nuts/seed
+makgeolli,wine,rice,grains,fermented_beverages,Plant,Cereal
+meju,meju,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed
+millet,millet,grains,grains,grains,Plant,Cereal
+must of bobal grape variety,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit
+must of grape,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit
+naturally fermented tofu whey,tofu_whey,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed
+non-salted pickle solution used in production of sunki,pickle,turnip_leaves,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+nuruk,starter,wheat,grains,sourdough,Plant,Cereal
+pickle,pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+pork salami,salami,meat,meat,fermented_meat,Animal,Meat
+poultry meat,salami,meat,meat,fermented_meat,Animal,Meat
+poultry salami,salami,meat,meat,fermented_meat,Animal,Meat
+quick vinegar,vinegar,wine,fruit,vinegar,Plant,Vegetables/Fruit
+fermented rice grain,fermented_rice_grain,rice,grains,other_fermented_grains,Plant,Cereal
+rice sourdough,sourdough,rice,grains,sourdough,Plant,Cereal
+rice bran paste,nuka-doko,rice,grains,pickled_fruits_vegetables_roots,Plant,Cereal
+salted beans,salted_beans,legume,legumes,other_fermented_legume,Plant,Legumes/nuts/seed
+sausage,salami,meat,meat,fermented_meat,Animal,Meat
+fermented sausages,sausage,meat,meat,fermented_meat,Animal,Meat
+dry naturally fermented greek sausage,sausage,meat,meat,fermented_meat,Animal,Meat
+"senmaizuke, a japanese pickle",pickle,turnip,tuber_root,pickled_fruits_vegetables_roots,Plant,Root
+shochu mash,shochu_mash,rice,grains,fermented_beverages,Plant,Cereal
+sour grain mash,sour_grain_mash,barley,grains,fermented_beverages,Plant,Cereal
+wheat sourdough,sourdough,wheat,grains,sourdough,Plant,Cereal
+artisanal wheat sourdough,sourdough,wheat,grains,sourdough,Plant,Cereal
+chinese traditional pickle and sourdough,sourdough,wheat,grain,sourdough,Plant,Cereal
+rye-bran sourdough,sourdough,rye,grains,sourdough,Plant,Cereal
+rye sourdough,sourdough,rye,grains,sourdough,Plant,Cereal
+stinky tofu brine,stinky_tofu_brine,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed
+"suan tsai, fermented vegetables",pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+"sunki, a japanese traditional pickle",pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+tempeh,tempeh,tea,plant,fermented_beverages,Plant,Vegetables/Fruit
+tibicos,water_kefir,sugar,sugar,fermented_beverages,Plant,Vegetables/Fruit
+traditional fermented bamboo shoots,pickle,bamboo_shoots,other_plant_based,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+traditional vietnamese nem chua,salami,meat,meat,fermented_meat,Animal,Meat
+vinegar,vinegar,wine,fruit,vinegar,Plant,Vegetables/Fruit
+commercial grape wine undergoing a sluggish/stuck alcoholic fermentation,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit
+bobal wine,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit
+partially fermented wine,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit
+palm wine,wine,palm_sap,other_plant_based,fermented_beverages,Plant,Vegetables/Fruit
+traditional yogurt,yogurt,milk,dairy,fermented_dairy,Animal,Dairy
+"cheese, blue cheese",cheese,milk,dairy,fermented_dairy,Animal,Dairy
+"cheese, tomme",cheese,milk,dairy,fermented_dairy,Animal,Dairy
+"cheese, stretched-curd cheese",cheese,milk,dairy,fermented_dairy,Animal,Dairy
+"cheese, cheddar",cheese,milk,dairy,fermented_dairy,Animal,Dairy
+"cheese, hard cheese",cheese,milk,dairy,fermented_dairy,Animal,Dairy
+"cheese, smoked cheese",cheese,milk,dairy,fermented_dairy,Animal,Dairy
+"cheese, brie",cheese,milk,dairy,fermented_dairy,Animal,Dairy
+"cheese, mild",cheese,milk,dairy,fermented_dairy,Animal,Dairy
+parmesan cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy
+pink continental type cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy
+dietary supplement,dietary_supplement,,supplement,probiotics,Plant,Microbial
+probiotics,probiotics,unknown,probiotics,probiotics,Microbial,Microbial
+coffee,coffee,coffee_berries,fruit,fermented_beverages,Plant,Vegetables/Fruit
+jalebi,jalebi,wheat,grain,fermented_grain,Plant,Cereal
+soybean,soy_sauce,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed
+alimentari aurora red kraut brine,sauerkraut_brine,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+alimentari aurora red kraut solid,sauerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+burmese natto,natto,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed
+larger cheese wheel reiss,cheese,milk,dairy,fermented_dairy,Animal,Dairy
+pink small cheese reiss,cheese,milk,dairy,fermented_dairy,Animal,Dairy
+cinsoy s-21-v1,soy_sauce,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed
+cinsoy tamari mother,soy_sauce,soybean,soybean,fermented_soybeans,Plant,Legumes/nuts/seed
+curtido 96h,curtido,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+daikon kasuzuke,kasuzuke,daikon,tuber_root,pickled_fruits_vegetables_roots,Plant,Root
+dawadawa,dawa_dawa,locust_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed
+dofu mold,hairy_tofu,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed
+furu #2,furu,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed
+goat kefir 60h,kefir,milk,dairy,fermented_dairy,Animal,Dairy
+queens water kimchi,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+potato kimchi,kimchi,potato,tuber_root,pickled_fruits_vegetables_roots,Plant,Root
+volcano kimchi smokeshow,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+kimchi brine 48h,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+lacto elderberries,pickle,elderberries,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+mad ange pdc,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit
+queens sf lacto ferm 4% yellow peach 8/26/21,pickle,queens_sf_lacto_ferm_4%_yellow_peach_8_26_21,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+queens sf lacto ferm serrano,pickle,queens_sf_lacto_ferm_serrano,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+queens sf mukeunji,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+wild sauerkraut 96h,sauerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+red sauerkraut 96h,saerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+red sauerkraut 21d,saerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+shoyu,soy_sauce,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed
+stagiaire sb cider,cider,apple,fruit,fermented_beverages,Plant,Vegetables/Fruit
+tempeh 0h,tempeh,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed
+viili 48h,yogurt,milk,dairy,fermented_dairy,Animal,Dairy
+keem,keem,grain,grain,fermented_beverages,Plant,Cereal
+alcohol fermentation starter,wine,rice,grains,fermented_beverages,Plant,Cereal
+fermented seafoods,fermented_seafoods,seafood,seafood,fermented_seafood,Animal,Fish
+sake,sake,rice,grains,fermented_beverages,Plant,Cereal
+soybean,dajiang-meju,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed
+laban,laban,milk,dairy,fermented_dairy,Animal,Dairy
+bolivian pickle,bolivian_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+greek pickle,greek_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+hijazi pickle,hijazi_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+indan pickle,indian_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+papaya pickle,papaya_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+onion pickle,onion_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+bolivan pickle,bolivan_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit
+mustard leaf,mustard_leaf,mustard,vegetable,fermented_vegetable,Plant,Vegetables/Fruit
+skate_fish,hongeo,skate,seafood,fermented_seafood,Animal,Fish
