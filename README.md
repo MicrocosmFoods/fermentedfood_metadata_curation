@@ -6,6 +6,10 @@ The main items in the repository are:
 
 Parts of the data curation were done manually. This is reflected in notes within the data wrangling notebook. 
 
-## food taxonomy
+## Food taxonomy
 Another part of the work was to reorganize the food taxonomy columns. **This was primarily done manually** <br>
+The notebook was used to splice the data and reduce the rows to only the unique vlaues. <br>
+On top of the current column reorganization, we added additional information columns depicting the main fermentation outputs as well as some of the fermentation conditions. <br>
+Notes on the manual work are available in data/Food taxonomy notes.md.
+
 
