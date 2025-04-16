@@ -28,8 +28,8 @@ These inlclude:
 * What is the level of proteolysis/lipolysis in the product - fermentation makes food more digestible by degrading complex compounds in to simple ones. 
 * Are there additional ingredients in the food - salt, enzymes, etc.
 * Is fermentation mesophilic or thermophilic
-* Is there additional aging time and at what temperature. In many food items ferementation is split into short (primary) fermentation, and secondary long fermentation. 
-Notes on the process can be found in data/Food taxonomy notes.md
+* Is there additional aging time and at what temperature. In many food items ferementation is split into short (primary) fermentation, and secondary long fermentation. <br>
+Notes on the process can be found in data/Food taxonomy notes.md <br>
 **Work on the food taxonomy table was done manually**
 
 
