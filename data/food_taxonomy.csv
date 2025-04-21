@@ -1,4 +1,4 @@
-sample_description,fermented_food,specific_substrate,substrate_category,general_category,substrate_origin,main_ingredient_group,main_ingredient,food_name,consistency,main_ferment,acid_type,acid_level,alcohol_lovel,protein_degradation,fat_degradation,added_ingredients,fermentation_temp,aging_time,agin_temp
+sample_description,fermented_food,specific_substrate,substrate_category,general_category,level1_substrate_origin,level2_main_ingredient_group,main_ingredient,level3_food_name,consistency,main_ferment,acid_type,acid_level,alcohol_lovel,protein_degradation,fat_degradation,added_ingredients,fermentation_temp,aging_time,agin_temp
 agousha,agousha,milk,dairy,fermented_dairy,Animal,Dairy,milk,agousha,liquid,acid,lactic,medium,none,none,none,none,mesophilic,none,none
 ambriss,ambriss,milk,dairy,fermented_dairy,Animal,Dairy,milk goat,ambriss,cream,acid,lactic,medium,none,low,none,salt,mesophilic,20 days,ambient
 "cheese, hard cheese",cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,"cheese, hard",solid,acid; amino acids,lactic,medium,none,high,medium,salt; rennet,mesophilic,>6 mmonths,cold
