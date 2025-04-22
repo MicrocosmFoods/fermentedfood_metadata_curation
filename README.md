@@ -7,7 +7,8 @@ Are goals are to:
 4. Re-organize the columns for food taxonomy and process information.
 
 ## The main items in the repository are:
-* data/dataset.csv - the updated and curated metadata table 
+* data/Food_MAGs_curated_metadata_250421_corrected.csv - the updated and curated metadata table
+* data/Food_MAGs_curated_metadata_250421_corrected_merged_final.csv - full metadata including food taxonomy
 * data_wrangling.ipynb - the notebook used to clean and update the metadata.
 * Files used for the curation of the table and intermediate files are located in data/data_sources.
 * food_taxonomy.ipynb - a notebook used for the initial splicing and redundancy removal for the dataset columns about food taxonomy
