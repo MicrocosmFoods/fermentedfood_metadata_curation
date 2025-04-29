@@ -39,7 +39,7 @@ yoghurt,yogurt,milk,dairy,fermented_dairy,Animal,Dairy,milk,yogurt,yogurt,liquid
 yogurt,yogurt,milk,dairy,fermented_dairy,Animal,Dairy,milk,yogurt,yogurt,liquid,acid; amino acids,lactic,medium,none,low,none,none,thermophilic,none,none
 ambriss,ambriss,milk,dairy,fermented_dairy,Animal,Dairy,milk goat,fresh cheese,ambriss,cream,acid,lactic,medium,none,low,none,salt,mesophilic,20 days,ambient
 serdaleh,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk goat,fresh cheese,cheese serdaleh,cream,acid,lactic,medium,none,low,none,salt,mesophilic,20 days,ambient
-goat kefir 60h,kefir,milk,dairy,fermented_dairy,Animal,Dairy,milk goat,alcoholic dairy beverage,kefir,liquid,acid; alcohol; amino acids,lactic,medium,low,low,none,none,mesophilic,none,none
+goat kefir 60h,kefir,milk,dairy,fermented_dairy,Animal,Dairy,milk goat,dairy beverage,kefir,liquid,acid; alcohol; amino acids,lactic,medium,low,low,none,none,mesophilic,none,none
 koumiss,koumiss,milk,dairy,fermented_dairy,Animal,Dairy,milk horse,alcoholic dairy beverage,koumiss,liquid,acid; alcohol; amino acids,lactic,medium,low,low,none,none,mesophilic,none,none
 fermented fish,fermented_fish,fish,seafood,fermented_seafood,Animal,Fish,fish,seafood,fish fermented,solid,amino acids; acid; amines,lactic,low,none,high,medium,salt,mesophilic,>2 weeks,cold
 jeotgal,jeotgal,seafood,seafood,fermented_seafood,Animal,Fish,seafood,seafood,jeotgal,solid,amino acids; acid; amines,lactic,low,none,high,high,salt; spices,mesophilic,>2 months,ambient
