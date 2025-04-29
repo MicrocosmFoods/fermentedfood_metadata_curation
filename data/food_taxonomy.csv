@@ -1,258 +1,258 @@
-sample_description,fermented_food,specific_substrate,substrate_category,general_category,level1_substrate_origin,level2_main_ingredient_group,main_ingredient,level3_food_name,consistency,main_ferment,acid_type,acid_level,alcohol_lovel,protein_degradation,fat_degradation,added_ingredients,fermentation_temp,aging_time,agin_temp
-agousha,agousha,milk,dairy,fermented_dairy,Animal,Dairy,milk,agousha,liquid,acid,lactic,medium,none,none,none,none,mesophilic,none,none
-ambriss,ambriss,milk,dairy,fermented_dairy,Animal,Dairy,milk goat,ambriss,cream,acid,lactic,medium,none,low,none,salt,mesophilic,20 days,ambient
-"cheese, hard cheese",cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,"cheese, hard",solid,acid; amino acids,lactic,medium,none,high,medium,salt; rennet,mesophilic,>6 mmonths,cold
-"cheese, mild",cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
-"cheese, smoked cheese",cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
-"cheese, stretched-curd cheese",cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,"cheese, curd",solid,acid; amino acids,lactic,medium,none,low,none,salt; rennet,mesophilic,none,cold
-larger cheese wheel reiss,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
-cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese ,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
-cheese product,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese ,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
-raw araxa cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese araxa,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
-"cheese, blue cheese",cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese blue,solid,acid; amino acids,lactic,medium,none,medium,high,salt; rennet,mesophilic,>1 month,cold
-"cheese, brie",cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese brie,solid,acid; amino acids,lactic,medium,none,high,medium,salt; rennet,mesophilic,1-1.5 months,cold
-cheese_brine,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese brine,solid,acid; amino acids,lactic,medium,none,high,medium,salt; rennet,mesophilic,1-1.5 months,cold
-raw canastra cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese canastra,solid,acid; amino acids,lactic,medium,none,high,medium,salt; rennet,mesophilic,>1 month,cold
-aged cheddar cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese cheddar,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
-"cheese, cheddar",cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese cheddar,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
-pink continental type cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese continental pink,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
-kopanisti cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese kopanisti,solid,acid; amino acids,lactic,medium,none,high,high,salt; rennet,mesophilic,1.1.5 months,cold
-parmesan cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese parmesan,solid,acid; amino acids,lactic,medium,none,high,medium,salt; rennet,mesophilic,>6 mmonths,cold
-pink small cheese reiss,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese pink,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
-rostagroekport_voroznyj,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese russian,cream,acid; amino acids,lactic,medium,none,low,none,salt,mesophilic,none,none
-ruz'a,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese ruz'a,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
-serdaleh,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk goat,cheese serdaleh,cream,acid,lactic,medium,none,low,none,salt,mesophilic,20 days,ambient
-raw serro cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese serro,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
-dairy products,other_fermented_dairy,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese toma,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>2 months,cold
-"cheese, tomme",cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese tomme,solid,acid; amino acids,lactic,medium,none,low,medium,salt; rennet,mesophilic,>1 month,cold
-wagashi,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese wagashi,solid,none,none,medium,none,none,none,salt; plant extract,70C,none,none
-wara,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese wara,solid,none,none,medium,none,none,none,salt; plant extract,70C,none,none
-fura,fura,milk,dairy,fermented_dairy,Plant,Cereal,millet,fura,solid,acid,lactic,low,none,none,none,spices,mesophilic,none,none
-kefir,kefir,milk,dairy,fermented_dairy,Animal,Dairy,milk,kefir,liquid,acid; alcohol; amino acids,lactic,medium,low,low,none,none,mesophilic,none,none
-milk kefir,kefir,milk,dairy,fermented_dairy,Animal,Dairy,milk,kefir,liquid,acid; alcohol; amino acids,lactic,medium,low,low,none,none,mesophilic,none,none
-laban,laban,milk,dairy,fermented_dairy,Animal,Dairy,milk,laban,cream,acid,lactic,medium,none,low,none,salt,mesophilic,20 days,ambient
-labneh,labneh,milk,dairy,fermented_dairy,Animal,Dairy,milk,labneh,cream,acid,lactic,medium,none,low,none,salt,mesophilic,20 days,ambient
-fermented dairy beverage,other_fermented_dairy,milk,dairy,fermented_dairy,Animal,Dairy,milk,milk fermented,liquid,acid,lactic,medium,none,low,none,none,mesophilic,none,none
-nono,nono,milk,dairy,fermented_dairy,Animal,Dairy,milk,nono,liquid,acid,lactic,medium,none,low,none,none,mesophilic,none,none
-nunu,nunu,milk,dairy,fermented_dairy,Animal,Dairy,milk,nunu,liquid,acid,lactic,medium,none,low,none,none,mesophilic,none,none
-viili 48h,yogurt,milk,dairy,fermented_dairy,Animal,Dairy,milk,viili,cream,acid,lactic,medium,none,low,none,none,mesophilic,none,none
-whey,whey,milk,dairy,fermented_dairy,Animal,Dairy,milk,whey,liquid,acid,lactic,low,none,none,none,none,mesophilic,none,none
-traditional yogurt,yogurt,milk,dairy,fermented_dairy,Animal,Dairy,milk,yogurt,liquid,acid; amino acids,lactic,medium,none,low,none,none,thermophilic,none,none
-yoghurt,yogurt,milk,dairy,fermented_dairy,Animal,Dairy,milk,yogurt,liquid,acid; amino acids,lactic,medium,none,low,none,none,thermophilic,none,none
-yogurt,yogurt,milk,dairy,fermented_dairy,Animal,Dairy,milk,yogurt,liquid,acid; amino acids,lactic,medium,none,low,none,none,thermophilic,none,none
-goat kefir 60h,kefir,milk,dairy,fermented_dairy,Animal,Dairy,milk goat,kefir,liquid,acid; alcohol; amino acids,lactic,medium,low,low,none,none,mesophilic,none,none
-koumiss,koumiss,milk,dairy,fermented_dairy,Animal,Dairy,milk horse,koumiss,liquid,acid; alcohol; amino acids,lactic,medium,low,low,none,none,mesophilic,none,none
-fermented fish,fermented_fish,fish,seafood,fermented_seafood,Animal,Fish,fish,fish fermented,solid,amino acids; acid; amines,lactic,low,none,high,medium,salt,mesophilic,>2 weeks,cold
-jeotgal,jeotgal,seafood,seafood,fermented_seafood,Animal,Fish,seafood,jeotgal,solid,amino acids; acid; amines,lactic,low,none,high,high,salt; spices,mesophilic,>2 months,ambient
-fermented seafoods,fermented_seafoods,seafood,seafood,fermented_seafood,Animal,Fish,seafood,seafood fermented,solid,amino acids; acid; amines,lactic,low,none,high,medium,salt,mesophilic,>2 weeks,cold
-skate_fish,hongeo,skate,seafood,fermented_seafood,Animal,Fish,skate,hongeo,solid,ammonia; amino acids,mixed,minimal,none,high,medium,salt,psychrophilic,1 month,cold
-poultry meat,salami,meat,meat,fermented_meat,Animal,Meat,chicken,salami chicken,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
-poultry salami,salami,meat,meat,fermented_meat,Animal,Meat,chicken,salami chicken,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
-traditional vietnamese nem chua,salami,meat,meat,fermented_meat,Animal,Meat,pork,nem chua,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; Glucono Delta-Lactone; antioxidant; emulsifiers/binders,mesophilic,1-3 days,ambient
-salami,salami,meat,meat,fermented_meat,Animal,Meat,pork,salami,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
-sausage,salami,meat,meat,fermented_meat,Animal,Meat,pork,salami,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
-pork salami,salami,meat,meat,fermented_meat,Animal,Meat,pork,salami pork,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
-dry naturally fermented greek sausage,sausage,meat,meat,fermented_meat,Animal,Meat,pork,sausage greek,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
-meat,italian_sausage,meat,meat,fermented_meat,Animal,Meat,pork,sausage italian,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
-fermented sausages,sausage,meat,meat,fermented_meat,Animal,Meat,pork/beef,sausage,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
-meat,sausage,meat,meat,fermented_meat,Animal,Meat,pork/beef,sausage,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
-kefir grain,kefir,milk,dairy,fermented_dairy,Microbial,Microbial,kefir grain,kefir grain,solid,none,none,none,none,none,none,none,none,none,none
-dietary supplement,dietary_supplement,,supplement,probiotics,Microbial,Microbial,microbes,probiotics,powder,none,none,none,none,none,none,none,none,none,none
-probiotics,probiotics,unknown,probiotics,probiotics,Microbial,Microbial,microbes,probiotics,powder,none,none,none,none,none,none,none,none,none,none
-beer,beer,barley,grain,fermented_beverages,Plant,Cereal,barley,beer,liquid,alcohol,no,none,medium,none,none,hops,mesophilic,weeks to months,cold
-beer,beer,barley,grains,fermented_beverages,Plant,Cereal,barley,beer,liquid,alcohol,no,none,medium,none,none,hops,mesophilic,weeks to months,cold
-keem,keem,grain,grain,fermented_beverages,Plant,Cereal,barley,keem,solid,none,none,none,none,none,none,none,none,none,none
-sour grain mash,sour_grain_mash,barley,grains,fermented_beverages,Plant,Cereal,barley,sour grain mash,porridge,acid,lactic,medium,none,none,none,none,none,none,none
-chicha,chicha,corn,grain,fermented_beverages,Plant,Cereal,corn,chicha,liquid,alcohol; acid,lactic,high,medium,none,none,salivary enzymes,mesophilic,none,none
-ogi,ogi,corn,grains,other_fermented_grains,Plant,Cereal,corn,ogi,porridge,acid,mixed,high,none,none,none,none,mesophilic,none,none
-pozol,pozol,corn,grain,fermented_beverages,Plant,Cereal,corn,pozol,liquid,acid,lactic,medium,none,low,none,limewater,mesophilic,up to 15 days,ambient
-sekete,sekete,corn,grain,fermented_beverages,Plant,Cereal,corn,sekete,liquid,acid; alcohol; amino acids,lactic,high,low,medium,none,none,mesophilic,none,none
-boza,boza,millet,grains,fermented_beverages,Plant,Cereal,millet,boza,liquid,acid; alcohol; amino acids,mixed,high,low,medium,none,none,mesophilic,none,none
-koko,koko,millet,grains,fermented_beverages,Plant,Cereal,millet,koko,porridge,acid; alcohol; amino acids,lactic,high,none,low,none,none,mesophilic,none,none
-kunu,kunu,millet,grains,fermented_beverages,Plant,Cereal,millet,kunu,liquid,acid,lactic,medium,none,none,none,spices,mesophilic,none,none
-millet,millet,grains,grains,grains,Plant,Cereal,millet,millet fermented,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
-pito,pito,millet,grain,fermented_beverages,Plant,Cereal,millet,pito,liquid,acid; alcohol; amino acids,lactic,high,low,low,none,none,mesophilic,none,none
-zonkom,zonkom,millet,grains,fermented_beverages,Plant,Cereal,millet,zonkom,liquid,acid,mixed,high,none,low,none,spices,mesophilic,none,none
-brukina - millet with fermented milk,brukina,milk,dairy,fermented_dairy,Plant,Cereal,millet/milk,brukina,liquid,acid,lactic,medium,none,low,low,none,mesophilic,none,none
-brown_rice_amazake,amazake,rice,grains,fermented_beverages,Plant,Cereal,rice,amazake,porridge,acid; amino acids,lactic,medium,none,medium,low,none,thermophilic,none,none
-makgeolli,wine,rice,grains,fermented_beverages,Plant,Cereal,rice,makgeolli,liquid,alcohol; acid,lactic,medium,high,medium,low,none,mesophilic,none,none
-massa,massa,rice,grains,other_fermented_grains,Plant,Cereal,rice,massa,solid,acid; alcohol,lactic,medium,low,low,none,none,mesophilic,none,none
-rice bran paste,nuka-doko,rice,grains,pickled_fruits_vegetables_roots,Plant,Cereal,rice,nuka-doko,paste; grainy,acid,lactic,medium,none,low,none,salt; spices; kombu,mesophilic,20 days,ambient
-fermented rice grain,fermented_rice_grain,rice,grains,other_fermented_grains,Plant,Cereal,rice,rice fermented,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
-sake,sake,rice,grains,fermented_beverages,Plant,Cereal,rice,sake,liquid,alchol; acid,lactic,medium,high,medium,none,none,mesophilic,>6 months,cold
-shochu mash,shochu_mash,rice,grains,fermented_beverages,Plant,Cereal,rice,shochu mash,slurry,alcohol; acid,citric,medium,high,medium,low,none,mesophilic,none,none
-rice sourdough,sourdough,rice,grains,sourdough,Plant,Cereal,rice,sourdough rice,solid,acid,mixed,medium,none,medium,low,salt,mesophilic,none,none
-alcohol fermentation starter,wine,rice,grains,fermented_beverages,Plant,Cereal,rice,fermentation starter,none,none,none,none,none,none,none,none,none,none,none
-kvass,kvass,rye,grains,fermented_beverages,Plant,Cereal,rye,kvass,liquid,acid; alcohol,lactic,medium,low,low,none,salt,mesophilic,none,none
-rye sourdough,sourdough,rye,grains,sourdough,Plant,Cereal,rye,sourdough rye,solid,acid,mixed,medium,none,medium,low,salt,mesophilic,none,none
-rye-bran sourdough,sourdough,rye,grains,sourdough,Plant,Cereal,rye,sourdough rye,solid,acid,mixed,medium,none,medium,low,salt,mesophilic,none,none
-dolo,dolo,sorghum,grain,fermented_beverages,Plant,Cereal,sorghum,dolo,liquid,alcohol; acid,lactic,medium,medium,low,none,plan extracts,mesophilic,none,none
-chinese liquor,chinese_liquor,grain,grain,fermented_beverages,Plant,Cereal,sorghum,liquir chinese,liquid,alcohol,unknown,unknown,high,unknown,unknown,unknown,unknown,unknown,unknown
-otika,otika,sorghum,grains,fermented_beverages,Plant,Cereal,sorghum,otika,liquid,alcohol; acid,lactic,medium,medium,low,none,plan extracts,mesophilic,none,none
-ugi,ugi,sorghum,grains,other_fermented_grains,Plant,Cereal,sorghum,ugi,liquid,acid,lactic,medium,none,low,none,none,mesophilic,none,none
-burukutu,burukutu,sorghum_millet,grain,fermented_beverages,Plant,Cereal,sorghum/millet,burukutu,liquid,alcohol; acid,lactic,high,medium,medium,low,none,mesophilic,none,none
-obiolor,obiolor,sorghum_millet,grains,fermented_beverages,Plant,Cereal,sorghum/millet,obiolor,liquid,acid,lactic,medium,none,low,none,none,mesophilic,none,none
-injera,injera,teff,grains,other_fermented_grains,Plant,Cereal,teff,injera,spongy,acid,lactic,high,none,low,none,none,mesophilic,none,none
-jalebi,jalebi,wheat,grain,fermented_grain,Plant,Cereal,wheat,jalebi,solid,acid,lactic,medium,none,low,none,baking soda,mesophilic,none,none
-nuruk,starter,wheat,grains,sourdough,Plant,Cereal,wheat,nuruk,solid,none,none,none,none,none,none,none,mesophilic,none,none
-artisanal wheat sourdough,sourdough,wheat,grains,sourdough,Plant,Cereal,wheat,sourdough,solid,acid,mixed,medium,none,medium,low,salt,mesophilic,none,none
-chinese traditional pickle and sourdough,sourdough,wheat,grain,sourdough,Plant,Cereal,wheat,sourdough,solid,acid,mixed,medium,none,medium,low,salt,mesophilic,none,none
-fermented wheat flour,sourdough,wheat,grains,sourdough,Plant,Cereal,wheat,sourdough,solid,acid,mixed,medium,none,medium,low,salt,mesophilic,none,none
-sourdough,sourdough,wheat,grains,sourdough,Plant,Cereal,wheat,sourdough,solid,acid,mixed,medium,none,medium,low,salt,mesophilic,none,none
-wheat sourdough,sourdough,wheat,grains,sourdough,Plant,Cereal,wheat,sourdough,solid,acid,mixed,medium,none,medium,low,salt,mesophilic,none,none
-otiru,otiru,African_yam_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed,African yam bean seeds,otiru,paste,ammonia; amino acids; acid,lactic,medium,none,high,low,none,mesophilic,none,none
-kantong,kantong,cassava_kapok_seeds,tuber_root,fermented_cassava,Plant,Legumes/nuts/seed,kapok seeds,kantong,paste,acid; amino acids,lactic,medium,none,high,none,cassava flour,mesophilic,none,none
-dawadawa,dawa_dawa,locust_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed,locust bean,dawadawa,paste,ammonia; amino acids,lactic,none,none,high,low,wood ash,mesophilic,none,none
-iru,iru,locust_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed,locust bean,iru,paste,ammonia; amino acids,lactic,none,none,high,low,wood ash,mesophilic,none,none
-okpehe,okpehe,locust_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed,Prosopis africana seeds,okpehe,paste,ammonia; amino acids,lactic,none,none,high,low,wood ash,mesophilic,few days,ambient
-soumbala,soumbala,locust_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed,locust bean,soumbala,paste,ammonia; amino acids,lactic,none,none,high,low,wood ash,mesophilic,none,none
-lupine-based moromi fermentation,moromi,lupine,legumes,other_fermented_legume,Plant,Legumes/nuts/seed,lupine,moromi,slurry,acid; amino acids,lactic,medium,none,high,low,salt,mesophilic,up to 6 months,ambient
-ogiri,ogiri,melon_seed,seed,other_fermented_seeds,Plant,Legumes/nuts/seed,melon seed,ogiri,paste,ammonia; amino acids,lactic,low,none,high,medium,wood ash,mesophilic,none,none
-bean paste,bean_paste,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,bean paste,paste,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
-soybean,dajiang-meju,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,dajiang-meju,paste,amino acids; acid,lactic,low,none,high,low,wheat flour,mesophilic,>1 month,ambient
-furu #2,furu,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,furu,gel,amino acids; acid; ammonia,lactic,low,low,high,medium,rice wine; salt; spices,mesophilic,>1 month,ambient
-gochujang,gochujang,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,gochujang,paste,acid; alcohol; amino acids,lactic,medium,low,high,low,glutinous rice; meju; salt; chili powder,mesophilic,>1 month,ambient
-grep-chhurpi,grep-chhurpi,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,grep-chhurpi,solid,amino acids; ammonia; acid,lactic,alkaline,none,high,low,none,mesophilic,days,ambient
-bean paste,kinema,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,kinema,solid,amino acids; ammonia; PGA,none,alkaline,none,high,low,wood ash,mesophilic,none,none
-meju,meju,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,meju,solid,acid; amino acids; ammonia; glycerol; sugar,lactic,alkaline,none,high,medium,none,mesophilic,1-2 months,ambient
-novel miso,miso,legume,legumes,other_fermented_legume,Plant,Legumes/nuts/seed,soybean,miso,paste,amino acids; sugar; acid; alcohol,lactic,alkaline,low,high,low,salt; koji,mesophilic,>1 month,ambient
-burmese natto,natto,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,natto,solid,amino acids; ammonia; PGA,lactic,alkaline,none,high,low,none,mesophilic,days,cold
-peha,peha,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,peha,solid,amino acids; ammonia; PGA,lactic,alkaline,none,high,low,none,mesophilic,none,none
-peron namsing,peron_namsing,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,peron namsing,solid,amino acids; ammonia; PGA,lactic,alkaline,none,high,low,none,mesophilic,none,none
-perunyaan,perunyaan,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,perunyaan,solid,amino acids; ammonia; PGA,lactic,alkaline,none,high,low,none,mesophilic,none,none
-cinsoy s-21-v1,soy_sauce,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,soy sauce,liquid,amino acids; acid; alcohol,lactic,medium,low,high,low,salt; wheat; koji,mesophilic,>6 months,hot
-cinsoy tamari mother,soy_sauce,soybean,soybean,fermented_soybeans,Plant,Legumes/nuts/seed,soybean,soy sauce,liquid,amino acids; acid; alcohol,lactic,medium,low,high,low,salt; wheat; koji,mesophilic,>6 months,hot
-shoyu,soy_sauce,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,soy sauce,liquid,amino acids; acid; alcohol,lactic,medium,low,high,low,salt; wheat; koji,mesophilic,>6 months,hot
-soy sauce,soy_sauce,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,soy sauce,liquid,amino acids; acid; alcohol,lactic,medium,low,high,low,salt; wheat; koji,mesophilic,>6 months,hot
-soybean,soy_sauce,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,soy sauce,liquid,amino acids; acid; alcohol,lactic,medium,low,high,low,salt; wheat; koji,mesophilic,>6 months,hot
-fermented soybean meal,fermented_soybean_meal,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,soybean meal fermented,solid,amino acids; acid; ammonia,lactic,low,none,high,low,none,mesophilic,none,none
-soybean,tempeh,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,tempeh,solid,amino acids; acid; ammonia,lactic,low,low,high,medium,none,mesophilic,none,none
-tempeh,tempeh,tea,plant,fermented_beverages,Plant,Legumes/nuts/seed,soybean,tempeh,solid,amino acids; acid; ammonia,lactic,low,low,high,medium,none,mesophilic,none,none
-tempeh 0h,tempeh,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,tempeh,solid,amino acids; acid; ammonia,lactic,low,low,high,medium,none,mesophilic,none,none
-tofu_chili,tofu_chili,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,tofu chili,gel,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
-dofu mold,hairy_tofu,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,tofu mao doufu,gel,amino acids; acid; ammonia; fatty acids,lactic,low,none,high,medium,none,mesophilic,up to 1 week,ambient
-fermented  brine used for stinky tofu production,stinky_tofu_brine,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,tofu stinky,gel,amino acids; acid; ammonia; fatty acids,lactic,medium,none,high,medium,fermented brine,mesophilic,several weeks,ambient
-fermented brine used for stinky tofu production,stinky_tofu_brine,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,tofu stinky,gel,amino acids; acid; ammonia; fatty acids,lactic,medium,none,high,medium,fermented brine,mesophilic,several weeks,ambient
-stinky tofu brine,stinky_tofu_brine,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,tofu stinky,gel,amino acids; acid; ammonia; fatty acids,lactic,medium,none,high,medium,fermented brine,mesophilic,several weeks,ambient
-naturally fermented tofu whey,tofu_whey,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,tofu whey,liquid,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
-ugba,ugba,oil_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed,oil bean seed,ugba,solid,amino acids; ammonia; acid,lactic,alkaline,none,high,medium,none,mesophilic,days,ambient
-nixtamalized yellow pea miso,miso,yellow_pea,legumes,other_fermented_legumes,Plant,Legumes/nuts/seed,yellow pea,miso yellow pea,paste,amino acids; acid,lactic,medium,none,high,low,salt; koji,mesophilic,>1 month,ambient
-swedish vreta pea miso,miso,pea,legumes,other_fermented_legume,Plant,Legumes/nuts/seed,yellow pea,miso yellow pea,paste,amino acids; acid,lactic,medium,none,high,low,salt; koji,mesophilic,>1 month,ambient
-yellow pea miso,miso,pea,legumes,other_fermented_legume,Plant,Legumes/nuts/seed,yellow pea,miso yellow pea,paste,amino acids; acid,lactic,medium,none,high,low,salt; koji,mesophilic,>1 month,ambient
-carrot sticks,carrot_sticks,carrot,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,carrot,carrot sticks,solid,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
-attieke,attieke,cassava,tuber_root,fermented_cassava,Plant,Root,cassava,attieke,granular,acid; amino acids,lactic,medium,none,low,low,none,mesophilic,days,ambient
-fermented cassava,cassava,cassava,tuber_root,fermented_cassava,Plant,Root,cassava,cassava,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
-cassava sour starch fermentation,cassava,cassava,tuber_root,fermented_cassava,Plant,Root,cassava,cassava sour starch,powder,acid,lactic,low,none,low,low,none,mesophilic,20-70 days,ambient
-fufu,fufu,cassava,tuber_root,fermented_cassava,Plant,Root,cassava,fufu,dough-like,acid; amino acids,lactic,medium,none,low,low,none,mesophilic,days,ambient
-gari,gari,cassava,tuber_root,fermented_cassava,Plant,Root,cassava,gari,granular,acid; amino acids,lactic,medium,none,low,low,oil,mesophilic,days,ambient
-lafun,lafun,cassava,tuber_root,fermented_cassava,Plant,Root,cassava,lafun,powder,acid; amino acids,lactic,medium,none,low,low,none,mesophilic,days,ambient
-mou,mou,cassava,tuber_root,fermented_cassava,Plant,Root,cassava,mou,dough-like,acid; amino acids,lactic,medium,none,low,low,none,mesophilic,days,ambient
-daikon kasuzuke,kasuzuke,daikon,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,daikon,kasuzuke,solid,acid; alcohol; amino acids,lactic,medium,medium,medium,low,sake kasu; salt; sugar,mesophilic,days to months,varies
-daikon,daikon,daikon,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,daikon,pickle daikon,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-garlic,pickle,garlic,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,garlic,garlic fermented,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-ginger_beer,ginger_beer,ginger,rhizome,pickled_fruits_vegetables_roots,Plant,Root,ginger,beer ginger,liquid,acid; alcohol,lactic,high,medium,low,low,sugar,mesophilic,up to 2 weeks,ambient
-lemon_and_ginger_gizz,ginger_beer,lemon_ginger,fruit_rhizome,fermented_beverages,Plant,Root,ginger,beer ginger,liquid,acid; alcohol,lactic,high,medium,low,low,sugar,mesophilic,up to 2 weeks,ambient
-ginger,ginger,ginger,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,ginger,ginger fermented,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-potato kimchi,kimchi,potato,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,potato,kimchi potato,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
-fermented radish,pickle,radish,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,radish,pickle radish,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-"senmaizuke, a japanese pickle",pickle,turnip,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,turnip,senmaizuke,solid,acid,lactic,medium,none,low,low,salt; sugar,mesophilic,none,none
-turnip,turnip,turnip,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,turnip,turnip fermented,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-pulque,pulque,agave,other_plant_based,fermented_beverages,Plant,Vegetables/Fruit,agave,pulque,liquid,acid; alcohol; FOS; amino acids,lactic,high,medium,low,low,none,mesophilic,none,none
-apple juice in fermentation (cider),cider,apple_juice,fruit,fermented_beverages,Plant,Vegetables/Fruit,apple,cider apple,liquid,alcohol; acid; amino acids,lactic,high,medium,low,low,sulfites,mesophilic,>1 month,cold
-cider,cider,apple,fruit,fermented_beverages,Plant,Vegetables/Fruit,apple,cider apple,liquid,alcohol; acid; amino acids,lactic,high,medium,low,low,sulfites,mesophilic,>1 month,cold
-fermenting apple juice,cider,apple,fruit,fermented_beverages,Plant,Vegetables/Fruit,apple,cider apple,liquid,alcohol; acid; amino acids,lactic,high,medium,low,low,sulfites,mesophilic,>1 month,cold
-stagiaire sb cider,cider,apple,fruit,fermented_beverages,Plant,Vegetables/Fruit,apple,cider apple,liquid,alcohol; acid; amino acids,lactic,high,medium,low,low,sulfites,mesophilic,>1 month,cold
-apple cider vinegar,apple_cider_vinegar,apple_cider,fruit,vinegar,Plant,Vegetables/Fruit,apple,vinegar apple cider,liquid,acid,acetic,high,none,none,none,sugar,mesophilic,3-4 weeks,cold
-apple_cider_vinegar,vinegar,apple_cider,fruit,vinegar,Plant,Vegetables/Fruit,apple,vinegar apple cider,liquid,acid,acetic,high,none,none,none,sugar,mesophilic,3-4 weeks,cold
-traditional fermented bamboo shoots,pickle,bamboo_shoots,other_plant_based,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,bamboo shoots,pickle bamboo shoots,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-black cherry,cherry,black_cherry,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,black cherry,black cherry,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-blueberry,blueberry,blueberry,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,blueberry,blueberry,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-cabbage,cabbage,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,cabbage,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-curtido 96h,curtido,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,curtido,solid,acid; amino acids,lactic,medium,none,low,low,salt; spices,mesophilic,days,ambient
-dukkah,sauerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Legumes/nuts/seed,mixed seeds and nuts,dukkah,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
-kimchi,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,kimchi,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
-kimchi brine 48h,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,kimchi,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
-queens water kimchi,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,kimchi,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
-volcano kimchi smokeshow,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,kimchi,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
-queens sf mukeunji,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,kimchi mukeunji,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
-cabbage kimchi,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,kimcki,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
-red sauerkraut 21d,saerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,saerkraut,solid,acid,lactic,high,none,low,low,salt,mesophilic,2-6 weeks,ambient
-red sauerkraut 96h,saerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,saerkraut,solid,acid,lactic,high,none,low,low,salt,mesophilic,2-6 weeks,ambient
-alimentari aurora red kraut solid,sauerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,sauerkraut,solid,acid,lactic,high,none,low,low,salt,mesophilic,2-6 weeks,ambient
-sauerkraut,sauerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,sauerkraut,solid,acid,lactic,high,none,low,low,salt,mesophilic,2-6 weeks,ambient
-wild sauerkraut 96h,sauerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,sauerkraut,solid,acid,lactic,high,none,low,low,salt,mesophilic,2-6 weeks,ambient
-alimentari aurora red kraut brine,sauerkraut_brine,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,sauerkraut,solid,acid,lactic,high,none,low,low,salt,mesophilic,2-6 weeks,ambient
-"suan tsai, fermented vegetables",pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,suan tsai,solid,acid,lactic,high,none,low,low,salt,mesophilic,2-6 weeks,ambient
-chocolate_coating,chocolate,cacao,fruit,chocolate,Plant,Vegetables/Fruit,cacao,choclate,solid,acid; amino acids; alcohol,acetic,medium,low,medium,low,none,mesophilic,days,ambient
-"cocoa bean fermentation, ghana",chocolate,cacao,fruit,chocolate,Plant,Vegetables/Fruit,cacao,choclate,solid,acid; amino acids; alcohol,acetic,medium,low,medium,low,none,mesophilic,days,ambient
-cocoa bean heap fermentation,chocolate,cacao,fruit,chocolate,Plant,Vegetables/Fruit,cacao,choclate,solid,acid; amino acids; alcohol,acetic,medium,low,medium,low,none,mesophilic,days,ambient
-cocoa fermentation,chocolate,cacao,fruit,chocolate,Plant,Vegetables/Fruit,cacao,choclate,solid,acid; amino acids; alcohol,acetic,medium,low,medium,low,none,mesophilic,days,ambient
-spontaneous cocoa bean fermentations,chocolate,cacao,fruit,chocolate,Plant,Vegetables/Fruit,cacao,choclate,solid,acid; amino acids; alcohol,acetic,medium,low,medium,low,none,mesophilic,days,ambient
-cocoa,cocoa,cacao_fruit_pulp_and_seeds,fruit,chocolate,Plant,Vegetables/Fruit,cacao,choclate,solid,acid; amino acids; alcohol,acetic,medium,low,medium,low,none,mesophilic,days,ambient
-red_pepper_sauce,pickle,chili_pepper,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,chili,chilli sauce,liquid,acid; amino acids,lactic,high,none,low,low,salt; spices,mesophilic,few weeks,ambient
-chilli paste,chilli_paste,chilli,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,chilli,chilli paste,paste,acid; amino acids,lactic,high,none,low,low,salt; spices,mesophilic,few weeks,ambient
-"chrysanthemum, oze national park",chrysanthemum,chrysanthemum,flower,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,chrysanthemum,chrysanthemum,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
-coffee,coffee,coffee,fruit,fermented_beverages,Plant,Vegetables/Fruit,coffee,coffee,solid,acid; amino acids,lactic,high,none,medium,low,none,mesophilic,none,none
-coffee,coffee,coffee_berries,fruit,fermented_beverages,Plant,Vegetables/Fruit,coffee,coffee,solid,acid; amino acids,lactic,high,none,medium,low,none,mesophilic,none,none
-ethiopian coffee fermentation,coffee,coffee,fruit,fermented_beverages,Plant,Vegetables/Fruit,coffee,coffee,solid,acid; amino acids,lactic,high,none,medium,low,none,mesophilic,none,none
-cucumber,cucumber,cucumber,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cucumber,pickle cucumber,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-lacto elderberries,pickle,elderberries,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,elderberries,pickle elderberries,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-fig,wine,fig,fruit,fermented_beverages,Plant,Vegetables/Fruit,fig,fig fermented,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-water_kefir,water_kefir,fig,fruit,fermented_beverages,Plant,Vegetables/Fruit,fig,tibicos fig,liquid,acid; alcohol,lactic,high,low,none,none,sugar,mesophilic,days,ambient
-salted beans,salted_beans,legume,legumes,other_fermented_legume,Plant,Vegetables/Fruit,glasswort,salted beans,solid,acid,lactic,high,none,low,low,none,mesophilic,1-2 weeks,ambient
-isolated organism,cider,fruit,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,cider grape,liquid,alcohol; acid,mixed,high,high,none,none,sulfides,mesophilic,>1 month,cold
-must of grape,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,grape,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-quick vinegar,vinegar,wine,fruit,vinegar,Plant,Vegetables/Fruit,grape,vinegar,liquid,acid,acetic,high,none,none,none,sugar,mesophilic,3-4 weeks,cold
-vinegar,vinegar,wine,fruit,vinegar,Plant,Vegetables/Fruit,grape,vinegar,liquid,acid,acetic,high,none,none,none,sugar,mesophilic,3-4 weeks,cold
-commercial grape wine undergoing a sluggish/stuck alcoholic fermentation,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,wine,liquid,alcohol; acid,mixed,high,high,none,none,sulfides,mesophilic,>1 month,cold
-mad ange pdc,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,wine,liquid,alcohol; acid,mixed,high,high,none,none,sulfides,mesophilic,>1 month,cold
-must of bobal grape variety,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,wine,liquid,alcohol; acid,mixed,high,high,none,none,sulfides,mesophilic,>1 month,cold
-partially fermented wine,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,wine,liquid,alcohol; acid,mixed,high,high,none,none,sulfides,mesophilic,>1 month,cold
-wine,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,wine,liquid,alcohol; acid,mixed,high,high,none,none,sulfides,mesophilic,>1 month,cold
-bobal wine,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,wine bobal,liquid,alcohol; acid,mixed,high,high,none,none,sulfides,mesophilic,>1 month,cold
-chardonnay must,chardonnay_must,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,wine chardonnay,liquid,alcohol; acid,mixed,high,high,none,none,sulfides,mesophilic,>1 month,cold
-fermented jackfruit,pickle,fruit,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,jackfruit,pickle jackfruit,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-bolivan pickle,bolivan_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickle bolivian,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-bolivian pickle,bolivian_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickle bolivian,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-chinese pickle,chinese_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickle chinese,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-banana fruits,banana,banana,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickle Chinese traditional,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-chinese traditional pickle,chinese_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickle chinese traditional,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-greek pickle,greek_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickle greek,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-hijazi pickle,hijazi_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickle hijazi,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-indan pickle,indian_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickle indian,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-fermented vegetables,pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickle mixed vegetables,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-picked_vegetables,pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickle mixed vegetables,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-pickle,pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickle mixed vegetables,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-"fu-tsai, a traditional fermented mustard product",pickle,mustard,plant,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mustard,fu-tsai,solid,acid; amino acids,lactic,high,none,low,low,salt,mesophilic,1 week,ambient
-"fu-tsai, a traditional fermented mustard product",pickle,mustard,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mustard,fu-tsai,solid,acid; amino acids,lactic,high,none,low,low,salt,mesophilic,1 week,ambient
-mustard leaf,mustard_leaf,mustard,vegetable,fermented_vegetable,Plant,Vegetables/Fruit,mustard,mustard leaf,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-Zha cai,pickle,tea,plant,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mustard,Zha cai,solid,acid,lactic,high,none,medium,low,salt,mesophilic,>1 month,ambient
-honey,honey,nectar,other_plant_based,other_plant_based_fermentation,Plant,Vegetables/Fruit,nectar,honey,syrup,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
-okra,pickle,okra,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,okra,pickle okra,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-onion pickle,onion_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,onion,pickle onion,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-orange,orange,orange,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,orange,orange,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-emu,emu,palm_sap,other_plant_based,fermented_beverages,Plant,Vegetables/Fruit,palm sap,emu,liquid,alcohol; acid,mixed,high,low,none,none,none,mesophilic,none,none
-palm_wine,palm_wine,palm_sap,other_plant_based,fermented_beverages,Plant,Vegetables/Fruit,palm sap,wine palm,liquid,alcohol; acid,mixed,high,medium,none,none,none,mesophilic,none,none
-palm wine,wine,palm_sap,other_plant_based,fermented_beverages,Plant,Vegetables/Fruit,palm sap,wine palm,liquid,alcohol; acid,mixed,high,medium,none,none,none,mesophilic,none,none
-papaya pickle,papaya_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,papaya,pickle papaya,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-fermented pepper,pickle,pepper,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,pepper,pickle peper,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-tepache,tepache,pineapple,fruit,fermented_beverages,Plant,Vegetables/Fruit,pineapple,tepache,liquid,alcohol; acid,lactic,high,low,low,low,sugar,mesophilic,days,ambient
-agadagidi,agadagidi,plantain,fruit,fermented_beverages,Plant,Vegetables/Fruit,plantain,agadagidi,liquid,alcohol; acid,lactic,high,low,low,low,sulphites,mesophilic,days,ambient
-scallion kimchi,kimchi,scallion,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,scallion,kimchi scallion,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
-queens sf lacto ferm serrano,pickle,queens_sf_lacto_ferm_serrano,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,serrano peper,pickle serrano peper,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-fermented cane molasses at alcohol plants,molasses,sugar_cane,vegetable,other_plant_based_fermentation,Plant,Vegetables/Fruit,sugar,molasses,syrup,alcohol; acid,lactic,high,high,none,none,none,mesophilic,none,none
-tibicos,water_kefir,sugar,sugar,fermented_beverages,Plant,Vegetables/Fruit,sugar,tibicos,liquid,acid; alcohol,lactic,high,low,none,none,sugar,mesophilic,days,ambient
-water kefir,water_kefir,sugar,sugar,fermented_beverages,Plant,Vegetables/Fruit,sugar,tibicos,liquid,acid; alcohol,lactic,high,low,none,none,sugar,mesophilic,days,ambient
-water_kefir,water_kefir,fruit,fruit,fermented_beverages,Plant,Vegetables/Fruit,sugar,tibicos,liquid,acid; alcohol,lactic,high,low,none,none,sugar,mesophilic,days,ambient
-fermented vinegar broth,broth,broth,meat,other_fermented_meat,Plant,Vegetables/Fruit,sugar,vinegar broth,liquid,acid; alcohol,acetic,high,low,none,none,none,mesophilic,unknown,unknown
-kombucha,kombucha,sugar,sugar,fermented_beverages,Plant,Vegetables/Fruit,tea,kombucha,liquid,acid; alcohol,acetic,high,low,low,low,sugar,mesophilic,up to 2 weeks,cold
-kombucha,kombucha,tea_sugar,plant,fermented_beverages,Plant,Vegetables/Fruit,tea,kombucha,liquid,acid; alcohol,acetic,high,low,low,low,sugar,mesophilic,up to 2 weeks,cold
-kombucha tea,kombucha,sugar,sugar,fermented_beverages,Plant,Vegetables/Fruit,tea,kombucha,liquid,acid; alcohol,acetic,high,low,low,low,sugar,mesophilic,up to 2 weeks,cold
-"scoby, kombucha tea",kombucha,sugar,sugar,fermented_beverages,Plant,Vegetables/Fruit,tea,kombucha,liquid,acid; alcohol,acetic,high,low,low,low,sugar,mesophilic,up to 2 weeks,cold
-fermented tea leaves (miang),tea,tea,plant,fermented_beverages,Plant,Vegetables/Fruit,tea,miang,solid,acid; amino acids,lactic,high,none,medium,low,salt,mesophilic,varies,ambient
-tea,tea,tea,plant,fermented_beverages,Plant,Vegetables/Fruit,tea,tea fermented,liquid,acid; alcohol,acetic,high,low,low,low,sugar,mesophilic,up to 2 weeks,cold
-tomato_and_mustards,pickle,tomato_and_mustards,fruits_and_vegetables,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,tomato,pickle tomato,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
-non-salted pickle solution used in production of sunki,pickle,turnip_leaves,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,turnip,sunki,solid,acid,lactic,high,none,medium,low,none,mesophilic,weeks,cold
-"sunki, a japanese traditional pickle",pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,turnip,sunki,solid,acid; amino acids,lactic,high,none,medium,low,none,mesophilic,weeks,cold
-brown algae kimchi,kimchi,wakame,seaweed,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,wakame,kimchi wakame,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
-queens sf lacto ferm 4% yellow peach 8/26/21,pickle,queens_sf_lacto_ferm_4%_yellow_peach_8_26_21,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,yellow peach,pickle yellow peach,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+sample_description,fermented_food,specific_substrate,substrate_category,general_category,level1_substrate_origin,level2_main_ingredient_group,main_ingredient,level3_food_type,level4_food_name,consistency,main_ferment,acid_type,acid_level,alcohol_lovel,protein_degradation,fat_degradation,added_ingredients,fermentation_temp,aging_time,agin_temp
+agousha,agousha,milk,dairy,fermented_dairy,Animal,Dairy,milk,dairy beverage,agousha,liquid,acid,lactic,medium,none,none,none,none,mesophilic,none,none
+"cheese, mild",cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
+"cheese, smoked cheese",cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
+larger cheese wheel reiss,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
+cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
+cheese product,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
+raw araxa cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese araxa,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
+"cheese, blue cheese",cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese blue,solid,acid; amino acids,lactic,medium,none,medium,high,salt; rennet,mesophilic,>1 month,cold
+"cheese, brie",cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese brie,solid,acid; amino acids,lactic,medium,none,high,medium,salt; rennet,mesophilic,1-1.5 months,cold
+cheese_brine,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese brine,solid,acid; amino acids,lactic,medium,none,high,medium,salt; rennet,mesophilic,1-1.5 months,cold
+raw canastra cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese canastra,solid,acid; amino acids,lactic,medium,none,high,medium,salt; rennet,mesophilic,>1 month,cold
+aged cheddar cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese cheddar,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
+"cheese, cheddar",cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese cheddar,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
+pink continental type cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese continental pink,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
+kopanisti cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese kopanisti,solid,acid; amino acids,lactic,medium,none,high,high,salt; rennet,mesophilic,1.1.5 months,cold
+parmesan cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese parmesan,solid,acid; amino acids,lactic,medium,none,high,medium,salt; rennet,mesophilic,>6 mmonths,cold
+pink small cheese reiss,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese pink,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
+rostagroekport_voroznyj,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,fresh cheese,cheese russian,cream,acid; amino acids,lactic,medium,none,low,none,salt,mesophilic,none,none
+ruz'a,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese ruz'a,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
+raw serro cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese serro,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>1 month,cold
+dairy products,other_fermented_dairy,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese toma,solid,acid; amino acids,lactic,medium,none,medium,low,salt; rennet,mesophilic,>2 months,cold
+"cheese, tomme",cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese tomme,solid,acid; amino acids,lactic,medium,none,low,medium,salt; rennet,mesophilic,>1 month,cold
+wagashi,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese wagashi,solid,none,none,medium,none,none,none,salt; plant extract,70C,none,none
+wara,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese wara,solid,none,none,medium,none,none,none,salt; plant extract,70C,none,none
+"cheese, stretched-curd cheese",cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,fresh cheese,cheese curd,solid,acid; amino acids,lactic,medium,none,low,none,salt; rennet,mesophilic,none,cold
+cheese hard cheese,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk,cheese,cheese hard,solid,acid; amino acids,lactic,medium,none,high,medium,salt; rennet,mesophilic,>6 mmonths,cold
+kefir,kefir,milk,dairy,fermented_dairy,Animal,Dairy,milk,dairy beverage,kefir,liquid,acid; amino acids,lactic,medium,low,low,none,none,mesophilic,none,none
+milk kefir,kefir,milk,dairy,fermented_dairy,Animal,Dairy,milk,dairy beverage,kefir,liquid,acid; amino acids,lactic,medium,low,low,none,none,mesophilic,none,none
+laban,laban,milk,dairy,fermented_dairy,Animal,Dairy,milk,fresh cheese,laban,cream,acid,lactic,medium,none,low,none,salt,mesophilic,20 days,ambient
+labneh,labneh,milk,dairy,fermented_dairy,Animal,Dairy,milk,fresh cheese,labneh,cream,acid,lactic,medium,none,low,none,salt,mesophilic,20 days,ambient
+fermented dairy beverage,other_fermented_dairy,milk,dairy,fermented_dairy,Animal,Dairy,milk,dairy beverage,milk fermented,liquid,acid,lactic,medium,none,low,none,none,mesophilic,none,none
+nono,nono,milk,dairy,fermented_dairy,Animal,Dairy,milk,dairy beverage,nono,liquid,acid,lactic,medium,none,low,none,none,mesophilic,none,none
+nunu,nunu,milk,dairy,fermented_dairy,Animal,Dairy,milk,dairy beverage,nunu,liquid,acid,lactic,medium,none,low,none,none,mesophilic,none,none
+viili 48h,yogurt,milk,dairy,fermented_dairy,Animal,Dairy,milk,yogurt,viili,cream,acid,lactic,medium,none,low,none,none,mesophilic,none,none
+whey,whey,milk,dairy,fermented_dairy,Animal,Dairy,milk,whey,whey,liquid,acid,lactic,low,none,none,none,none,mesophilic,none,none
+traditional yogurt,yogurt,milk,dairy,fermented_dairy,Animal,Dairy,milk,yogurt,yogurt,liquid,acid; amino acids,lactic,medium,none,low,none,none,thermophilic,none,none
+yoghurt,yogurt,milk,dairy,fermented_dairy,Animal,Dairy,milk,yogurt,yogurt,liquid,acid; amino acids,lactic,medium,none,low,none,none,thermophilic,none,none
+yogurt,yogurt,milk,dairy,fermented_dairy,Animal,Dairy,milk,yogurt,yogurt,liquid,acid; amino acids,lactic,medium,none,low,none,none,thermophilic,none,none
+ambriss,ambriss,milk,dairy,fermented_dairy,Animal,Dairy,milk goat,fresh cheese,ambriss,cream,acid,lactic,medium,none,low,none,salt,mesophilic,20 days,ambient
+serdaleh,cheese,milk,dairy,fermented_dairy,Animal,Dairy,milk goat,fresh cheese,cheese serdaleh,cream,acid,lactic,medium,none,low,none,salt,mesophilic,20 days,ambient
+goat kefir 60h,kefir,milk,dairy,fermented_dairy,Animal,Dairy,milk goat,alcoholic dairy beverage,kefir,liquid,acid; alcohol; amino acids,lactic,medium,low,low,none,none,mesophilic,none,none
+koumiss,koumiss,milk,dairy,fermented_dairy,Animal,Dairy,milk horse,alcoholic dairy beverage,koumiss,liquid,acid; alcohol; amino acids,lactic,medium,low,low,none,none,mesophilic,none,none
+fermented fish,fermented_fish,fish,seafood,fermented_seafood,Animal,Fish,fish,seafood,fish fermented,solid,amino acids; acid; amines,lactic,low,none,high,medium,salt,mesophilic,>2 weeks,cold
+jeotgal,jeotgal,seafood,seafood,fermented_seafood,Animal,Fish,seafood,seafood,jeotgal,solid,amino acids; acid; amines,lactic,low,none,high,high,salt; spices,mesophilic,>2 months,ambient
+fermented seafoods,fermented_seafoods,seafood,seafood,fermented_seafood,Animal,Fish,seafood,seafood,seafood fermented,solid,amino acids; acid; amines,lactic,low,none,high,medium,salt,mesophilic,>2 weeks,cold
+skate_fish,hongeo,skate,seafood,fermented_seafood,Animal,Fish,skate,seafood,hongeo,solid,ammonia; amino acids,mixed,minimal,none,high,medium,salt,psychrophilic,1 month,cold
+poultry meat,salami,meat,meat,fermented_meat,Animal,Meat,chicken,sausage,salami chicken,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
+poultry salami,salami,meat,meat,fermented_meat,Animal,Meat,chicken,sausage,salami chicken,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
+traditional vietnamese nem chua,salami,meat,meat,fermented_meat,Animal,Meat,pork,nem chua,nem chua,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; Glucono Delta-Lactone; antioxidant; emulsifiers/binders,mesophilic,1-3 days,ambient
+salami,salami,meat,meat,fermented_meat,Animal,Meat,pork,sausage,salami,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
+sausage,salami,meat,meat,fermented_meat,Animal,Meat,pork,sausage,salami,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
+pork salami,salami,meat,meat,fermented_meat,Animal,Meat,pork,sausage,salami pork,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
+dry naturally fermented greek sausage,sausage,meat,meat,fermented_meat,Animal,Meat,pork,sausage,sausage greek,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
+meat,italian_sausage,meat,meat,fermented_meat,Animal,Meat,pork,sausage,sausage italian,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
+fermented sausages,sausage,meat,meat,fermented_meat,Animal,Meat,pork/beef,sausage,sausage,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
+meat,sausage,meat,meat,fermented_meat,Animal,Meat,pork/beef,sausage,sausage,solid,acid; amino acids,lactic,medium,none,high,medium,salt; sugar; nitrate; spices,mesophilic,>2 weeks,cold
+kefir grain,kefir,milk,dairy,fermented_dairy,Microbial,Microbial,kefir grain,starter culture,kefir grain,solid,none,none,none,none,none,none,none,none,none,none
+dietary supplement,dietary_supplement,,supplement,probiotics,Microbial,Microbial,microbes,probiotics,probiotics,powder,none,none,none,none,none,none,none,none,none,none
+probiotics,probiotics,unknown,probiotics,probiotics,Microbial,Microbial,microbes,probiotics,probiotics,powder,none,none,none,none,none,none,none,none,none,none
+beer,beer,barley,grain,fermented_beverages,Plant,Cereal,barley,beer,beer,liquid,alcohol,no,none,medium,none,none,hops,mesophilic,weeks to months,cold
+beer,beer,barley,grains,fermented_beverages,Plant,Cereal,barley,beer,beer,liquid,alcohol,no,none,medium,none,none,hops,mesophilic,weeks to months,cold
+keem,keem,grain,grain,fermented_beverages,Plant,Cereal,barley,starter culture,keem,solid,none,none,none,none,none,none,none,none,none,none
+sour grain mash,sour_grain_mash,barley,grains,fermented_beverages,Plant,Cereal,barley,whiskey intermediate,sour grain mash,porridge,acid,lactic,medium,none,none,none,none,none,none,none
+chicha,chicha,corn,grain,fermented_beverages,Plant,Cereal,corn,alcoholic cereal beverage,chicha,liquid,alcohol; acid,lactic,high,medium,none,none,salivary enzymes,mesophilic,none,none
+ogi,ogi,corn,grains,other_fermented_grains,Plant,Cereal,corn,porridge,ogi,porridge,acid,mixed,high,none,none,none,none,mesophilic,none,none
+pozol,pozol,corn,grain,fermented_beverages,Plant,Cereal,corn,cereal beverage,pozol,liquid,acid,lactic,medium,none,low,none,limewater,mesophilic,up to 15 days,ambient
+sekete,sekete,corn,grain,fermented_beverages,Plant,Cereal,corn,alcoholic cereal beverage,sekete,liquid,acid; alcohol; amino acids,lactic,high,low,medium,none,none,mesophilic,none,none
+boza,boza,millet,grains,fermented_beverages,Plant,Cereal,millet,alcoholic cereal beverage,boza,liquid,acid; alcohol; amino acids,mixed,high,low,medium,none,none,mesophilic,none,none
+fura,fura,milk,dairy,fermented_dairy,Plant,Cereal,millet,fura,fura,solid,acid,lactic,low,none,none,none,spices,mesophilic,none,none
+koko,koko,millet,grains,fermented_beverages,Plant,Cereal,millet,porridge,koko,porridge,acid; alcohol; amino acids,lactic,high,none,low,none,none,mesophilic,none,none
+kunu,kunu,millet,grains,fermented_beverages,Plant,Cereal,millet,cereal beverage,kunu,liquid,acid,lactic,medium,none,none,none,spices,mesophilic,none,none
+millet,millet,grains,grains,grains,Plant,Cereal,millet,Unknown,millet fermented,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+pito,pito,millet,grain,fermented_beverages,Plant,Cereal,millet,alcoholic cereal beverage,pito,liquid,acid; alcohol; amino acids,lactic,high,low,low,none,none,mesophilic,none,none
+zonkom,zonkom,millet,grains,fermented_beverages,Plant,Cereal,millet,cereal beverage,zonkom,liquid,acid,mixed,high,none,low,none,spices,mesophilic,none,none
+brukina - millet with fermented milk,brukina,milk,dairy,fermented_dairy,Plant,Cereal,millet/milk,cereal beverage,brukina,liquid,acid,lactic,medium,none,low,low,none,mesophilic,none,none
+brown_rice_amazake,amazake,rice,grains,fermented_beverages,Plant,Cereal,rice,porridge,amazake,porridge,acid; amino acids,lactic,medium,none,medium,low,none,thermophilic,none,none
+alcohol fermentation starter,wine,rice,grains,fermented_beverages,Plant,Cereal,rice,starter culture,fermentation starter,none,none,none,none,none,none,none,none,none,none,none
+makgeolli,wine,rice,grains,fermented_beverages,Plant,Cereal,rice,alcoholic cereal beverage,makgeolli,liquid,alcohol; acid,lactic,medium,high,medium,low,none,mesophilic,none,none
+massa,massa,rice,grains,other_fermented_grains,Plant,Cereal,rice,massa,massa,solid,acid; alcohol,lactic,medium,low,low,none,none,mesophilic,none,none
+rice bran paste,nuka-doko,rice,grains,pickled_fruits_vegetables_roots,Plant,Cereal,rice,starter culture,nuka-doko,paste; grainy,acid,lactic,medium,none,low,none,salt; spices; kombu,mesophilic,20 days,ambient
+fermented rice grain,fermented_rice_grain,rice,grains,other_fermented_grains,Plant,Cereal,rice,Unknown,rice fermented,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+sake,sake,rice,grains,fermented_beverages,Plant,Cereal,rice,alcoholic cereal beverage,sake,liquid,alchol; acid,lactic,medium,high,medium,none,none,mesophilic,>6 months,cold
+shochu mash,shochu_mash,rice,grains,fermented_beverages,Plant,Cereal,rice,shochu intermediate,shochu mash,slurry,alcohol; acid,citric,medium,high,medium,low,none,mesophilic,none,none
+rice sourdough,sourdough,rice,grains,sourdough,Plant,Cereal,rice,bread,sourdough rice,solid,acid,mixed,medium,none,medium,low,salt,mesophilic,none,none
+kvass,kvass,rye,grains,fermented_beverages,Plant,Cereal,rye,alcoholic cereal beverage,kvass,liquid,acid; alcohol,lactic,medium,low,low,none,salt,mesophilic,none,none
+rye sourdough,sourdough,rye,grains,sourdough,Plant,Cereal,rye,bread,sourdough rye,solid,acid,mixed,medium,none,medium,low,salt,mesophilic,none,none
+rye-bran sourdough,sourdough,rye,grains,sourdough,Plant,Cereal,rye,bread,sourdough rye,solid,acid,mixed,medium,none,medium,low,salt,mesophilic,none,none
+dolo,dolo,sorghum,grain,fermented_beverages,Plant,Cereal,sorghum,alcoholic cereal beverage,dolo,liquid,alcohol; acid,lactic,medium,medium,low,none,plan extracts,mesophilic,none,none
+chinese liquor,chinese_liquor,grain,grain,fermented_beverages,Plant,Cereal,sorghum,alcoholic cereal beverage,liquir chinese,liquid,alcohol,unknown,unknown,high,unknown,unknown,unknown,unknown,unknown,unknown
+otika,otika,sorghum,grains,fermented_beverages,Plant,Cereal,sorghum,alcoholic cereal beverage,otika,liquid,alcohol; acid,lactic,medium,medium,low,none,plan extracts,mesophilic,none,none
+ugi,ugi,sorghum,grains,other_fermented_grains,Plant,Cereal,sorghum,cereal beverage,ugi,liquid,acid,lactic,medium,none,low,none,none,mesophilic,none,none
+burukutu,burukutu,sorghum_millet,grain,fermented_beverages,Plant,Cereal,sorghum/millet,alcoholic cereal beverage,burukutu,liquid,alcohol; acid,lactic,high,medium,medium,low,none,mesophilic,none,none
+obiolor,obiolor,sorghum_millet,grains,fermented_beverages,Plant,Cereal,sorghum/millet,cereal beverage,obiolor,liquid,acid,lactic,medium,none,low,none,none,mesophilic,none,none
+injera,injera,teff,grains,other_fermented_grains,Plant,Cereal,teff,bread,injera,spongy,acid,lactic,high,none,low,none,none,mesophilic,none,none
+jalebi,jalebi,wheat,grain,fermented_grain,Plant,Cereal,wheat,jalebi,jalebi,solid,acid,lactic,medium,none,low,none,baking soda,mesophilic,none,none
+nuruk,starter,wheat,grains,sourdough,Plant,Cereal,wheat,starter culture,nuruk,solid,none,none,none,none,none,none,none,mesophilic,none,none
+artisanal wheat sourdough,sourdough,wheat,grains,sourdough,Plant,Cereal,wheat,bread,sourdough,solid,acid,mixed,medium,none,medium,low,salt,mesophilic,none,none
+chinese traditional pickle and sourdough,sourdough,wheat,grain,sourdough,Plant,Cereal,wheat,bread,sourdough,solid,acid,mixed,medium,none,medium,low,salt,mesophilic,none,none
+fermented wheat flour,sourdough,wheat,grains,sourdough,Plant,Cereal,wheat,bread,sourdough,solid,acid,mixed,medium,none,medium,low,salt,mesophilic,none,none
+sourdough,sourdough,wheat,grains,sourdough,Plant,Cereal,wheat,bread,sourdough,solid,acid,mixed,medium,none,medium,low,salt,mesophilic,none,none
+wheat sourdough,sourdough,wheat,grains,sourdough,Plant,Cereal,wheat,bread,sourdough,solid,acid,mixed,medium,none,medium,low,salt,mesophilic,none,none
+otiru,otiru,African_yam_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed,African yam bean seeds,condiment,otiru,paste,ammonia; amino acids; acid,lactic,medium,none,high,low,none,mesophilic,none,none
+kantong,kantong,cassava_kapok_seeds,tuber_root,fermented_cassava,Plant,Legumes/nuts/seed,kapok seeds,condiment,kantong,paste,acid; amino acids,lactic,medium,none,high,none,cassava flour,mesophilic,none,none
+dawadawa,dawa_dawa,locust_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed,locust bean,condiment,dawadawa,paste,ammonia; amino acids,lactic,none,none,high,low,wood ash,mesophilic,none,none
+iru,iru,locust_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed,locust bean,condiment,iru,paste,ammonia; amino acids,lactic,none,none,high,low,wood ash,mesophilic,none,none
+soumbala,soumbala,locust_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed,locust bean,condiment,soumbala,paste,ammonia; amino acids,lactic,none,none,high,low,wood ash,mesophilic,none,none
+lupine-based moromi fermentation,moromi,lupine,legumes,other_fermented_legume,Plant,Legumes/nuts/seed,lupine,moromi,moromi,slurry,acid; amino acids,lactic,medium,none,high,low,salt,mesophilic,up to 6 months,ambient
+ogiri,ogiri,melon_seed,seed,other_fermented_seeds,Plant,Legumes/nuts/seed,melon seed,condiment,ogiri,paste,ammonia; amino acids,lactic,low,none,high,medium,wood ash,mesophilic,none,none
+dukkah,sauerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Legumes/nuts/seed,mixed seeds and nuts,pickled veggetables,dukkah,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+ugba,ugba,oil_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed,oil bean seed,ugba,ugba,solid,amino acids; ammonia; acid,lactic,alkaline,none,high,medium,none,mesophilic,days,ambient
+okpehe,okpehe,locust_bean,legume,other_fermented_legume,Plant,Legumes/nuts/seed,Prosopis africana seeds,condiment,okpehe,paste,ammonia; amino acids,lactic,none,none,high,low,wood ash,mesophilic,few days,ambient
+bean paste,bean_paste,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,condiment,bean paste,paste,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+soybean,dajiang-meju,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,condiment,dajiang-meju,paste,amino acids; acid,lactic,low,none,high,low,wheat flour,mesophilic,>1 month,ambient
+furu #2,furu,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,condiment,furu,gel,amino acids; acid; ammonia,lactic,low,low,high,medium,rice wine; salt; spices,mesophilic,>1 month,ambient
+gochujang,gochujang,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,condiment,gochujang,paste,acid; alcohol; amino acids,lactic,medium,low,high,low,glutinous rice; meju; salt; chili powder,mesophilic,>1 month,ambient
+grep-chhurpi,grep-chhurpi,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,fermented whole bean,grep-chhurpi,solid,amino acids; ammonia; acid,lactic,alkaline,none,high,low,none,mesophilic,days,ambient
+bean paste,kinema,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,fermented whole bean,kinema,solid,amino acids; ammonia; PGA,none,alkaline,none,high,low,wood ash,mesophilic,none,none
+meju,meju,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,intermediate for condiments,meju,solid,acid; amino acids; ammonia; glycerol; sugar,lactic,alkaline,none,high,medium,none,mesophilic,1-2 months,ambient
+novel miso,miso,legume,legumes,other_fermented_legume,Plant,Legumes/nuts/seed,soybean,condiment,miso,paste,amino acids; sugar; acid; alcohol,lactic,alkaline,low,high,low,salt; koji,mesophilic,>1 month,ambient
+burmese natto,natto,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,fermented whole bean,natto,solid,amino acids; ammonia; PGA,lactic,alkaline,none,high,low,none,mesophilic,days,cold
+peha,peha,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,fermented whole bean,peha,solid,amino acids; ammonia; PGA,lactic,alkaline,none,high,low,none,mesophilic,none,none
+peron namsing,peron_namsing,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,fermented whole bean,peron namsing,solid,amino acids; ammonia; PGA,lactic,alkaline,none,high,low,none,mesophilic,none,none
+perunyaan,perunyaan,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,fermented whole bean,perunyaan,solid,amino acids; ammonia; PGA,lactic,alkaline,none,high,low,none,mesophilic,none,none
+cinsoy s-21-v1,soy_sauce,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,condiment,soy sauce,liquid,amino acids; acid; alcohol,lactic,medium,low,high,low,salt; wheat; koji,mesophilic,>6 months,hot
+cinsoy tamari mother,soy_sauce,soybean,soybean,fermented_soybeans,Plant,Legumes/nuts/seed,soybean,condiment,soy sauce,liquid,amino acids; acid; alcohol,lactic,medium,low,high,low,salt; wheat; koji,mesophilic,>6 months,hot
+shoyu,soy_sauce,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,condiment,soy sauce,liquid,amino acids; acid; alcohol,lactic,medium,low,high,low,salt; wheat; koji,mesophilic,>6 months,hot
+soy sauce,soy_sauce,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,condiment,soy sauce,liquid,amino acids; acid; alcohol,lactic,medium,low,high,low,salt; wheat; koji,mesophilic,>6 months,hot
+soybean,soy_sauce,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,condiment,soy sauce,liquid,amino acids; acid; alcohol,lactic,medium,low,high,low,salt; wheat; koji,mesophilic,>6 months,hot
+fermented soybean meal,fermented_soybean_meal,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,intermediate for condiments,soybean meal fermented,solid,amino acids; acid; ammonia,lactic,low,none,high,low,none,mesophilic,none,none
+soybean,tempeh,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,fermented whole bean,tempeh,solid,amino acids; acid; ammonia,lactic,low,low,high,medium,none,mesophilic,none,none
+tempeh,tempeh,tea,plant,fermented_beverages,Plant,Legumes/nuts/seed,soybean,fermented whole bean,tempeh,solid,amino acids; acid; ammonia,lactic,low,low,high,medium,none,mesophilic,none,none
+tempeh 0h,tempeh,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,fermented whole bean,tempeh,solid,amino acids; acid; ammonia,lactic,low,low,high,medium,none,mesophilic,none,none
+tofu_chili,tofu_chili,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,condiment,tofu chili,gel,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+dofu mold,hairy_tofu,soybean,legume,fermented_soybean,Plant,Legumes/nuts/seed,soybean,condiment,tofu mao doufu,gel,amino acids; acid; ammonia; fatty acids,lactic,low,none,high,medium,none,mesophilic,up to 1 week,ambient
+fermented  brine used for stinky tofu production,stinky_tofu_brine,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,condiment,tofu stinky,gel,amino acids; acid; ammonia; fatty acids,lactic,medium,none,high,medium,fermented brine,mesophilic,several weeks,ambient
+fermented brine used for stinky tofu production,stinky_tofu_brine,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,condiment,tofu stinky,gel,amino acids; acid; ammonia; fatty acids,lactic,medium,none,high,medium,fermented brine,mesophilic,several weeks,ambient
+stinky tofu brine,stinky_tofu_brine,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,condiment,tofu stinky,gel,amino acids; acid; ammonia; fatty acids,lactic,medium,none,high,medium,fermented brine,mesophilic,several weeks,ambient
+naturally fermented tofu whey,tofu_whey,soybean,legumes,fermented_soybean,Plant,Legumes/nuts/seed,soybean,tofu whey,tofu whey,liquid,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+nixtamalized yellow pea miso,miso,yellow_pea,legumes,other_fermented_legumes,Plant,Legumes/nuts/seed,yellow pea,condiment,miso yellow pea,paste,amino acids; acid,lactic,medium,none,high,low,salt; koji,mesophilic,>1 month,ambient
+swedish vreta pea miso,miso,pea,legumes,other_fermented_legume,Plant,Legumes/nuts/seed,yellow pea,condiment,miso yellow pea,paste,amino acids; acid,lactic,medium,none,high,low,salt; koji,mesophilic,>1 month,ambient
+yellow pea miso,miso,pea,legumes,other_fermented_legume,Plant,Legumes/nuts/seed,yellow pea,condiment,miso yellow pea,paste,amino acids; acid,lactic,medium,none,high,low,salt; koji,mesophilic,>1 month,ambient
+carrot sticks,carrot_sticks,carrot,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,carrot,pickled veggetables,carrot sticks,solid,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+attieke,attieke,cassava,tuber_root,fermented_cassava,Plant,Root,cassava,attieke,attieke,granular,acid; amino acids,lactic,medium,none,low,low,none,mesophilic,days,ambient
+fermented cassava,cassava,cassava,tuber_root,fermented_cassava,Plant,Root,cassava,cassava,cassava,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+cassava sour starch fermentation,cassava,cassava,tuber_root,fermented_cassava,Plant,Root,cassava,starch,cassava sour starch,powder,acid,lactic,low,none,low,low,none,mesophilic,20-70 days,ambient
+fufu,fufu,cassava,tuber_root,fermented_cassava,Plant,Root,cassava,bread,fufu,dough-like,acid; amino acids,lactic,medium,none,low,low,none,mesophilic,days,ambient
+gari,gari,cassava,tuber_root,fermented_cassava,Plant,Root,cassava,gari,gari,granular,acid; amino acids,lactic,medium,none,low,low,oil,mesophilic,days,ambient
+lafun,lafun,cassava,tuber_root,fermented_cassava,Plant,Root,cassava,starch,lafun,powder,acid; amino acids,lactic,medium,none,low,low,none,mesophilic,days,ambient
+mou,mou,cassava,tuber_root,fermented_cassava,Plant,Root,cassava,bread,mou,dough-like,acid; amino acids,lactic,medium,none,low,low,none,mesophilic,days,ambient
+daikon kasuzuke,kasuzuke,daikon,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,daikon,pickled veggetables,kasuzuke,solid,acid; alcohol; amino acids,lactic,medium,medium,medium,low,sake kasu; salt; sugar,mesophilic,days to months,varies
+daikon,daikon,daikon,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,daikon,pickled veggetables,pickle daikon,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+garlic,pickle,garlic,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,garlic,pickled veggetables,garlic fermented,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+ginger_beer,ginger_beer,ginger,rhizome,pickled_fruits_vegetables_roots,Plant,Root,ginger,beer,beer ginger,liquid,acid; alcohol,lactic,high,medium,low,low,sugar,mesophilic,up to 2 weeks,ambient
+lemon_and_ginger_gizz,ginger_beer,lemon_ginger,fruit_rhizome,fermented_beverages,Plant,Root,ginger,beer,beer ginger,liquid,acid; alcohol,lactic,high,medium,low,low,sugar,mesophilic,up to 2 weeks,ambient
+ginger,ginger,ginger,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,ginger,pickled veggetables,ginger fermented,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+potato kimchi,kimchi,potato,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,potato,pickled veggetables,kimchi potato,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
+fermented radish,pickle,radish,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,radish,pickled veggetables,pickle radish,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+"senmaizuke, a japanese pickle",pickle,turnip,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,turnip,pickled veggetables,senmaizuke,solid,acid,lactic,medium,none,low,low,salt; sugar,mesophilic,none,none
+turnip,turnip,turnip,tuber_root,pickled_fruits_vegetables_roots,Plant,Root,turnip,pickled veggetables,turnip fermented,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+pulque,pulque,agave,other_plant_based,fermented_beverages,Plant,Vegetables/Fruit,agave,alcoholic vegetable beverage,pulque,liquid,acid; alcohol; FOS; amino acids,lactic,high,medium,low,low,none,mesophilic,none,none
+apple juice in fermentation (cider),cider,apple_juice,fruit,fermented_beverages,Plant,Vegetables/Fruit,apple,cider,cider apple,liquid,alcohol; acid; amino acids,lactic,high,medium,low,low,sulfites,mesophilic,>1 month,cold
+cider,cider,apple,fruit,fermented_beverages,Plant,Vegetables/Fruit,apple,cider,cider apple,liquid,alcohol; acid; amino acids,lactic,high,medium,low,low,sulfites,mesophilic,>1 month,cold
+fermenting apple juice,cider,apple,fruit,fermented_beverages,Plant,Vegetables/Fruit,apple,cider,cider apple,liquid,alcohol; acid; amino acids,lactic,high,medium,low,low,sulfites,mesophilic,>1 month,cold
+stagiaire sb cider,cider,apple,fruit,fermented_beverages,Plant,Vegetables/Fruit,apple,cider,cider apple,liquid,alcohol; acid; amino acids,lactic,high,medium,low,low,sulfites,mesophilic,>1 month,cold
+apple cider vinegar,apple_cider_vinegar,apple_cider,fruit,vinegar,Plant,Vegetables/Fruit,apple,vinegar,vinegar apple cider,liquid,acid,acetic,high,none,none,none,sugar,mesophilic,3-4 weeks,cold
+apple_cider_vinegar,vinegar,apple_cider,fruit,vinegar,Plant,Vegetables/Fruit,apple,vinegar,vinegar apple cider,liquid,acid,acetic,high,none,none,none,sugar,mesophilic,3-4 weeks,cold
+traditional fermented bamboo shoots,pickle,bamboo_shoots,other_plant_based,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,bamboo shoots,pickled veggetables,pickle bamboo shoots,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+black cherry,cherry,black_cherry,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,black cherry,not fermented,black cherry,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+blueberry,blueberry,blueberry,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,blueberry,not fermented,blueberry,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+cabbage,cabbage,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,pickled veggetables,cabbage,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+curtido 96h,curtido,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,pickled veggetables,curtido,solid,acid; amino acids,lactic,medium,none,low,low,salt; spices,mesophilic,days,ambient
+kimchi,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,pickled veggetables,kimchi,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
+kimchi brine 48h,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,pickled veggetables,kimchi,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
+queens water kimchi,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,pickled veggetables,kimchi,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
+volcano kimchi smokeshow,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,pickled veggetables,kimchi,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
+queens sf mukeunji,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,pickled veggetables,kimchi mukeunji,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
+cabbage kimchi,kimchi,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,pickled veggetables,kimcki,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
+red sauerkraut 21d,sauerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,pickled veggetables,sauerkraut,solid,acid,lactic,high,none,low,low,salt,mesophilic,2-6 weeks,ambient
+red sauerkraut 96h,sauerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,pickled veggetables,sauerkraut,solid,acid,lactic,high,none,low,low,salt,mesophilic,2-6 weeks,ambient
+alimentari aurora red kraut solid,sauerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,pickled veggetables,sauerkraut,solid,acid,lactic,high,none,low,low,salt,mesophilic,2-6 weeks,ambient
+sauerkraut,sauerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,pickled veggetables,sauerkraut,solid,acid,lactic,high,none,low,low,salt,mesophilic,2-6 weeks,ambient
+wild sauerkraut 96h,sauerkraut,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,pickled veggetables,sauerkraut,solid,acid,lactic,high,none,low,low,salt,mesophilic,2-6 weeks,ambient
+alimentari aurora red kraut brine,sauerkraut_brine,cabbage,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,pickled veggetables,sauerkraut,solid,acid,lactic,high,none,low,low,salt,mesophilic,2-6 weeks,ambient
+"suan tsai, fermented vegetables",pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cabbage,pickled veggetables,suan tsai,solid,acid,lactic,high,none,low,low,salt,mesophilic,2-6 weeks,ambient
+chocolate_coating,chocolate,cacao,fruit,chocolate,Plant,Vegetables/Fruit,cacao,chocolate,chocolate,solid,acid; amino acids; alcohol,acetic,medium,low,medium,low,none,mesophilic,days,ambient
+"cocoa bean fermentation, ghana",chocolate,cacao,fruit,chocolate,Plant,Vegetables/Fruit,cacao,chocolate,chocolate,solid,acid; amino acids; alcohol,acetic,medium,low,medium,low,none,mesophilic,days,ambient
+cocoa bean heap fermentation,chocolate,cacao,fruit,chocolate,Plant,Vegetables/Fruit,cacao,chocolate,chocolate,solid,acid; amino acids; alcohol,acetic,medium,low,medium,low,none,mesophilic,days,ambient
+cocoa fermentation,chocolate,cacao,fruit,chocolate,Plant,Vegetables/Fruit,cacao,chocolate,chocolate,solid,acid; amino acids; alcohol,acetic,medium,low,medium,low,none,mesophilic,days,ambient
+spontaneous cocoa bean fermentations,chocolate,cacao,fruit,chocolate,Plant,Vegetables/Fruit,cacao,chocolate,chocolate,solid,acid; amino acids; alcohol,acetic,medium,low,medium,low,none,mesophilic,days,ambient
+cocoa,cocoa,cacao_fruit_pulp_and_seeds,fruit,chocolate,Plant,Vegetables/Fruit,cacao,chocolate,chocolate,solid,acid; amino acids; alcohol,acetic,medium,low,medium,low,none,mesophilic,days,ambient
+red_pepper_sauce,pickle,chili_pepper,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,chili,condiment,chilli sauce,liquid,acid; amino acids,lactic,high,none,low,low,salt; spices,mesophilic,few weeks,ambient
+chilli paste,chilli_paste,chilli,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,chilli,condiment,chilli paste,paste,acid; amino acids,lactic,high,none,low,low,salt; spices,mesophilic,few weeks,ambient
+"chrysanthemum, oze national park",chrysanthemum,chrysanthemum,flower,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,chrysanthemum,not fermented,chrysanthemum,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+coffee,coffee,coffee,fruit,fermented_beverages,Plant,Vegetables/Fruit,coffee,coffee,coffee,solid,acid; amino acids,lactic,high,none,medium,low,none,mesophilic,none,none
+coffee,coffee,coffee_berries,fruit,fermented_beverages,Plant,Vegetables/Fruit,coffee,coffee,coffee,solid,acid; amino acids,lactic,high,none,medium,low,none,mesophilic,none,none
+ethiopian coffee fermentation,coffee,coffee,fruit,fermented_beverages,Plant,Vegetables/Fruit,coffee,coffee,coffee,solid,acid; amino acids,lactic,high,none,medium,low,none,mesophilic,none,none
+cucumber,cucumber,cucumber,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,cucumber,pickled veggetables,pickle cucumber,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+lacto elderberries,pickle,elderberries,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,elderberries,pickled veggetables,pickle elderberries,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+fig,wine,fig,fruit,fermented_beverages,Plant,Vegetables/Fruit,fig,pickled fruit,fig fermented,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+water_kefir,water_kefir,fig,fruit,fermented_beverages,Plant,Vegetables/Fruit,fig,alcoholic fruit beverage,tibicos fig,liquid,acid; alcohol,lactic,high,low,none,none,sugar,mesophilic,days,ambient
+salted beans,salted_beans,legume,legumes,other_fermented_legume,Plant,Vegetables/Fruit,glasswort,pickled veggetables,salted beans,solid,acid,lactic,high,none,low,low,none,mesophilic,1-2 weeks,ambient
+isolated organism,cider,fruit,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,cider,cider grape,liquid,alcohol; acid,mixed,high,high,none,none,sulfides,mesophilic,>1 month,cold
+must of grape,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,intermediate for wine,grape,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+quick vinegar,vinegar,wine,fruit,vinegar,Plant,Vegetables/Fruit,grape,vinegar,vinegar,liquid,acid,acetic,high,none,none,none,sugar,mesophilic,3-4 weeks,cold
+vinegar,vinegar,wine,fruit,vinegar,Plant,Vegetables/Fruit,grape,vinegar,vinegar,liquid,acid,acetic,high,none,none,none,sugar,mesophilic,3-4 weeks,cold
+commercial grape wine undergoing a sluggish/stuck alcoholic fermentation,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,wine,wine,liquid,alcohol; acid,mixed,high,high,none,none,sulfides,mesophilic,>1 month,cold
+mad ange pdc,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,wine,wine,liquid,alcohol; acid,mixed,high,high,none,none,sulfides,mesophilic,>1 month,cold
+must of bobal grape variety,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,wine,wine,liquid,alcohol; acid,mixed,high,high,none,none,sulfides,mesophilic,>1 month,cold
+partially fermented wine,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,wine,wine,liquid,alcohol; acid,mixed,high,high,none,none,sulfides,mesophilic,>1 month,cold
+wine,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,wine,wine,liquid,alcohol; acid,mixed,high,high,none,none,sulfides,mesophilic,>1 month,cold
+bobal wine,wine,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,wine,wine bobal,liquid,alcohol; acid,mixed,high,high,none,none,sulfides,mesophilic,>1 month,cold
+chardonnay must,chardonnay_must,grape,fruit,fermented_beverages,Plant,Vegetables/Fruit,grape,wine,wine chardonnay,liquid,alcohol; acid,mixed,high,high,none,none,sulfides,mesophilic,>1 month,cold
+fermented jackfruit,pickle,fruit,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,jackfruit,pickled fruit,pickle jackfruit,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+bolivan pickle,bolivan_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickled veggetables,pickle bolivian,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+bolivian pickle,bolivian_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickled veggetables,pickle bolivian,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+chinese pickle,chinese_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickled veggetables,pickle chinese,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+banana fruits,banana,banana,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickled veggetables,pickle Chinese traditional,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+chinese traditional pickle,chinese_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickled veggetables,pickle chinese traditional,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+greek pickle,greek_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickled veggetables,pickle greek,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+hijazi pickle,hijazi_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickled veggetables,pickle hijazi,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+indan pickle,indian_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickled veggetables,pickle indian,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+fermented vegetables,pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickled veggetables,pickle mixed vegetables,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+picked_vegetables,pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickled veggetables,pickle mixed vegetables,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+pickle,pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mixed vegetables,pickled veggetables,pickle mixed vegetables,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+"fu-tsai, a traditional fermented mustard product",pickle,mustard,plant,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mustard,pickled veggetables,fu-tsai,solid,acid; amino acids,lactic,high,none,low,low,salt,mesophilic,1 week,ambient
+"fu-tsai, a traditional fermented mustard product",pickle,mustard,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mustard,pickled veggetables,fu-tsai,solid,acid; amino acids,lactic,high,none,low,low,salt,mesophilic,1 week,ambient
+mustard leaf,mustard_leaf,mustard,vegetable,fermented_vegetable,Plant,Vegetables/Fruit,mustard,pickled veggetables,mustard leaf,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+Zha cai,pickle,tea,plant,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,mustard,pickled veggetables,Zha cai,solid,acid,lactic,high,none,medium,low,salt,mesophilic,>1 month,ambient
+honey,honey,nectar,other_plant_based,other_plant_based_fermentation,Plant,Vegetables/Fruit,nectar,not fermented,honey,syrup,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown,unknown
+okra,pickle,okra,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,okra,pickled veggetables,pickle okra,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+onion pickle,onion_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,onion,pickled veggetables,pickle onion,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+orange,orange,orange,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,orange,pickled fruit,orange,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+emu,emu,palm_sap,other_plant_based,fermented_beverages,Plant,Vegetables/Fruit,palm sap,alcoholic vegetable beverage,emu,liquid,alcohol; acid,mixed,high,low,none,none,none,mesophilic,none,none
+palm_wine,palm_wine,palm_sap,other_plant_based,fermented_beverages,Plant,Vegetables/Fruit,palm sap,wine,wine palm,liquid,alcohol; acid,mixed,high,medium,none,none,none,mesophilic,none,none
+palm wine,wine,palm_sap,other_plant_based,fermented_beverages,Plant,Vegetables/Fruit,palm sap,wine,wine palm,liquid,alcohol; acid,mixed,high,medium,none,none,none,mesophilic,none,none
+papaya pickle,papaya_pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,papaya,pickled fruit,pickle papaya,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+fermented pepper,pickle,pepper,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,pepper,pickled veggetables,pickle peper,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+tepache,tepache,pineapple,fruit,fermented_beverages,Plant,Vegetables/Fruit,pineapple,alcoholic fruit beverage,tepache,liquid,alcohol; acid,lactic,high,low,low,low,sugar,mesophilic,days,ambient
+agadagidi,agadagidi,plantain,fruit,fermented_beverages,Plant,Vegetables/Fruit,plantain,alcoholic fruit beverage,agadagidi,liquid,alcohol; acid,lactic,high,low,low,low,sulphites,mesophilic,days,ambient
+scallion kimchi,kimchi,scallion,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,scallion,pickled veggetables,kimchi scallion,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
+queens sf lacto ferm serrano,pickle,queens_sf_lacto_ferm_serrano,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,serrano peper,pickled veggetables,pickle serrano peper,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+fermented cane molasses at alcohol plants,molasses,sugar_cane,vegetable,other_plant_based_fermentation,Plant,Vegetables/Fruit,sugar,intermediate product for alcohol,molasses,syrup,alcohol; acid,lactic,high,high,none,none,none,mesophilic,none,none
+tibicos,water_kefir,sugar,sugar,fermented_beverages,Plant,Vegetables/Fruit,sugar,alcoholic fruit beverage,tibicos,liquid,acid; alcohol,lactic,high,low,none,none,sugar,mesophilic,days,ambient
+water kefir,water_kefir,sugar,sugar,fermented_beverages,Plant,Vegetables/Fruit,sugar,alcoholic fruit beverage,tibicos,liquid,acid; alcohol,lactic,high,low,none,none,sugar,mesophilic,days,ambient
+water_kefir,water_kefir,fruit,fruit,fermented_beverages,Plant,Vegetables/Fruit,sugar,alcoholic fruit beverage,tibicos,liquid,acid; alcohol,lactic,high,low,none,none,sugar,mesophilic,days,ambient
+fermented vinegar broth,broth,broth,meat,other_fermented_meat,Plant,Vegetables/Fruit,sugar,alcoholic fruit beverage,vinegar broth,liquid,acid; alcohol,acetic,high,low,none,none,none,mesophilic,unknown,unknown
+kombucha,kombucha,sugar,sugar,fermented_beverages,Plant,Vegetables/Fruit,tea,alcoholic vegetable beverage,kombucha,liquid,acid; alcohol,acetic,high,low,low,low,sugar,mesophilic,up to 2 weeks,cold
+kombucha,kombucha,tea_sugar,plant,fermented_beverages,Plant,Vegetables/Fruit,tea,alcoholic vegetable beverage,kombucha,liquid,acid; alcohol,acetic,high,low,low,low,sugar,mesophilic,up to 2 weeks,cold
+kombucha tea,kombucha,sugar,sugar,fermented_beverages,Plant,Vegetables/Fruit,tea,alcoholic vegetable beverage,kombucha,liquid,acid; alcohol,acetic,high,low,low,low,sugar,mesophilic,up to 2 weeks,cold
+"scoby, kombucha tea",kombucha,sugar,sugar,fermented_beverages,Plant,Vegetables/Fruit,tea,alcoholic vegetable beverage,kombucha,liquid,acid; alcohol,acetic,high,low,low,low,sugar,mesophilic,up to 2 weeks,cold
+fermented tea leaves (miang),tea,tea,plant,fermented_beverages,Plant,Vegetables/Fruit,tea,pickled veggetables,miang,solid,acid; amino acids,lactic,high,none,medium,low,salt,mesophilic,varies,ambient
+tea,tea,tea,plant,fermented_beverages,Plant,Vegetables/Fruit,tea,alcoholic vegetable beverage,tea fermented,liquid,acid; alcohol,acetic,high,low,low,low,sugar,mesophilic,up to 2 weeks,cold
+tomato_and_mustards,pickle,tomato_and_mustards,fruits_and_vegetables,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,tomato,pickled veggetables,pickle tomato,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
+non-salted pickle solution used in production of sunki,pickle,turnip_leaves,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,turnip,pickled veggetables,sunki,solid,acid,lactic,high,none,medium,low,none,mesophilic,weeks,cold
+"sunki, a japanese traditional pickle",pickle,vegetable,vegetable,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,turnip,pickled veggetables,sunki,solid,acid; amino acids,lactic,high,none,medium,low,none,mesophilic,weeks,cold
+brown algae kimchi,kimchi,wakame,seaweed,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,wakame,pickled veggetables,kimchi wakame,solid,acid; alcohol; amino acids,lactic,medium,low,low,low,salt; spices,mesophilic,days to months,cold
+queens sf lacto ferm 4% yellow peach 8/26/21,pickle,queens_sf_lacto_ferm_4%_yellow_peach_8_26_21,fruit,pickled_fruits_vegetables_roots,Plant,Vegetables/Fruit,yellow peach,pickled fruit,pickle yellow peach,solid,acid,lactic,high,none,low,low,salt; spices,mesophilic,days to months,varies
