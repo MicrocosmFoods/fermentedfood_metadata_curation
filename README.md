@@ -1,10 +1,13 @@
 # Curration of Fermentation dataset 
 In this repository, we curated the metadata associated with the MAGs of the fermentedfood_mags_curation repository. <br>
-Are goals are to:
-1. Find and associate each MAG with it's source raw data.
+The goals of the curation were to:
+1. Find and associate each MAG with it's source raw data - NCBI accesion numbers
 2. Properly cite the original papers that generated the data.
-3. Find and remove duplicate entries.
-4. Re-organize the columns for food taxonomy and process information.
+3. Re-organize the columns for food taxonomy and process information.
+4. Identify representative genomes at the species and strain level.
+5. Assign standardized taxonomy to the MAGs.
+
+
 
 ## The main items in the repository are:
 * data/Food_MAGs_curated_metadata_250421_corrected.csv - the updated and curated metadata table
