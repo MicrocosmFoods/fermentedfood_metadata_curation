@@ -7,9 +7,11 @@ The goals of the curation were to:
 4. Identify representative genomes at the species and strain level.
 5. Assign standardized taxonomy to the MAGs.
 
-
-
 ## The main items in the repository are:
+### Notebooks
+There are three notebooks in the repository. 
+1. 
+
 * data/Food_MAGs_curated_metadata_250421_corrected.csv - the updated and curated metadata table
 * data/Food_MAGs_curated_metadata_250421_corrected_merged_final.csv - full metadata including food taxonomy
 * data_wrangling.ipynb - the notebook used to clean and update the metadata.
