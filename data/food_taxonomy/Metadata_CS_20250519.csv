@@ -1,0 +1,254 @@
+Food Name,Sample Name,Origin,Ingredient Group,Main Ingredient,Food Type,Consistency,Has Alcohol,Alcohol Level,Has Amylase,Has Protease,Has Lipase,Has Acid,Acid Type,Acid Level,Main Ferment,Fermentation Temp,Aging Time
+viili,viili_48_h,Animal,Dairy,milk,yogurt,semi-solid,no,none,minimal,high,minimal,high,lactic,medium,acid; amino acids,mesophilic,12-24 hours
+yogurt,yogurt,Animal,Dairy,milk,yogurt,semi-solid,no,none,minimal,high,minimal,high,lactic,medium,acid; amino acids,thermophilic,4-8 hours
+whey,whey,Animal,Dairy,milk,whey,liquid,no,none,minimal,high,minimal,high,lactic,low,acid,mesophilic,not applicable
+rice vinegar,rice_vinegar,Plant,Grain,rice,vinegar,liquid,minimal,low,no,minimal,no,high,acetic,high,acid; alcohol,mesophilic,unknown
+vinegar,quick_vinegar,Plant,Fruit,grape,vinegar,liquid,minimal,low,minimal,minimal,no,high,acetic,high,acid,mesophilic,3-4 weeks
+vinegar,vinegar,Plant,Fruit,grape,vinegar,liquid,minimal,low,minimal,minimal,no,high,acetic,high,acid,mesophilic,3-4 weeks
+vinegar apple cider,apple_cider_vinegar,Plant,Fruit,apple,vinegar,liquid,minimal,low,minimal,minimal,no,high,acetic,high,acid,mesophilic,3-4 weeks
+vinegar apple cider,apple_cider_vinegar,Plant,Fruit,apple,vinegar,liquid,minimal,low,minimal,minimal,no,high,acetic,high,acid,mesophilic,3-4 weeks
+honey,honey,Animal,Sugar,honey,sweetener,liquid,no,unknown,no,no,no,no,unknown,unknown,unknown,unknown,unknown
+molasses,fermented_cane_molasses_at_alcohol_plants,Plant,Sugar,sugar cane,sweetener,liquid,minimal,high,minimal,minimal,no,moderate,lactic,high,alcohol; acid,mesophilic,1-7 days
+fermentation starter,alcohol_fermentation_starter,Plant,Grain,rice,starter culture,semi-solid,yes,low,high,minimal,no,minimal,none,none,none,none,5-7 days
+keem,keem,Plant,Grain,barley,starter culture,solid,minimal,low,high,minimal,no,moderate,mixed,none,none,none,3-7 days
+nuka-doko,rice_bran_paste,Plant,Grain,rice,starter culture,semi-solid,no,none,moderate,moderate,minimal,high,lactic,medium,acid,mesophilic,20 days
+nuruk,nuruk,Plant,Grain,wheat,starter culture,solid,minimal,low,high,minimal,no,moderate,mixed,none,none,mesophilic,7-14 days
+shochu mash,shochu_mash,Plant,Grain,rice,starter culture,semi-solid,yes,high,high,minimal,no,minimal,none,medium,alcohol; acid,mesophilic,1-7 days
+attieke,attieke,Plant,Roots_Tubers,cassava,starch-based staple,solid,no,none,high,minimal,no,yes,lactic,medium,acid; amino acids,mesophilic,1-7 days
+cassava,fermented_cassava,Plant,Roots_Tubers,cassava,starch-based staple,semi-solid,minimal,unknown,high,minimal,no,moderate,unknown,unknown,acid,unknown,unknown
+cassava sour starch,cassava_sour_starch_fermentation,Plant,Roots_Tubers,cassava,starch-based staple,semi-solid,minimal,low,high,minimal,no,moderate,lactic,low,acid,mesophilic,20-70 days
+fufu,fufu,Plant,Roots_Tubers,cassava,starch-based staple,semi-solid,minimal,low,high,minimal,no,moderate,lactic,medium,acid; amino acids,mesophilic,1-7 days
+fura,fura,Plant,Grain,millet,starch-based staple,solid,yes,low,high,minimal,no,moderate,lactic,low,acid,mesophilic,1-3 days
+gari,gari,Plant,Roots_Tubers,cassava,starch-based staple,semi-solid,minimal,low,high,minimal,no,high,lactic,medium,acid; amino acids,mesophilic,1-7 days
+injera,injera,Plant,Grain,teff,starch-based staple,solid,minimal,low,high,moderate,no,high,lactic,high,acid,mesophilic,1-3 days
+jalebi,jalebi,Plant,Grain,wheat,starch-based staple,solid,yes,low,high,minimal,minimal,minimal,lactic,medium,acid,mesophilic,1 day
+koko,koko,Plant,Grain,millet,starch-based staple,semi-solid,minimal,low,high,minimal,no,high,lactic,high,acid; alcohol; amino acids,mesophilic,1-3 days
+lafun,lafun,Plant,Roots_Tubers,cassava,starch-based staple,semi-solid,minimal,low,high,minimal,no,moderate,lactic,medium,acid; amino acids,mesophilic,1-7 days
+massa,massa,Plant,Grain,rice,starch-based staple,solid,minimal,low,high,minimal,no,moderate,lactic,medium,acid; alcohol,mesophilic,1-3 days
+millet fermented,millet,Plant,Grain,millet,starch-based staple,semi-solid,minimal,unknown,high,minimal,no,moderate,unknown,unknown,unknown,unknown,unknown
+mou,mou,Plant,Roots_Tubers,cassava,starch-based staple,semi-solid,minimal,low,high,minimal,no,moderate,lactic,medium,acid; amino acids,mesophilic,1-7 days
+ogi,ogi,Plant,Grain,corn,starch-based staple,semi-solid,minimal,low,high,minimal,no,high,mixed,high,acid,mesophilic,1-3 days
+rice fermented,fermented_rice_grain,Plant,Grain,rice,starch-based staple,semi-solid,yes,unknown,yes,minimal,no,minimal,unknown,unknown,unknown,unknown,unknown
+sourdough,artisanal_wheat_sourdough,Plant,Grain,wheat,starch-based staple,solid,minimal,low,high,moderate,minimal,high,mixed,medium,acid,mesophilic,1-2 days
+sourdough,chinese_traditional_pickle_and_sourdough,Plant,Grain,wheat,starch-based staple,solid,minimal,low,high,moderate,minimal,high,mixed,medium,acid,mesophilic,1-2 days
+sourdough,fermented_wheat_flour,Plant,Grain,wheat,starch-based staple,solid,minimal,low,high,moderate,minimal,high,mixed,medium,acid,mesophilic,1-2 days
+sourdough,sourdough,Plant,Grain,wheat,starch-based staple,solid,minimal,low,high,moderate,minimal,high,mixed,medium,acid,mesophilic,1-2 days
+sourdough,wheat_sourdough,Plant,Grain,wheat,starch-based staple,solid,minimal,low,high,moderate,minimal,high,mixed,medium,acid,mesophilic,1-2 days
+sourdough rice,rice_sourdough,Plant,Grain,rice,starch-based staple,solid,minimal,low,high,moderate,minimal,high,mixed,medium,acid,mesophilic,1-2 days
+sourdough rye,rye_sourdough,Plant,Grain,rye,starch-based staple,solid,minimal,low,high,moderate,minimal,high,mixed,medium,acid,mesophilic,1-2 days
+sourdough rye,ryebran_sourdough,Plant,Grain,rye,starch-based staple,solid,minimal,low,high,moderate,minimal,high,mixed,medium,acid,mesophilic,1-2 days
+ugi,ugi,Plant,Grain,sorghum,starch-based staple,semi-solid,minimal,low,high,minimal,no,moderate,lactic,medium,acid,mesophilic,1-3 days
+natto,burmese_natto,Plant,Legumes,soybean,soybean solids,solid,no,none,high,high,minimal,minimal,lactic,alkaline,amino acids; ammonia; PGA,mesophilic,1-7 days
+tempeh,bean_paste,Plant,Legumes,soybean,soybean solids,solid,no,none,high,high,moderate,minimal,lactic,low,amino acids; acid; ammonia,mesophilic,1-2 days
+tempeh,tempeh,Plant,Legumes,soybean,soybean solids,solid,no,low,high,high,moderate,minimal,lactic,low,amino acids; acid; ammonia,mesophilic,1-2 days
+tempeh,tempeh_0_h,Plant,Legumes,soybean,soybean solids,solid,no,low,high,high,moderate,minimal,lactic,low,amino acids; acid; ammonia,mesophilic,1-2 days
+tofu chili,tofu_chili,Plant,Legumes,soybean,soybean solids,semi-solid,no,unknown,minimal,high,minimal,moderate,unknown,unknown,unknown,unknown,unknown
+tofu mao doufu,dofu_mold,Plant,Legumes,soybean,soybean solids,semi-solid,no,none,minimal,high,minimal,moderate,lactic,low,amino acids; acid; ammonia; fatty acids,mesophilic,1-7 days
+bean paste,bean_paste,Plant,Legumes,soybean,soybean paste,semi-solid,no,unknown,moderate,high,minimal,yes,unknown,unknown,amino acids,unknown,unknown
+dajiang-meju,bean_paste,Plant,Legumes,soybean,soybean paste,semi-solid,no,none,moderate,high,minimal,moderate,lactic,low,amino acids; acid,mesophilic,1-3 months
+furu,furu_2,Plant,Legumes,soybean,soybean paste,semi-solid,yes,low,high,minimal,no,moderate,lactic,low,amino acids; acid; ammonia,mesophilic,1-3 months
+gochujang,gochujang,Plant,Legumes,soybean,soybean paste,semi-solid,minimal,low,moderate,high,minimal,moderate,lactic,medium,acid; alcohol; amino acids,mesophilic,1-3 months
+grep-chhurpi,grepchhurpi,Plant,Legumes,soybean,soybean paste,semi-solid,no,none,minimal,high,minimal,moderate,lactic,alkaline,amino acids; ammonia; acid,mesophilic,1-7 days
+kinema,soybean,Plant,Legumes,soybean,soybean paste,semi-solid,no,none,moderate,high,minimal,moderate,mixed,alkaline,amino acids; ammonia; PGA,mesophilic,1-3 days
+meju,meju,Plant,Legumes,soybean,soybean solids,solid,no,none,moderate,high,minimal,moderate,lactic,alkaline,acid; amino acids; ammonia; glycerol; sugar,mesophilic,1-2 months
+miso,novel_miso,Plant,Legumes,soybean,soybean paste,semi-solid,minimal,low,moderate,high,moderate,moderate,lactic,alkaline,amino acids; sugar; acid; alcohol,mesophilic,1-3 months
+peha,peha,Plant,Legumes,soybean,soybean paste,semi-solid,no,none,moderate,high,minimal,moderate,lactic,alkaline,amino acids; ammonia; PGA,mesophilic,1-3 days
+peron namsing,peron_namsing,Plant,Legumes,soybean,soybean paste,semi-solid,no,none,moderate,high,minimal,moderate,lactic,alkaline,amino acids; ammonia; PGA,mesophilic,1-3 days
+perunyaan,perunyaan,Plant,Legumes,soybean,soybean paste,semi-solid,no,none,moderate,high,minimal,moderate,lactic,alkaline,amino acids; ammonia; PGA,mesophilic,1-3 days
+soybean meal fermented,fermented_soybean_meal,Plant,Legumes,soybean,soybean paste,semi-solid,no,none,moderate,high,minimal,moderate,lactic,low,amino acids; acid; ammonia,mesophilic,1-2 weeks
+soy sauce,cinsoy_s21_v1,Plant,Legumes,soybean,soybean liquid,liquid,minimal,low,high,high,minimal,high,lactic,medium,amino acids; acid; alcohol,mesophilic,6-12 months
+soy sauce,cinsoy_tamari_mother,Plant,Legumes,soybean,soybean liquid,liquid,minimal,low,high,high,minimal,high,lactic,medium,amino acids; acid; alcohol,mesophilic,6-12 months
+soy sauce,shoyu,Plant,Legumes,soybean,soybean liquid,liquid,minimal,low,high,high,minimal,high,lactic,medium,amino acids; acid; alcohol,mesophilic,6-12 months
+soy sauce,soy_sauce,Plant,Legumes,soybean,soybean liquid,liquid,minimal,low,high,high,minimal,high,lactic,medium,amino acids; acid; alcohol,mesophilic,6-12 months
+soy sauce,soybean,Plant,Legumes,soybean,soybean liquid,liquid,minimal,low,high,high,minimal,high,lactic,medium,amino acids; acid; alcohol,mesophilic,6-12 months
+tofu stinky,stinky_tofu_brine,Plant,Legumes,soybean,soybean liquid,liquid,no,none,minimal,high,minimal,moderate,lactic,medium,amino acids; acid; ammonia; fatty acids,mesophilic,3-6 weeks
+tofu whey,naturally_fermented_tofu_whey,Plant,Legumes,soybean,soybean liquid,liquid,no,unknown,minimal,high,minimal,moderate,unknown,unknown,unknown,unknown,unknown
+chilli paste,chilli_paste,Plant,Vegetables_Aromatics,chili pepper,seasoning,semi-solid,no,none,minimal,moderate,minimal,yes,lactic,high,acid; amino acids,mesophilic,2-3 weeks
+chilli sauce,red_pepper_sauce,Plant,Vegetables_Aromatics,chili pepper,seasoning,semi-solid,no,none,minimal,moderate,minimal,yes,lactic,high,acid; amino acids,mesophilic,2-3 weeks
+fish fermented,fermented_fish,Animal,Seafood,fish,seafood,solid,no,none,minimal,high,high,moderate,lactic,low,amino acids; acid; amines,mesophilic,2-4 weeks
+hongeo,skate_fish,Animal,Seafood,skate,seafood,solid,no,none,minimal,high,high,moderate,mixed,minimal,ammonia; amino acids,psychrophilic,1 month
+jeotgal,jeotgal,Animal,Seafood,seafood,seafood,solid,no,none,minimal,high,high,moderate,lactic,low,amino acids; acid; amines,mesophilic,2-4 months
+seafood fermented,fermented_seafoods,Animal,Seafood,seafood,seafood,solid,no,none,minimal,high,high,moderate,lactic,low,amino acids; acid; amines,mesophilic,2-4 weeks
+nem chua,traditional_vietnamese_nem_chua,Animal,Meat,pork,sausage,solid,no,none,minimal,high,moderate,high,lactic,medium,acid; amino acids,mesophilic,1-3 days
+salami,salami,Animal,Meat,pork,sausage,solid,no,none,minimal,high,high,moderate,lactic,medium,acid; amino acids,mesophilic,2-4 weeks
+salami,sausage,Animal,Meat,pork,sausage,solid,no,none,minimal,high,high,moderate,lactic,medium,acid; amino acids,mesophilic,2-4 weeks
+salami chicken,poultry_meat,Animal,Meat,chicken,sausage,solid,no,none,minimal,high,high,moderate,lactic,medium,acid; amino acids,mesophilic,2-4 weeks
+salami chicken,poultry_salami,Animal,Meat,chicken,sausage,solid,no,none,minimal,high,high,moderate,lactic,medium,acid; amino acids,mesophilic,2-4 weeks
+salami pork,pork_salami,Animal,Meat,pork,sausage,solid,no,none,minimal,high,high,moderate,lactic,medium,acid; amino acids,mesophilic,2-4 weeks
+sausage,fermented_sausages,Animal,Mixed,pork/beef,sausage,solid,no,none,minimal,high,high,moderate,lactic,medium,acid; amino acids,mesophilic,2-4 weeks
+sausage,meat,Animal,Mixed,pork/beef,sausage,solid,no,none,minimal,high,high,moderate,lactic,medium,acid; amino acids,mesophilic,2-4 weeks
+sausage greek,dry_naturally_fermented_greek_sausage,Animal,Meat,pork,sausage,solid,no,none,minimal,high,high,moderate,lactic,medium,acid; amino acids,mesophilic,2-4 weeks
+sausage italian,meat,Animal,Meat,pork,sausage,solid,no,none,minimal,high,high,moderate,lactic,medium,acid; amino acids,mesophilic,2-4 weeks
+probiotics,dietary_supplement,Microbial,Microbial,microbes,probiotics,powder,minimal,low,moderate,high,minimal,high,mixed,none,none,none,not applicable
+probiotics,probiotics,Microbial,Microbial,microbes,probiotics,powder,minimal,low,moderate,high,minimal,high,mixed,none,none,none,not applicable
+miang,fermented_tea_leaves_miang,Plant,Botanical,tea leaves,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid; amino acids,mesophilic,variable
+mustard leaf,mustard_leaf,Plant,Botanical,mustard plant,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle tomato,tomato_and_mustards,Plant,Botanical,mustard plant,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+zha cai,zha_cai,Plant,Botanical,mustard plant,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1-3 months
+cabbage,cabbage,Plant,Vegetables_Aromatics,cabbage,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+carrot sticks,carrot_sticks,Plant,Vegetables_Aromatics,carrot,pickled vegetables,solid,no,unknown,minimal,minimal,no,high,unknown,unknown,acid,unknown,unknown
+curtido,curtido_96_h,Plant,Vegetables_Aromatics,cabbage,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,medium,acid; amino acids,mesophilic,1-7 days
+dukkah sauerkraut,dukkah,Plant,Vegetables_Aromatics,cabbage,pickled vegetables,solid,no,unknown,moderate,moderate,minimal,minimal,unknown,unknown,unknown,unknown,unknown
+fu-tsai,futsai_a_traditional_fermented_mustard_product,Plant,Vegetables_Aromatics,mustard plant,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid; amino acids,mesophilic,1 week
+fu-tsai,futsai_a_traditional_fermented_mustard_product,Plant,Vegetables_Aromatics,mustard plant,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid; amino acids,mesophilic,1 week
+garlic fermented,garlic,Plant,Vegetables_Aromatics,garlic,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+ginger fermented,ginger,Plant,Vegetables_Aromatics,ginger,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+kasuzuke,daikon_kasuzuke,Plant,Vegetables_Aromatics,daikon,pickled vegetables,solid,minimal,low,minimal,minimal,no,high,lactic,medium,acid; alcohol; amino acids,mesophilic,1 day - 3 months
+kimchi,cabbage_kimchi,Plant,Vegetables_Aromatics,cabbage,pickled vegetables,solid,minimal,low,minimal,minimal,no,high,lactic,medium,acid; alcohol; amino acids,mesophilic,1 day - 3 months
+kimchi,kimchi,Plant,Vegetables_Aromatics,cabbage,pickled vegetables,solid,minimal,low,minimal,minimal,no,high,lactic,medium,acid; alcohol; amino acids,mesophilic,1 day - 3 months
+kimchi,kimchi_brine_48_h,Plant,Vegetables_Aromatics,cabbage,pickled vegetables,liquid,minimal,low,minimal,minimal,no,high,lactic,medium,acid; alcohol; amino acids,mesophilic,1 day - 3 months
+kimchi,queens_water_kimchi,Plant,Vegetables_Aromatics,cabbage,pickled vegetables,solid,minimal,low,minimal,minimal,no,high,lactic,medium,acid; alcohol; amino acids,mesophilic,1 day - 3 months
+kimchi,volcano_kimchi_smokeshow,Plant,Vegetables_Aromatics,cabbage,pickled vegetables,solid,minimal,low,minimal,minimal,no,high,lactic,medium,acid; alcohol; amino acids,mesophilic,1 day - 3 months
+kimchi mukeunji,queens_sf_mukeunji,Plant,Vegetables_Aromatics,cabbage,pickled vegetables,solid,minimal,low,minimal,minimal,no,high,lactic,medium,acid; alcohol; amino acids,mesophilic,1 day - 3 months
+kimchi potato,potato_kimchi,Plant,Roots_Tubers,potato,pickled vegetables,solid,minimal,low,minimal,minimal,no,high,lactic,medium,acid; alcohol; amino acids,mesophilic,1 day - 3 months
+kimchi scallion,scallion_kimchi,Plant,Vegetables_Aromatics,scallion,pickled vegetables,solid,minimal,low,minimal,minimal,no,high,lactic,medium,acid; alcohol; amino acids,mesophilic,1 day - 3 months
+kimchi wakame,brown_algae_kimchi,Plant,Vegetables_Aromatics,seaweed,pickled vegetables,solid,minimal,low,minimal,minimal,no,high,lactic,medium,acid; alcohol; amino acids,mesophilic,1 day - 3 months
+pickle bamboo shoots,traditional_fermented_bamboo_shoots,Plant,Vegetables_Aromatics,bamboo shoots,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle bolivian,bolivan_pickle,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle bolivian,bolivian_pickle,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle chinese,chinese_pickle,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle Chinese traditional,banana_fruits,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle Chinese traditional,chinese_traditional_pickle,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle cucumber,cucumber,Plant,Vegetables_Aromatics,cucumber,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle daikon,daikon,Plant,Vegetables_Aromatics,daikon,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle greek,greek_pickle,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle hijazi,hijazi_pickle,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle indian,indan_pickle,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle mixed vegetables,fermented_vegetables,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle mixed vegetables,picked_vegetables,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle mixed vegetables,pickle,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle okra,okra,Plant,Vegetables_Aromatics,okra,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle onion,onion_pickle,Plant,Vegetables_Aromatics,onion,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle pepper,fermented_pepper,Plant,Vegetables_Aromatics,chili pepper,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle radish,fermented_radish,Plant,Vegetables_Aromatics,radish,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle serrano pepper,queens_sf_lacto_ferm_serrano,Plant,Vegetables_Aromatics,chili pepper,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+salted glasswort,salted_beans,Plant,Vegetables_Aromatics,glasswort,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1-2 weeks
+sauerkraut,alimentari_aurora_red_kraut_brine,Plant,Vegetables_Aromatics,cabbage,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,2-6 weeks
+sauerkraut,alimentari_aurora_red_kraut_solid,Plant,Vegetables_Aromatics,cabbage,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,2-6 weeks
+sauerkraut,red_sauerkraut_21_d,Plant,Vegetables_Aromatics,cabbage,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,2-6 weeks
+sauerkraut,red_sauerkraut_96_h,Plant,Vegetables_Aromatics,cabbage,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,2-6 weeks
+sauerkraut,sauerkraut,Plant,Vegetables_Aromatics,cabbage,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,2-6 weeks
+sauerkraut,wild_sauerkraut_96_h,Plant,Vegetables_Aromatics,cabbage,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,2-6 weeks
+senmaizuke,senmaizuke_a_japanese_pickle,Plant,Roots_Tubers,turnip,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,medium,acid,mesophilic,1-7 days
+suan tsai,suan_tsai_fermented_vegetables,Plant,Vegetables_Aromatics,cabbage,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,2-6 weeks
+sunki,nonsalted_pickle_solution_used_in_production_of_sunki,Plant,Roots_Tubers,turnip,pickled vegetables,liquid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1-4 weeks
+sunki,sunki_a_japanese_traditional_pickle,Plant,Roots_Tubers,turnip,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid; amino acids,mesophilic,1-4 weeks
+turnip fermented,turnip,Plant,Roots_Tubers,turnip,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+fig fermented,fig,Plant,Fruit,fig fermented,pickled fruit,solid,no,none,minimal,minimal,no,yes,lactic,high,acid,mesophilic,1 day - 3 months
+orange,orange,Plant,Fruit,orange,pickled fruit,solid,no,none,minimal,minimal,no,yes,lactic,high,acid,mesophilic,1 day - 3 months
+pickle elderberries,lacto_elderberries,Plant,Fruit,elderberries,pickled fruit,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle jackfruit,fermented_jackfruit,Plant,Fruit,jackfruit,pickled fruit,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle papaya,papaya_pickle,Plant,Fruit,papaya,pickled fruit,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle yellow peach,queens_sf_lacto_ferm_4_yellow_peach_82621,Plant,Fruit,yellow peach,pickled fruit,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+ugba,ugba,Plant,Legumes,oil bean seed,other bean solid,solid,no,none,moderate,high,moderate,moderate,lactic,alkaline,amino acids; ammonia; acid,mesophilic,1-7 days
+dawadawa,dawadawa,Plant,Legumes,locust bean,other bean paste,semi-solid,no,none,moderate,high,minimal,moderate,lactic,none,ammonia; amino acids,mesophilic,1-3 days
+iru,iru,Plant,Legumes,locust bean,other bean paste,semi-solid,no,none,moderate,high,minimal,moderate,lactic,none,ammonia; amino acids,mesophilic,1-3 days
+kantong,kantong,Plant,Legumes,kapok seeds,other bean paste,semi-solid,no,none,moderate,high,minimal,moderate,lactic,medium,acid; amino acids,mesophilic,1-2 weeks
+miso yellow pea,nixtamalized_yellow_pea_miso,Plant,Legumes,yellow pea,other bean paste,semi-solid,no,none,moderate,high,moderate,moderate,lactic,medium,amino acids; acid,mesophilic,1-3 months
+miso yellow pea,swedish_vreta_pea_miso,Plant,Legumes,yellow pea,other bean paste,semi-solid,no,none,moderate,high,moderate,moderate,lactic,medium,amino acids; acid,mesophilic,1-3 months
+miso yellow pea,yellow_pea_miso,Plant,Legumes,yellow pea,other bean paste,semi-solid,no,none,moderate,high,moderate,moderate,lactic,medium,amino acids; acid,mesophilic,1-3 months
+moromi,lupinebased_moromi_fermentation,Plant,Legumes,lupine,other bean paste,semi-solid,no,none,moderate,high,minimal,moderate,lactic,medium,acid; amino acids,mesophilic,1-6 months
+ogiri,ogiri,Plant,Legumes,melon seed,other bean paste,semi-solid,no,none,moderate,high,moderate,moderate,lactic,low,ammonia; amino acids,mesophilic,2-4 days
+okpehe,okpehe,Plant,Legumes,Prosopis africana seeds,other bean paste,semi-solid,no,none,high,high,high,moderate,lactic,none,ammonia; amino acids,mesophilic,2-3 days
+otiru,otiru,Plant,Legumes,African yam bean seeds,other bean paste,semi-solid,no,none,moderate,high,moderate,moderate,lactic,medium,ammonia; amino acids; acid,mesophilic,1-2 weeks
+soumbala,soumbala,Plant,Legumes,locust bean,other bean paste,semi-solid,no,none,moderate,high,moderate,moderate,lactic,none,ammonia; amino acids,mesophilic,1-3 days
+black cherry,black_cherry,Plant,Fruit,black cherry,not fermented,solid,no,none,minimal,minimal,no,yes,lactic,high,none,mesophilic,1 day - 3 months
+blueberry,blueberry,Plant,Fruit,blueberry,not fermented,solid,no,none,minimal,minimal,no,yes,lactic,high,none,mesophilic,1 day - 3 months
+chrysanthemum,chrysanthemum_oze_national_park,Plant,Botanical,chrysanthemum,not fermented,solid,no,unknown,no,no,no,no,unknown,unknown,unknown,unknown,unknown
+coffee,coffee,Plant,Cocoa_Coffee,coffee bean,coffee,solid,minimal,low,minimal,minimal,minimal,moderate,lactic,high,acid; amino acids,mesophilic,1-2 days
+coffee,coffee,Plant,Cocoa_Coffee,coffee bean,coffee,solid,minimal,low,minimal,minimal,minimal,moderate,lactic,high,acid; amino acids,mesophilic,1-2 days
+coffee,ethiopian_coffee_fermentation,Plant,Cocoa_Coffee,coffee bean,coffee,solid,minimal,low,minimal,minimal,minimal,moderate,lactic,high,acid; amino acids,mesophilic,1-2 days
+chocolate,chocolate_coating,Plant,Cocoa_Coffee,cocoa bean,chocolate,solid,minimal,low,moderate,high,moderate,minimal,acetic,medium,acid; amino acids; alcohol,mesophilic,1-7 days
+chocolate,cocoa,Plant,Cocoa_Coffee,cocoa bean,chocolate,solid,minimal,low,moderate,high,moderate,minimal,acetic,medium,acid; amino acids; alcohol,mesophilic,1-7 days
+chocolate,cocoa_bean_fermentation_ghana,Plant,Cocoa_Coffee,cocoa bean,chocolate,solid,minimal,low,moderate,high,moderate,minimal,acetic,medium,acid; amino acids; alcohol,mesophilic,1-7 days
+chocolate,cocoa_bean_heap_fermentation,Plant,Cocoa_Coffee,cocoa bean,chocolate,solid,minimal,low,moderate,high,moderate,minimal,acetic,medium,acid; amino acids; alcohol,mesophilic,1-7 days
+chocolate,cocoa_fermentation,Plant,Cocoa_Coffee,cocoa bean,chocolate,solid,minimal,low,moderate,high,moderate,minimal,acetic,medium,acid; amino acids; alcohol,mesophilic,1-7 days
+chocolate,spontaneous_cocoa_bean_fermentations,Plant,Cocoa_Coffee,cocoa bean,chocolate,solid,minimal,low,moderate,high,moderate,minimal,acetic,medium,acid; amino acids; alcohol,mesophilic,1-7 days
+ambriss,ambriss,Animal,Dairy,milk goat,cheese,semi-solid,no,none,moderate,yes,minimal,yes,lactic,medium,acid; amino acids,mesophilic,20 days
+cheese,cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
+cheese,cheese_mild,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
+cheese,cheese_product,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
+cheese,cheese_smoked_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
+cheese,larger_cheese_wheel_reiss,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
+cheese araxa,raw_araxa_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
+cheese blue,cheese_blue_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
+cheese brie,cheese_brie,Animal,Dairy,milk,cheese,semi-solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-1.5 months
+cheese brine,cheese_brine,Animal,Dairy,milk,cheese,liquid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-1.5 months
+cheese canastra,raw_canastra_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
+cheese cheddar,aged_cheddar_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
+cheese cheddar,cheese_cheddar,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
+cheese continental pink,pink_continental_type_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
+cheese curd,cheese_stretchedcurd_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-7 days
+cheese hard,cheese_hard_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,6-12 months
+cheese kopanisti,kopanisti_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-1.5 months
+cheese parmesan,parmesan_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,6-12 months
+cheese pink,pink_small_cheese_reiss,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
+cheese russian,rostagroekport_voroznyj,Animal,Dairy,milk,cheese,semi-solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,2-4 weeks
+cheese ruz'a,ruza,Animal,Dairy,milk,cheese,semi-solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
+cheese serdaleh,serdaleh,Animal,Dairy,milk goat,cheese,semi-solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,20 days
+cheese serro,raw_serro_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
+cheese toma,dairy_products,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,2-4 months
+cheese tomme,cheese_tomme,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
+cheese wagashi,wagashi,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,70C,1-7 days
+cheese wara,wara,Animal,Dairy,milk,cheese,semi-solid,minimal,low,minimal,high,high,yes,lactic,medium,none; amino acids,70C,1-7 days
+laban,laban,Animal,Dairy,milk,cheese,semi-solid,no,none,minimal,high,minimal,high,lactic,medium,acid; amino acids,mesophilic,20 days
+labneh,labneh,Animal,Dairy,milk,cheese,semi-solid,no,none,minimal,high,minimal,high,lactic,medium,acid; amino acids,mesophilic,20 days
+agousha,agousha,Animal,Dairy,milk,beverage,liquid,no,none,yes,yes,minimal,yes,lactic,medium,acid,mesophilic,1-2 days
+kefir,goat_kefir_60_h,Animal,Dairy,milk goat,beverage,liquid,minimal,low,moderate,high,moderate,high,lactic,medium,acid; alcohol; amino acids,mesophilic,1-2 days
+kefir,kefir,Animal,Dairy,milk,beverage,liquid,minimal,low,moderate,high,moderate,high,lactic,medium,acid; amino acids,mesophilic,1-2 days
+kefir,milk_kefir,Animal,Dairy,milk,beverage,liquid,minimal,low,moderate,high,moderate,high,lactic,medium,acid; amino acids,mesophilic,1-2 days
+kefir grain,kefir_grain,Animal,Dairy,milk,beverage,solid,minimal,low,moderate,high,moderate,high,mixed,none,none,none,1-2 days
+koumiss,koumiss,Animal,Dairy,milk horse,beverage,liquid,yes,low,minimal,moderate,moderate,high,lactic,medium,acid; alcohol; amino acids,mesophilic,1-2 days
+milk fermented,fermented_dairy_beverage,Animal,Dairy,milk,beverage,liquid,no,none,minimal,high,moderate,high,lactic,medium,acid,mesophilic,1-2 days
+nono,nono,Animal,Dairy,milk,beverage,liquid,no,none,minimal,high,minimal,high,lactic,medium,acid,mesophilic,1-2 days
+nunu,nunu,Animal,Dairy,milk,beverage,liquid,no,none,minimal,high,minimal,high,lactic,medium,acid,mesophilic,1-2 days
+brukina,brukina_millet_with_fermented_milk,Mixed,Grain_Dairy,millet/milk,beverage,liquid,minimal,low,high,moderate,minimal,yes,lactic,medium,alcohol; acid,mesophilic,1-2 days
+agadagidi,agadagidi,Plant,Fruit,plantain,beverage,liquid,yes,low,no,minimal,no,yes,lactic,high,alcohol; acid,mesophilic,1-7 days
+amazake,brown_rice_amazake,Plant,Grain,rice,beverage,semi-solid,yes,low,high,minimal,no,minimal,lactic,medium,sugar,thermophilic,3-7 days
+beer,beer,Plant,Grain,barley,beverage,liquid,yes,medium,high,minimal,no,minimal,none,none,alcohol,mesophilic,1 week - 3 months
+beer,beer,Plant,Grain,barley,beverage,liquid,yes,medium,high,minimal,no,minimal,none,none,alcohol,mesophilic,1 week - 3 months
+boza,boza,Plant,Grain,millet,beverage,liquid,yes,low,high,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,3-7 days
+burukutu,burukutu,Plant,Grain,sorghum/millet,beverage,liquid,yes,medium,high,minimal,no,yes,lactic,high,alcohol; acid,mesophilic,3-7 days
+chicha,chicha,Plant,Grain,corn,beverage,liquid,yes,medium,high,minimal,no,moderate,lactic,high,alcohol; acid,mesophilic,3-7 days
+cider apple,apple_juice_in_fermentation_cider,Plant,Fruit,apple,beverage,liquid,yes,medium,moderate,minimal,no,high,lactic,high,alcohol; acid; amino acids,mesophilic,1-3 months
+cider apple,cider,Plant,Fruit,apple,beverage,liquid,yes,medium,moderate,minimal,no,high,lactic,high,alcohol; acid; amino acids,mesophilic,1-3 months
+cider apple,fermenting_apple_juice,Plant,Fruit,apple,beverage,liquid,yes,medium,moderate,minimal,no,high,lactic,high,alcohol; acid; amino acids,mesophilic,1-3 months
+cider apple,stagiaire_sb_cider,Plant,Fruit,apple,beverage,liquid,yes,medium,moderate,minimal,no,high,lactic,high,alcohol; acid; amino acids,mesophilic,1-3 months
+cider grape,isolated_organism,Plant,Fruit,grape,beverage,liquid,yes,high,moderate,minimal,no,high,mixed,high,alcohol; acid,mesophilic,1-3 months
+dolo,dolo,Plant,Grain,sorghum,beverage,liquid,yes,medium,high,minimal,no,moderate,lactic,medium,alcohol; acid,mesophilic,3-7 days
+emu,emu,Plant,Sugar,palm sap,beverage,liquid,yes,low,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-2 weeks
+ginger beer,ginger_beer,Plant,Vegetables_Aromatics,ginger,beverage,liquid,yes,medium,yes,minimal,no,minimal,lactic,high,acid; alcohol,mesophilic,1-14 days
+ginger beer,lemon_and_ginger_fizz,Plant,Vegetables_Aromatics,ginger,beverage,liquid,yes,medium,yes,minimal,no,minimal,lactic,high,acid; alcohol,mesophilic,1-14 days
+grape must,must_of_grape,Plant,Fruit,grape,beverage,solid,yes,low,minimal,minimal,no,moderate,lactic,high,acid,mesophilic,1 day - 3 months
+kombucha,kombucha,Plant,Sugar,sugar,beverage,liquid,minimal,low,minimal,minimal,no,high,acetic,high,acid; alcohol,mesophilic,1-14 days
+kombucha,kombucha,Plant,Sugar,sugar,beverage,liquid,minimal,low,minimal,minimal,no,high,acetic,high,acid; alcohol,mesophilic,1-14 days
+kombucha,kombucha_tea,Plant,Sugar,sugar,beverage,liquid,minimal,low,minimal,minimal,no,high,acetic,high,acid; alcohol,mesophilic,1-14 days
+kombucha,scoby_kombucha_tea,Plant,Sugar,sugar,beverage,liquid,minimal,low,minimal,minimal,no,high,acetic,high,acid; alcohol,mesophilic,1-14 days
+kunu,kunu,Plant,Grain,millet,beverage,liquid,minimal,low,high,minimal,no,moderate,lactic,medium,acid,mesophilic,1-3 days
+kvass,kvass,Plant,Grain,rye,beverage,liquid,yes,low,high,minimal,no,moderate,lactic,medium,acid; alcohol,mesophilic,3-7 days
+liquor chinese,chinese_liquor,Plant,Grain,sorghum,beverage,liquid,yes,high,high,minimal,no,minimal,unknown,unknown,alcohol,unknown,unknown
+makgeolli,makgeolli,Plant,Grain,rice,beverage,liquid,yes,high,high,minimal,no,moderate,lactic,medium,alcohol; acid,mesophilic,3-7 days
+obiolor,obiolor,Plant,Grain,sorghum/millet,beverage,liquid,minimal,low,high,minimal,no,moderate,lactic,medium,acid,mesophilic,1-3 days
+otika,otika,Plant,Grain,sorghum,beverage,liquid,yes,medium,high,minimal,no,moderate,lactic,medium,alcohol; acid,mesophilic,3-7 days
+pito,pito,Plant,Grain,millet,beverage,liquid,yes,low,high,minimal,no,moderate,lactic,high,acid; alcohol; amino acids,mesophilic,3-7 days
+pozol,pozol,Plant,Grain,corn,beverage,liquid,minimal,low,high,minimal,no,moderate,lactic,medium,acid,mesophilic,1-15 days
+pulque,pulque,Plant,Sugar,agave,beverage,liquid,yes,medium,high,minimal,no,moderate,lactic,high,acid; alcohol; FOS; amino acids,mesophilic,1-2 weeks
+sake,sake,Plant,Grain,rice,beverage,liquid,yes,high,high,minimal,no,minimal,lactic,medium,alcohol; acid,mesophilic,6-12 months
+sekete,sekete,Plant,Grain,corn,beverage,liquid,yes,low,high,minimal,no,moderate,lactic,high,acid; alcohol; amino acids,mesophilic,3-7 days
+sour grain mash,sour_grain_mash,Plant,Grain,barley,beverage,semi-solid,yes,low,high,moderate,no,moderate,lactic,medium,acid,none,3-7 days
+tepache,tepache,Plant,Fruit,pineapple,beverage,liquid,yes,low,minimal,minimal,no,high,lactic,high,alcohol; acid,mesophilic,1-7 days
+tibicos,tibicos,Plant,Sugar,sugar,beverage,liquid,yes,low,minimal,minimal,no,high,lactic,high,acid; alcohol,mesophilic,1-7 days
+tibicos,water_kefir,Plant,Sugar,sugar,beverage,liquid,yes,low,minimal,minimal,no,high,lactic,high,acid; alcohol,mesophilic,1-7 days
+tibicos,water_kefir,Plant,Sugar,sugar,beverage,liquid,yes,low,minimal,minimal,no,high,lactic,high,acid; alcohol,mesophilic,1-7 days
+tibicos fig,water_kefir,Plant,Sugar,sugar,beverage,liquid,yes,low,minimal,minimal,no,high,lactic,high,acid; alcohol,mesophilic,1-7 days
+wine,bobal_wine,Plant,Fruit,grape,beverage,liquid,yes,high,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-3 months
+wine,chardonnay_must,Plant,Fruit,grape,beverage,liquid,yes,high,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-3 months
+wine,commercial_grape_wine_undergoing_a_sluggishstuck_alcoholic_fermentation,Plant,Fruit,grape,beverage,liquid,yes,high,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-3 months
+wine,mad_ange_pdc,Plant,Fruit,grape,beverage,liquid,yes,high,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-3 months
+wine,must_of_bobal_grape_variety,Plant,Fruit,grape,beverage,liquid,yes,high,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-3 months
+wine,partially_fermented_wine,Plant,Fruit,grape,beverage,liquid,yes,high,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-3 months
+wine,wine,Plant,Fruit,grape,beverage,liquid,yes,high,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-3 months
+wine palm,palm_wine,Plant,Sugar,palm sap,beverage,liquid,yes,medium,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-2 weeks
+wine palm,palm_wine,Plant,Sugar,palm sap,beverage,liquid,yes,medium,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-2 weeks
+zonkom,zonkom,Plant,Grain,millet,beverage,liquid,minimal,low,high,minimal,no,moderate,mixed,high,acid,mesophilic,1-3 days
+tea fermented,tea,Plant,Botanical,tea leaves,beverage,solid,minimal,low,minimal,minimal,no,moderate,acetic,high,acid; amino acids,mesophilic,1-14 days
