@@ -40,6 +40,7 @@ sourdough rye,ryebran_sourdough,Plant,Grain,rye,starch-based staple,solid,minima
 ugi,ugi,Plant,Grain,sorghum,starch-based staple,semi-solid,minimal,low,high,minimal,no,moderate,lactic,medium,acid,mesophilic,1-3 days
 natto,burmese_natto,Plant,Legumes,soybean,soybean solids,solid,no,none,high,high,minimal,minimal,lactic,alkaline,amino acids; ammonia; PGA,mesophilic,1-7 days
 tempeh,bean_paste,Plant,Legumes,soybean,soybean solids,solid,no,none,high,high,moderate,minimal,lactic,low,amino acids; acid; ammonia,mesophilic,1-2 days
+tempeh,soybean,Plant,Legumes,soybean,soybean solids,solid,no,none,high,high,moderate,minimal,lactic,low,amino acids; acid; ammonia,mesophilic,1-2 days
 tempeh,tempeh,Plant,Legumes,soybean,soybean solids,solid,no,low,high,high,moderate,minimal,lactic,low,amino acids; acid; ammonia,mesophilic,1-2 days
 tempeh,tempeh_0_h,Plant,Legumes,soybean,soybean solids,solid,no,low,high,high,moderate,minimal,lactic,low,amino acids; acid; ammonia,mesophilic,1-2 days
 tofu chili,tofu_chili,Plant,Legumes,soybean,soybean solids,semi-solid,no,unknown,minimal,high,minimal,moderate,unknown,unknown,unknown,unknown,unknown
@@ -51,6 +52,7 @@ gochujang,gochujang,Plant,Legumes,soybean,soybean paste,semi-solid,minimal,low,m
 grep-chhurpi,grepchhurpi,Plant,Legumes,soybean,soybean paste,semi-solid,no,none,minimal,high,minimal,moderate,lactic,alkaline,amino acids; ammonia; acid,mesophilic,1-7 days
 kinema,soybean,Plant,Legumes,soybean,soybean paste,semi-solid,no,none,moderate,high,minimal,moderate,mixed,alkaline,amino acids; ammonia; PGA,mesophilic,1-3 days
 meju,meju,Plant,Legumes,soybean,soybean solids,solid,no,none,moderate,high,minimal,moderate,lactic,alkaline,acid; amino acids; ammonia; glycerol; sugar,mesophilic,1-2 months
+dajiang-meju,soybean,Plant,Legumes,soybean,soybean solids,solid,no,none,moderate,high,minimal,moderate,lactic,alkaline,acid; amino acids; ammonia; glycerol; sugar,mesophilic,1-2 months
 miso,novel_miso,Plant,Legumes,soybean,soybean paste,semi-solid,minimal,low,moderate,high,moderate,moderate,lactic,alkaline,amino acids; sugar; acid; alcohol,mesophilic,1-3 months
 peha,peha,Plant,Legumes,soybean,soybean paste,semi-solid,no,none,moderate,high,minimal,moderate,lactic,alkaline,amino acids; ammonia; PGA,mesophilic,1-3 days
 peron namsing,peron_namsing,Plant,Legumes,soybean,soybean paste,semi-solid,no,none,moderate,high,minimal,moderate,lactic,alkaline,amino acids; ammonia; PGA,mesophilic,1-3 days
@@ -61,6 +63,7 @@ soy sauce,cinsoy_tamari_mother,Plant,Legumes,soybean,soybean liquid,liquid,minim
 soy sauce,shoyu,Plant,Legumes,soybean,soybean liquid,liquid,minimal,low,high,high,minimal,high,lactic,medium,amino acids; acid; alcohol,mesophilic,6-12 months
 soy sauce,soy_sauce,Plant,Legumes,soybean,soybean liquid,liquid,minimal,low,high,high,minimal,high,lactic,medium,amino acids; acid; alcohol,mesophilic,6-12 months
 soy sauce,soybean,Plant,Legumes,soybean,soybean liquid,liquid,minimal,low,high,high,minimal,high,lactic,medium,amino acids; acid; alcohol,mesophilic,6-12 months
+tofu stinky,fermented_brine_used_for_stinky_tofu_production,Plant,Legumes,soybean,soybean liquid,liquid,no,none,minimal,high,minimal,moderate,lactic,medium,amino acids; acid; ammonia; fatty acids,mesophilic,3-6 weeks
 tofu stinky,stinky_tofu_brine,Plant,Legumes,soybean,soybean liquid,liquid,no,none,minimal,high,minimal,moderate,lactic,medium,amino acids; acid; ammonia; fatty acids,mesophilic,3-6 weeks
 tofu whey,naturally_fermented_tofu_whey,Plant,Legumes,soybean,soybean liquid,liquid,no,unknown,minimal,high,minimal,moderate,unknown,unknown,unknown,unknown,unknown
 chilli paste,chilli_paste,Plant,Vegetables_Aromatics,chili pepper,seasoning,semi-solid,no,none,minimal,moderate,minimal,yes,lactic,high,acid; amino acids,mesophilic,2-3 weeks
@@ -84,6 +87,8 @@ probiotics,probiotics,Microbial,Microbial,microbes,probiotics,powder,minimal,low
 miang,fermented_tea_leaves_miang,Plant,Botanical,tea leaves,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid; amino acids,mesophilic,variable
 mustard leaf,mustard_leaf,Plant,Botanical,mustard plant,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
 pickle tomato,tomato_and_mustards,Plant,Botanical,mustard plant,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle tomato,fermented_fruit,Plant,Botanical,mustard plant,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle tomato,fermented_vegetables,Plant,Botanical,mustard plant,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
 zha cai,zha_cai,Plant,Botanical,mustard plant,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1-3 months
 cabbage,cabbage,Plant,Vegetables_Aromatics,cabbage,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
 carrot sticks,carrot_sticks,Plant,Vegetables_Aromatics,carrot,pickled vegetables,solid,no,unknown,minimal,minimal,no,high,unknown,unknown,acid,unknown,unknown
@@ -106,8 +111,9 @@ kimchi wakame,brown_algae_kimchi,Plant,Vegetables_Aromatics,seaweed,pickled vege
 pickle bamboo shoots,traditional_fermented_bamboo_shoots,Plant,Vegetables_Aromatics,bamboo shoots,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
 pickle bolivian,bolivan_pickle,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
 pickle bolivian,bolivian_pickle,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle chinese,chinese_traditional_pickle,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
 pickle chinese,chinese_pickle,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
-pickle Chinese traditional,banana_fruits,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
+pickle chinese,banana_fruits,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
 pickle Chinese traditional,chinese_traditional_pickle,Plant,Vegetables_Aromatics,mixed vegetables,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
 pickle cucumber,cucumber,Plant,Vegetables_Aromatics,cucumber,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
 pickle daikon,daikon,Plant,Vegetables_Aromatics,daikon,pickled vegetables,solid,no,none,minimal,minimal,no,high,lactic,high,acid,mesophilic,1 day - 3 months
@@ -179,7 +185,7 @@ cheese cheddar,aged_cheddar_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,mi
 cheese cheddar,cheese_cheddar,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
 cheese continental pink,pink_continental_type_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
 cheese curd,cheese_stretchedcurd_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-7 days
-cheese hard,cheese_hard_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,6-12 months
+hard cheese,cheese_hard_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,6-12 months
 cheese kopanisti,kopanisti_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-1.5 months
 cheese parmesan,parmesan_cheese,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,6-12 months
 cheese pink,pink_small_cheese_reiss,Animal,Dairy,milk,cheese,solid,minimal,low,minimal,high,high,yes,lactic,medium,acid; amino acids,mesophilic,1-3 months
@@ -217,8 +223,8 @@ cider apple,stagiaire_sb_cider,Plant,Fruit,apple,beverage,liquid,yes,medium,mode
 cider grape,isolated_organism,Plant,Fruit,grape,beverage,liquid,yes,high,moderate,minimal,no,high,mixed,high,alcohol; acid,mesophilic,1-3 months
 dolo,dolo,Plant,Grain,sorghum,beverage,liquid,yes,medium,high,minimal,no,moderate,lactic,medium,alcohol; acid,mesophilic,3-7 days
 emu,emu,Plant,Sugar,palm sap,beverage,liquid,yes,low,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-2 weeks
-ginger beer,ginger_beer,Plant,Vegetables_Aromatics,ginger,beverage,liquid,yes,medium,yes,minimal,no,minimal,lactic,high,acid; alcohol,mesophilic,1-14 days
-ginger beer,lemon_and_ginger_fizz,Plant,Vegetables_Aromatics,ginger,beverage,liquid,yes,medium,yes,minimal,no,minimal,lactic,high,acid; alcohol,mesophilic,1-14 days
+beer ginger,ginger_beer,Plant,Vegetables_Aromatics,ginger,beverage,liquid,yes,medium,yes,minimal,no,minimal,lactic,high,acid; alcohol,mesophilic,1-14 days
+beer ginger,lemon_and_ginger_fizz,Plant,Vegetables_Aromatics,ginger,beverage,liquid,yes,medium,yes,minimal,no,minimal,lactic,high,acid; alcohol,mesophilic,1-14 days
 grape must,must_of_grape,Plant,Fruit,grape,beverage,solid,yes,low,minimal,minimal,no,moderate,lactic,high,acid,mesophilic,1 day - 3 months
 kombucha,kombucha,Plant,Sugar,sugar,beverage,liquid,minimal,low,minimal,minimal,no,high,acetic,high,acid; alcohol,mesophilic,1-14 days
 kombucha,kombucha,Plant,Sugar,sugar,beverage,liquid,minimal,low,minimal,minimal,no,high,acetic,high,acid; alcohol,mesophilic,1-14 days
@@ -241,8 +247,8 @@ tibicos,tibicos,Plant,Sugar,sugar,beverage,liquid,yes,low,minimal,minimal,no,hig
 tibicos,water_kefir,Plant,Sugar,sugar,beverage,liquid,yes,low,minimal,minimal,no,high,lactic,high,acid; alcohol,mesophilic,1-7 days
 tibicos,water_kefir,Plant,Sugar,sugar,beverage,liquid,yes,low,minimal,minimal,no,high,lactic,high,acid; alcohol,mesophilic,1-7 days
 tibicos fig,water_kefir,Plant,Sugar,sugar,beverage,liquid,yes,low,minimal,minimal,no,high,lactic,high,acid; alcohol,mesophilic,1-7 days
-wine,bobal_wine,Plant,Fruit,grape,beverage,liquid,yes,high,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-3 months
-wine,chardonnay_must,Plant,Fruit,grape,beverage,liquid,yes,high,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-3 months
+wine bobal,bobal_wine,Plant,Fruit,grape,beverage,liquid,yes,high,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-3 months
+wine chardonnay,chardonnay_must,Plant,Fruit,grape,beverage,liquid,yes,high,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-3 months
 wine,commercial_grape_wine_undergoing_a_sluggishstuck_alcoholic_fermentation,Plant,Fruit,grape,beverage,liquid,yes,high,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-3 months
 wine,mad_ange_pdc,Plant,Fruit,grape,beverage,liquid,yes,high,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-3 months
 wine,must_of_bobal_grape_variety,Plant,Fruit,grape,beverage,liquid,yes,high,minimal,minimal,no,moderate,mixed,high,alcohol; acid,mesophilic,1-3 months
