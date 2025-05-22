@@ -1,5 +1,4 @@
 library(tidyverse)
-library(hunspell)
 
 # read in most up-to-date genome metadata
 genome_metadata <- read_csv("data/intermediate_metadata_files/Food_MAGs_curated_metadata_250502.csv") %>%
@@ -43,4 +42,54 @@ genome_food_metadata <- left_join(genome_metadata, food_taxonomy, by = "sample_d
   filter(!is.na(`Sample Name`)) %>% 
   select(mag_id, completeness, contamination, contigs, total_length, gc, n50, sample_accession, run_accession, country, project_accession, study_accession, database_origin, Reference, `Food Name`, `Sample Name`, `Origin`, `Ingredient Group`, `Main Ingredient`, `Food Type`, `Consistency`, `Alcohol Level`, `Acid Type`, `Fermentation Temp`, `Aging Time`)
 
+colnames(genome_food_metadata) <- c("mag_id", "completeness", "contamination", "contigs", "total_length", "gc", "n50", "sample_accession", "run_accession", "country", "project_accession", "study_accession", "database_origin", "reference", "food_name", "sample_name", "origin", "ingredient_group", "main_ingredient", "food_type", "consistency", "alcohol_level", "acid_type", "fermentation_temperature", "aging_time")
+
 write.csv(genome_food_metadata, "data/2025-05-21-genome-metadata-food-taxonomy.csv", row.names = FALSE, quote = FALSE)
+
+# get list of SRA accessions to get runinfo from
+run_accession_metadata <- genome_food_metadata %>%
+  filter(startsWith(run_accession, "SRR") | startsWith(run_accession, "ERR")) %>%
+  separate_rows(run_accession, sep = "[,;]") %>% 
+  mutate(run_accession = trimws(run_accession)) %>% 
+  select(run_accession, food_name, sample_name, origin, ingredient_group, main_ingredient, food_type) %>% 
+  distinct(run_accession, .keep_all = TRUE)
+
+run_accessions <- run_accession_metadata %>% 
+  select(run_accession) %>% 
+  distinct()
+
+write_tsv(run_accessions, "data/source_tables_for_metadata/2025-05-21-sra-run-accessions-list.txt")
+
+# SRA runinfo results
+all_sraruninfos_files <- list.files(path="data/source_tables_for_metadata/sraruninfo", pattern = "-srainfo\\.tsv$", full.names = TRUE)
+
+# read in headers to get all possible column names, then for files that don't have those column names add "NA"
+headers <- lapply(all_sraruninfos_files, function(file) {
+  names(read_tsv(file, n_max = 0))
+})
+
+all_cols <- unique(unlist(headers))
+
+data_list <- lapply(all_sraruninfos_files, function(file) {
+  df <- read_tsv(file, col_types = cols(.default = col_character()))
+  
+  # Add any missing columns as NA
+  missing_cols <- setdiff(all_cols, names(df))
+  df[missing_cols] <- NA
+  
+  # Ensure column order is consistent
+  df <- df[, all_cols]
+  
+  return(df)
+})
+
+combined_sraruninfo_df <- bind_rows(data_list)
+
+# select only relevant column names
+combined_sraruninfo_df_modf <- combined_sraruninfo_df %>% 
+  select(run_accession, study_accession, study_title, experiment_accession, experiment_title, library_strategy, library_selection, library_layout, instrument_model, instrument_model_desc, run_total_bases)
+
+# join with food/genome metadata where possible
+combined_sraruninfo_metadata <- left_join(combined_sraruninfo_df_modf, run_accession_metadata)
+
+write_tsv(combined_sraruninfo_metadata, "data/2025-05-22-sample-sraruninfo-metadata.tsv")
