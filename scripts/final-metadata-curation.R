@@ -25,11 +25,15 @@ genome_metadata <- read_csv("data/intermediate_metadata_files/Food_MAGs_curated_
   mutate(food_name = gsub("pickle serrano peper", "pickle serrano pepper", food_name)) %>% 
   mutate(food_name = gsub("pickle peper", "pickle pepper", food_name)) %>% 
   mutate(sample_description_extended = paste0(sample_description, "_", gsub(" ", "_", food_name))) %>% 
-  mutate(sample_description_extended = gsub("-", "_", sample_description_extended))
+  mutate(sample_description_extended = gsub("-", "_", sample_description_extended)) %>% 
+  mutate(country = gsub("Genrmany", "Germany", country)) %>% 
+  mutate(country = gsub("Korean", "Korea", country)) %>% 
+  mutate(country = gsub("hilippines", "Philippines", country)) %>% 
+  mutate(country = gsub("Hong Kong", "China", country))
 
 
 # read in most up-to-date food taxonomy
-food_taxonomy <- read_csv("data/food_taxonomy/Metadata_CS_20250519_EAM_modified.csv.csv") %>% 
+food_taxonomy <- read_csv("data/food_taxonomy/Metadata_CS_20250519_EAM_modified.csv") %>% 
   distinct() %>% 
   mutate(sample_description_extended = paste0(`Sample Name`, "_", gsub(" ", "_", `Food Name`)))  %>% 
   mutate(sample_description_extended = gsub("-", "_", sample_description_extended))
