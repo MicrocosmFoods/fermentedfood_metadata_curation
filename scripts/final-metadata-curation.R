@@ -42,3 +42,5 @@ food_taxonomy <- read_csv("data/food_taxonomy/Metadata_CS_20250519_EAM_modified.
 genome_food_metadata <- left_join(genome_metadata, food_taxonomy, by = "sample_description_extended") %>% 
   filter(!is.na(`Sample Name`)) %>% 
   select(mag_id, completeness, contamination, contigs, total_length, gc, n50, sample_accession, run_accession, country, project_accession, study_accession, database_origin, Reference, `Food Name`, `Sample Name`, `Origin`, `Ingredient Group`, `Main Ingredient`, `Food Type`, `Consistency`, `Alcohol Level`, `Acid Type`, `Fermentation Temp`, `Aging Time`)
+
+write.csv(genome_food_metadata, "data/2025-05-21-genome-metadata-food-taxonomy.csv", row.names = FALSE, quote = FALSE)
