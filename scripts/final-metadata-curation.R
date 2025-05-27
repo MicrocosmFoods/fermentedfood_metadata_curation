@@ -93,3 +93,23 @@ combined_sraruninfo_df_modf <- combined_sraruninfo_df %>%
 combined_sraruninfo_metadata <- left_join(combined_sraruninfo_df_modf, run_accession_metadata)
 
 write_tsv(combined_sraruninfo_metadata, "data/2025-05-22-sample-sraruninfo-metadata.tsv")
+
+# stats
+genome_food_metadata %>% 
+  group_by(food_name) %>% 
+  count() %>% 
+  arrange(desc(n)) %>% 
+  print(n=180)
+
+genome_food_metadata %>% 
+  group_by(food_type) %>% 
+  count() %>% 
+  arrange(desc(n)) %>% 
+  print(n=21)
+
+genome_food_metadata %>% 
+  group_by(country) %>% 
+  count() %>% 
+  arrange(desc(n)) %>% 
+  print(n=60)
+
