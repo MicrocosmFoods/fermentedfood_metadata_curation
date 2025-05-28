@@ -1,4 +1,5 @@
 library(tidyverse)
+library(ggalluvial)
 
 # read in most up-to-date genome metadata
 genome_metadata <- read_csv("data/intermediate_metadata_files/Food_MAGs_curated_metadata_250502.csv") %>%
@@ -112,4 +113,6 @@ genome_food_metadata %>%
   count() %>% 
   arrange(desc(n)) %>% 
   print(n=60)
+
+
 
