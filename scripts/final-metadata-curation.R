@@ -3,7 +3,7 @@ library(ggalluvial)
 
 # read in most up-to-date genome metadata
 genome_metadata <- read_csv("data/intermediate_metadata_files/Food_MAGs_curated_metadata_250502.csv") %>%
-  select(mag_id, sample_description, completeness, contamination, contigs, total_length, gc, n50, sample_accession, run_accession, country, project_accession, study_accession, database_origin, Reference, food_name) %>% 
+  select(mag_id, sample_description, completeness, contamination, contigs, total_length, gc, n50, sample_accession, run_accession, country, project_accession, study_accession, database_origin, Reference, food_name, representative_95id, representative_99id, domain, phylum, class, order, family, genus, species) %>% 
   mutate(sample_description = gsub(" ", "_", sample_description)) %>% 
   mutate(sample_description = gsub("[()]", "", sample_description)) %>% 
   mutate(sample_description = gsub(",", "", sample_description)) %>% 
@@ -41,11 +41,12 @@ food_taxonomy <- read_csv("data/food_taxonomy/Metadata_CS_20250519_EAM_modified.
 # join genome metadata with food taxonomy
 genome_food_metadata <- left_join(genome_metadata, food_taxonomy, by = "sample_description_extended") %>% 
   filter(!is.na(`Sample Name`)) %>% 
-  select(mag_id, completeness, contamination, contigs, total_length, gc, n50, sample_accession, run_accession, country, project_accession, study_accession, database_origin, Reference, `Food Name`, `Sample Name`, `Origin`, `Ingredient Group`, `Main Ingredient`, `Food Type`, `Consistency`, `Alcohol Level`, `Acid Type`, `Fermentation Temp`, `Aging Time`)
+  mutate(taxonomy = paste0(phylum, ";", class, ";", order, ";", family, ";", genus)) %>% 
+  select(mag_id, completeness, contamination, contigs, total_length, gc, n50, sample_accession, run_accession, country, project_accession, study_accession, database_origin, Reference, representative_95id, representative_99id, taxonomy, species, `Food Name`, `Sample Name`, `Origin`, `Ingredient Group`, `Main Ingredient`, `Food Type`, `Consistency`, `Alcohol Level`, `Acid Type`, `Fermentation Temp`, `Aging Time`)
 
-colnames(genome_food_metadata) <- c("mag_id", "completeness", "contamination", "contigs", "total_length", "gc", "n50", "sample_accession", "run_accession", "country", "project_accession", "study_accession", "database_origin", "reference", "food_name", "sample_name", "origin", "ingredient_group", "main_ingredient", "food_type", "consistency", "alcohol_level", "acid_type", "fermentation_temperature", "aging_time")
+colnames(genome_food_metadata) <- c("mag_id", "completeness", "contamination", "contigs", "total_length", "gc", "n50", "sample_accession", "run_accession", "country", "project_accession", "study_accession", "database_origin", "reference", "rep_95id", "rep_99id", "taxonomy", "species", "food_name", "sample_name", "origin", "ingredient_group", "main_ingredient", "food_type", "consistency", "alcohol_level", "acid_type", "fermentation_temperature", "aging_time")
 
-write.csv(genome_food_metadata, "data/2025-05-21-genome-metadata-food-taxonomy.csv", row.names = FALSE, quote = FALSE)
+write_tsv(genome_food_metadata, "data/2025-05-21-genome-metadata-food-taxonomy.tsv")
 
 # get list of SRA accessions to get runinfo from
 run_accession_metadata <- genome_food_metadata %>%
