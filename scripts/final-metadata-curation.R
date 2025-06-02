@@ -1,5 +1,7 @@
 library(tidyverse)
 library(ggalluvial)
+library(RColorBrewer)
+library(grid)
 
 # read in most up-to-date genome metadata
 genome_metadata <- read_csv("data/intermediate_metadata_files/Food_MAGs_curated_metadata_250502.csv") %>%
@@ -42,7 +44,8 @@ food_taxonomy <- read_csv("data/food_taxonomy/Metadata_CS_20250519_EAM_modified.
 genome_food_metadata <- left_join(genome_metadata, food_taxonomy, by = "sample_description_extended") %>% 
   filter(!is.na(`Sample Name`)) %>% 
   mutate(taxonomy = paste0(phylum, ";", class, ";", order, ";", family, ";", genus)) %>% 
-  select(mag_id, completeness, contamination, contigs, total_length, gc, n50, sample_accession, run_accession, country, project_accession, study_accession, database_origin, Reference, representative_95id, representative_99id, taxonomy, species, `Food Name`, `Sample Name`, `Origin`, `Ingredient Group`, `Main Ingredient`, `Food Type`, `Consistency`, `Alcohol Level`, `Acid Type`, `Fermentation Temp`, `Aging Time`)
+  select(mag_id, completeness, contamination, contigs, total_length, gc, n50, sample_accession, run_accession, country, project_accession, study_accession, database_origin, Reference, representative_95id, representative_99id, taxonomy, species, `Food Name`, `Sample Name`, `Origin`, `Ingredient Group`, `Main Ingredient`, `Food Type`, `Consistency`, `Alcohol Level`, `Acid Type`, `Fermentation Temp`, `Aging Time`) %>% 
+  distinct(mag_id, .keep_all = TRUE)
 
 colnames(genome_food_metadata) <- c("mag_id", "completeness", "contamination", "contigs", "total_length", "gc", "n50", "sample_accession", "run_accession", "country", "project_accession", "study_accession", "database_origin", "reference", "rep_95id", "rep_99id", "taxonomy", "species", "food_name", "sample_name", "origin", "ingredient_group", "main_ingredient", "food_type", "consistency", "alcohol_level", "acid_type", "fermentation_temperature", "aging_time")
 
@@ -115,5 +118,55 @@ genome_food_metadata %>%
   arrange(desc(n)) %>% 
   print(n=60)
 
+# alluvial plot of genomes and foot categories
+
+food_alluvial <- genome_food_metadata %>%
+  filter(!is.na(food_type), !is.na(main_ingredient), !is.na(ingredient_group), !is.na(origin)) %>%
+  count(food_type, main_ingredient, ingredient_group, origin, name = "n_genomes") %>%
+  mutate(
+    food_type = fct_lump_n(food_type, n = 20, w = n_genomes),
+    main_ingredient = fct_lump_n(main_ingredient, n = 15, w = n_genomes),
+    ingredient_group = fct_lump_n(ingredient_group, n = 10, w = n_genomes),
+    origin = fct_lump_n(origin, n = 10, w = n_genomes)
+  ) %>%
+  mutate(
+    food_type = fct_reorder(food_type, n_genomes, .fun = sum),
+    main_ingredient = fct_reorder(main_ingredient, n_genomes, .fun = sum),
+    ingredient_group = fct_reorder(ingredient_group, n_genomes, .fun = sum),
+    origin = fct_reorder(origin, n_genomes, .fun = sum)
+  ) %>% 
+  mutate(flow_id = paste(food_type, main_ingredient, ingredient_group, origin, sep = " | ")) %>% 
+  filter(food_type !=c("cheese"))
 
 
+food_alluvial_plot <- ggplot(food_alluvial,
+       aes(axis1 = food_type,
+           axis2 = main_ingredient,
+           axis3 = ingredient_group,
+           axis4 = origin,
+           y = n_genomes)) +
+  geom_alluvium(aes(fill = flow_id), width = 1/12, alpha = 0.85, knot.pos = 0.5) +
+  geom_stratum(width = 1/10, color = "black", fill = "gray95", radius = unit(3, "pt")) +
+  geom_text(stat = "stratum", aes(label = paste0(after_stat(stratum), "\n(", after_stat(count), ")")),
+            size = 3, hjust = 0, nudge_x = 0.05) +
+  scale_x_discrete(
+    limits = c("Food Type", "Main Ingredient", "Ingredient Group", "Origin"),
+    expand = c(0.05, 0.05)
+  ) +
+  scale_fill_manual(values = colorRampPalette(RColorBrewer::brewer.pal(12, "Set3"))(length(unique(food_alluvial$flow_id)))) +
+  theme_minimal(base_size = 12) +
+  theme(
+    panel.grid = element_blank(),
+    axis.text.y = element_blank(),
+    axis.ticks = element_blank(),
+    legend.position = "none"  # hide legend if each flow is unique
+  ) +
+  labs(
+    title = "Genome Flows Through Food Categories",
+    y = "Number of Genomes",
+    x = NULL
+  )
+
+ggsave("figures/food-alluvial-plot.png", width=11, height=15, units=c("in"))
+
+food_alluvial_plot
