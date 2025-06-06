@@ -1,7 +1,12 @@
 library(tidyverse)
-library(ggalluvial)
 library(RColorBrewer)
 library(grid)
+library(patchwork)
+library(viridis)
+library(colorspace)
+library(ggbreak)
+library(rnaturalearth)
+library(sf)
 
 # read in most up-to-date genome metadata
 genome_metadata <- read_csv("data/intermediate_metadata_files/Food_MAGs_curated_metadata_250502.csv") %>%
@@ -99,74 +104,169 @@ combined_sraruninfo_metadata <- left_join(combined_sraruninfo_df_modf, run_acces
 
 write_tsv(combined_sraruninfo_metadata, "data/2025-05-22-sample-sraruninfo-metadata.tsv")
 
-# stats
-genome_food_metadata %>% 
-  group_by(food_name) %>% 
-  count() %>% 
-  arrange(desc(n)) %>% 
-  print(n=180)
+# bar graphs of food categories and taxonomy 
 
-genome_food_metadata %>% 
-  group_by(food_type) %>% 
-  count() %>% 
-  arrange(desc(n)) %>% 
-  print(n=21)
+# group genomes in phyla less than 500 in an "other" group
+phylum_counts <- genome_food_metadata %>%
+  mutate(phylum = sub(";.*", "", taxonomy)) %>%
+  count(phylum)
 
-genome_food_metadata %>% 
-  group_by(country) %>% 
-  count() %>% 
-  arrange(desc(n)) %>% 
-  print(n=60)
+genome_clean <- genome_food_metadata %>%
+  mutate(phylum = sub(";.*", "", taxonomy)) %>%
+  left_join(phylum_counts, by = "phylum") %>%
+  mutate(phylum = ifelse(n < 500, "Other", phylum),
+         phylum = fct_rev(fct_infreq(phylum)))
 
-# alluvial plot of genomes and foot categories
-
-food_alluvial <- genome_food_metadata %>%
-  filter(!is.na(food_type), !is.na(main_ingredient), !is.na(ingredient_group), !is.na(origin)) %>%
-  count(food_type, main_ingredient, ingredient_group, origin, name = "n_genomes") %>%
-  mutate(
-    food_type = fct_lump_n(food_type, n = 20, w = n_genomes),
-    main_ingredient = fct_lump_n(main_ingredient, n = 15, w = n_genomes),
-    ingredient_group = fct_lump_n(ingredient_group, n = 10, w = n_genomes),
-    origin = fct_lump_n(origin, n = 10, w = n_genomes)
-  ) %>%
-  mutate(
-    food_type = fct_reorder(food_type, n_genomes, .fun = sum),
-    main_ingredient = fct_reorder(main_ingredient, n_genomes, .fun = sum),
-    ingredient_group = fct_reorder(ingredient_group, n_genomes, .fun = sum),
-    origin = fct_reorder(origin, n_genomes, .fun = sum)
-  ) %>% 
-  mutate(flow_id = paste(food_type, main_ingredient, ingredient_group, origin, sep = " | ")) %>% 
-  filter(food_type !=c("cheese"))
-
-
-food_alluvial_plot <- ggplot(food_alluvial,
-       aes(axis1 = food_type,
-           axis2 = main_ingredient,
-           axis3 = ingredient_group,
-           axis4 = origin,
-           y = n_genomes)) +
-  geom_alluvium(aes(fill = flow_id), width = 1/12, alpha = 0.85, knot.pos = 0.5) +
-  geom_stratum(width = 1/10, color = "black", fill = "gray95", radius = unit(3, "pt")) +
-  geom_text(stat = "stratum", aes(label = paste0(after_stat(stratum), "\n(", after_stat(count), ")")),
-            size = 3, hjust = 0, nudge_x = 0.05) +
-  scale_x_discrete(
-    limits = c("Food Type", "Main Ingredient", "Ingredient Group", "Origin"),
-    expand = c(0.05, 0.05)
+# main taxonomy plot
+main_plot <- genome_clean %>%
+  ggplot(aes(y = phylum, fill = phylum)) +
+  geom_bar(show.legend = FALSE) +
+  scale_fill_met_d("Cassatt2") +  # Softer, food-friendly palette
+  labs(
+    title = "Phylum Distribution in Fermented Foods",
+    y = "Phylum",
+    x = "Number of Genomes"
   ) +
-  scale_fill_manual(values = colorRampPalette(RColorBrewer::brewer.pal(12, "Set3"))(length(unique(food_alluvial$flow_id)))) +
   theme_minimal(base_size = 12) +
   theme(
     panel.grid = element_blank(),
-    axis.text.y = element_blank(),
-    axis.ticks = element_blank(),
-    legend.position = "none"  # hide legend if each flow is unique
+    axis.line = element_line(color = "black"),
+    axis.ticks = element_line(color = "black"),
+    axis.text = element_text(size = 10, color = "black"),
+    axis.title.x = element_text(
+      size = 14, face = "bold", color = "black",
+      margin = margin(t = 10)  # Adds space above x-axis title
+    ),
+    axis.title.y = element_text(
+      size = 14, face = "bold", color = "black",
+      margin = margin(r = 10)  # Adds space to the right of y-axis title
+    ),
+    plot.title = element_text(size = 14, face = "bold", color = "black")
   ) +
+  scale_x_continuous(expand=c(0,0))
+
+# inset plot for Bacillota families
+bacillota_families <- genome_food_metadata %>%
+  filter(grepl("^Bacillota;", taxonomy)) %>%
+  mutate(family = sub("^[^;]*;[^;]*;[^;]*;([^;]*);.*", "\\1", taxonomy)) %>%
+  count(family, sort = TRUE)
+
+bacillota_families <- bacillota_families %>%
+  mutate(family = ifelse(n < 100, "Other Bacillota", family)) %>%
+  group_by(family) %>%
+  summarise(n = sum(n)) %>%
+  arrange(desc(n))
+
+inset_plot <- ggplot(bacillota_families, aes(x = fct_reorder(family, n), y = n)) +
+  geom_col(fill = "#7B8F78") +  # Softer green tone
+  coord_flip() +
+  labs(title = "Families within Bacillota", x = "Family", y = "Number of Genomes") +
+  theme_minimal(base_size = 9) +
+  theme(
+    panel.grid = element_blank(),
+    axis.line = element_line(color = "black"),
+    axis.ticks = element_line(color = "black"),
+    axis.text = element_text(size = 10, color = "black"),
+    axis.title.x = element_text(
+      size = 14, face = "bold", color = "black",
+      margin = margin(t = 10)  # Adds space above x-axis title
+    ),
+    axis.title.y = element_text(
+      size = 14, face = "bold", color = "black",
+      margin = margin(r = 10)  # Adds space to the right of y-axis title
+    ),
+    plot.title = element_text(size = 14, face = "bold", color = "black")
+  ) +
+  scale_y_continuous(expand=c(0,0))
+
+# Combine with inset
+taxonomy_plot <- main_plot + inset_element(inset_plot, left = 0.35, bottom = 0.05, right = 0.90, top = 0.75)
+
+taxonomy_plot
+
+# food type bar graph
+food_data <- genome_food_metadata %>%
+  count(food_type, sort = TRUE) %>%
+  mutate(food_type = str_to_title(food_type),
+         food_type = ifelse(n < 75, "Other Foods", food_type)) %>%
+  group_by(food_type) %>%
+  summarise(n = sum(n), .groups = "drop") %>%
+  mutate(food_type = factor(food_type, levels = unique(food_type)))
+
+# Generate a palette with correct number of colors
+n_colors <- nlevels(food_data$food_type)
+palette_food <- qualitative_hcl(n_colors, palette = "Set 2")
+
+food_plot <- ggplot(food_data, aes(x = fct_reorder(food_type, n), y = n, fill = food_type)) +
+  geom_col(show.legend = FALSE) +
+  coord_flip() +
   labs(
-    title = "Genome Flows Through Food Categories",
-    y = "Number of Genomes",
-    x = NULL
+    title = "Number of Genomes by Food Type",
+    x = "Food Type",
+    y = "Number of Genomes"
+  ) +
+  scale_fill_manual(values = palette_food) +
+  theme_minimal(base_size = 12) +
+  theme(
+    panel.grid = element_blank(),
+    axis.line = element_line(color = "black"),
+    axis.ticks = element_line(color = "black"),
+    axis.text = element_text(size = 10, color = "black"),
+    axis.title.x = element_text(size = 14, face = "bold", color = "black", margin = margin(t = 10)),
+    axis.title.y = element_text(size = 14, face = "bold", color = "black", margin = margin(r = 10)),
+    plot.title = element_text(size = 14, face = "bold", color = "black")
+  ) +
+  scale_y_break(c(4000, 8300), expand=c(0,0))
+
+# world map of # genomes
+
+country_counts <- genome_food_metadata %>%
+  filter(!is.na(country)) %>%
+  mutate(country = ifelse(country == "USA", "United States of America", country)) %>%
+  count(country, sort = TRUE)
+
+world_centroids <- ne_countries(scale = "medium", returnclass = "sf") %>%
+  st_centroid() %>%
+  st_transform(crs = 4326) %>%  # WGS84 lat/lon
+  select(name, geometry) %>%
+  mutate(
+    longitude = st_coordinates(geometry)[, 1],
+    latitude = st_coordinates(geometry)[, 2]
   )
 
-ggsave("figures/food-alluvial-plot.png", width=11, height=15, units=c("in"))
+country_plot_data <- country_counts %>%
+  left_join(world_centroids, by = c("country" = "name")) %>%
+  filter(!is.na(longitude)) 
 
-food_alluvial_plot
+world_map <- ne_countries(scale = "medium", returnclass = "sf")
+
+genomes_map <- ggplot() +
+  geom_sf(data = world_map, fill = "gray95", color = "gray80") +
+  geom_point(
+    data = country_plot_data,
+    aes(x = longitude, y = latitude, size = n),
+    color = "#1f78b4", alpha = 0.8
+  ) +
+  scale_size_continuous(range = c(2, 10), name = "Genomes") +
+  theme_void() +
+  labs(
+    title = "Geographic Distribution of Genomes by Country of Origin",
+    x = NULL, y = NULL
+  ) +
+  theme(
+    panel.grid = element_blank(),
+    legend.position = "right",
+    plot.title = element_text(size = 14, face = "bold")
+  )
+
+# save figures
+ggsave("figures/genomes-map.png", genomes_map, width=11, height=8, units=c("in"))
+ggsave("figures/food-counts.png", food_plot, width=11, height=8, units=c("in"))
+ggsave("figures/taxonomy-counts.png", taxonomy_plot, width=11, height=8, units=c("in"))
+
+# combine all 3 together
+combined_plot <- (genomes_map / (food_plot | taxonomy_plot)) +
+  plot_layout(heights = c(1, 1.5))
+combined_plot
+
+ggsave("figures/combined-grid-plot.png", combined_plot, height=8, width=11, units=c("in"))
