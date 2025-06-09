@@ -157,7 +157,7 @@ bacillota_families <- bacillota_families %>%
   summarise(n = sum(n)) %>%
   arrange(desc(n))
 
-inset_plot <- ggplot(bacillota_families, aes(x = fct_reorder(family, n), y = n)) +
+tax_inset_plot <- ggplot(bacillota_families, aes(x = fct_reorder(family, n), y = n)) +
   geom_col(fill = "#7B8F78") +  # Softer green tone
   coord_flip() +
   labs(title = "Families within Bacillota", x = "Family", y = "Number of Genomes") +
@@ -180,7 +180,7 @@ inset_plot <- ggplot(bacillota_families, aes(x = fct_reorder(family, n), y = n))
   scale_y_continuous(expand=c(0,0))
 
 # Combine with inset
-taxonomy_plot <- main_plot + inset_element(inset_plot, left = 0.35, bottom = 0.05, right = 0.90, top = 0.75)
+taxonomy_plot <- main_plot + inset_element(tax_inset_plot, left = 0.35, bottom = 0.05, right = 0.90, top = 0.75)
 
 taxonomy_plot
 
@@ -193,11 +193,46 @@ food_data <- genome_food_metadata %>%
   summarise(n = sum(n), .groups = "drop") %>%
   mutate(food_type = factor(food_type, levels = unique(food_type)))
 
+# inset plot for beverage food category
+beverage_groups <- genome_food_metadata %>%
+  filter(food_type == "beverage") %>% 
+  mutate(sample_name = str_to_title(sample_name)) %>% 
+  mutate(sample_name = gsub("_", " ", sample_name)) %>% 
+  count(sample_name, sort = TRUE)
+
+beverage_counts <- beverage_groups %>% 
+  mutate(sample_name = ifelse(n < 75, "Other Beverages", sample_name)) %>% 
+  group_by(sample_name) %>% 
+  summarise(n = sum(n)) %>% 
+  arrange(desc(n))
+
+beverage_inset_plot <- ggplot(beverage_counts, aes(x = fct_reorder(sample_name, n), y = n)) +
+  geom_col(fill = "#ED90A4") +
+  coord_flip() +
+  labs(x = "Beverage Type", y = "Number of Genomes") +
+  theme_minimal(base_size = 9) +
+  theme(
+    panel.grid = element_blank(),
+    axis.line = element_line(color = "black"),
+    axis.ticks = element_line(color = "black"),
+    axis.text = element_text(size = 10, color = "black"),
+    axis.title.x = element_text(
+      size = 14, face = "bold", color = "black",
+      margin = margin(t = 10) 
+    ),
+    axis.title.y = element_text(
+      size = 14, face = "bold", color = "black",
+      margin = margin(r = 10) 
+    ),
+    plot.title = element_text(size = 14, face = "bold", color = "black")
+  ) +
+  scale_y_continuous(expand=c(0,0))
+
 # Generate a palette with correct number of colors
 n_colors <- nlevels(food_data$food_type)
 palette_food <- qualitative_hcl(n_colors, palette = "Set 2")
 
-food_plot <- ggplot(food_data, aes(x = fct_reorder(food_type, n), y = n, fill = food_type)) +
+main_food_plot <- ggplot(food_data, aes(x = fct_reorder(food_type, n), y = n, fill = food_type)) +
   geom_col(show.legend = FALSE) +
   coord_flip() +
   labs(
@@ -216,7 +251,14 @@ food_plot <- ggplot(food_data, aes(x = fct_reorder(food_type, n), y = n, fill = 
     axis.title.y = element_text(size = 14, face = "bold", color = "black", margin = margin(r = 10)),
     plot.title = element_text(size = 14, face = "bold", color = "black")
   ) +
-  scale_y_break(c(4000, 8300), expand=c(0,0))
+  scale_y_continuous(expand=c(0,0))
+
+# combined food plot with inset beverage plot
+
+food_plot <- wrap_elements(main_food_plot) + 
+  inset_element(beverage_inset_plot, left = 0.25, bottom = 0.15, right = 0.90, top = 0.75)
+
+food_plot
 
 # world map of # genomes
 
