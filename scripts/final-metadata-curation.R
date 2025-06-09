@@ -5,6 +5,7 @@ library(patchwork)
 library(cowplot)
 library(viridis)
 library(colorspace)
+library(MetBrewer)
 library(ggbreak)
 library(rnaturalearth)
 library(sf)
@@ -159,7 +160,7 @@ bacillota_families <- bacillota_families %>%
   arrange(desc(n))
 
 tax_inset_plot <- ggplot(bacillota_families, aes(x = fct_reorder(family, n), y = n)) +
-  geom_col(fill = "#7B8F78") +  # Softer green tone
+  geom_col(fill = "#2C4B27") +  # Softer green tone
   coord_flip() +
   theme_minimal(base_size = 9) +
   theme(
@@ -191,13 +192,19 @@ food_data <- genome_food_metadata %>%
 
 # inset plot for beverage food category
 beverage_groups <- genome_food_metadata %>%
-  filter(food_type == "beverage") %>% 
-  mutate(sample_name = str_to_title(sample_name)) %>% 
-  mutate(sample_name = gsub("_", " ", sample_name)) %>% 
+  filter(food_type == "beverage") %>%
+  mutate(
+    sample_name = str_to_title(sample_name),
+    sample_name = gsub("_", " ", sample_name),
+    sample_name = case_when(
+      sample_name %in% c("Water kefir", "Kefir") ~ "Kefir",
+      TRUE ~ sample_name
+    )
+  ) %>%
   count(sample_name, sort = TRUE)
 
 beverage_counts <- beverage_groups %>% 
-  mutate(sample_name = ifelse(n < 75, "Other Beverages", sample_name)) %>% 
+  mutate(sample_name = ifelse(n < 65, "Other Beverages", sample_name)) %>% 
   group_by(sample_name) %>% 
   summarise(n = sum(n)) %>% 
   arrange(desc(n))
@@ -287,22 +294,63 @@ genomes_map <- ggplot() +
   ) +
   theme(
     panel.grid = element_blank(),
+    legend.position = c(0.15, 0.40),
+    plot.title = element_text(size = 14, face = "bold")
+  )
+
+genomes_map
+
+# create subset europe map
+europe_map <- ne_countries(scale = "medium", returnclass = "sf") %>%
+  filter(region_un == "Europe")
+
+# Join with centroids as before (optional: recompute centroids for cleaner Europe view)
+europe_centroids <- europe_map %>%
+  st_centroid(of_largest_polygon = TRUE) %>%
+  st_transform(crs = 4326) %>%
+  mutate(
+    longitude = st_coordinates(geometry)[, 1],
+    latitude = st_coordinates(geometry)[, 2]
+  ) %>%
+  select(name, longitude, latitude)
+
+# Join genome counts and subset only European countries
+europe_data <- country_counts %>%
+  inner_join(europe_centroids, by = c("country" = "name"))
+
+europe_map_plot <- ggplot() +
+  geom_sf(data = europe_map, fill = "gray95", color = "gray80") +
+  geom_point(
+    data = europe_data,
+    aes(x = longitude, y = latitude, size = n),
+    color = "#1f78b4", alpha = 0.8
+  ) +
+  scale_size_continuous(range = c(2, 10), name = "Genomes") +
+  coord_sf(xlim = c(-25, 45), ylim = c(34, 72), expand = FALSE) +
+  theme_void() +
+  labs(
+    title = "Genomes from European Countries",
+    x = NULL, y = NULL
+  ) +
+  theme(
+    panel.grid = element_blank(),
     legend.position = "right",
     plot.title = element_text(size = 14, face = "bold")
   )
 
-# create subset europe map
+europe_map_plot
 
-genomes_map
+
 # save figures
 ggsave("figures/genomes-map.png", genomes_map, width=11, height=8, units=c("in"))
 ggsave("figures/food-counts.png", food_plot, width=11, height=8, units=c("in"))
 ggsave("figures/taxonomy-counts.png", taxonomy_plot, width=11, height=8, units=c("in"))
 
 # combine all 3 together
-combined_plot <- (genomes_map / (food_plot_with_inset | taxonomy_plot_with_inset)) +
+combined_plot <- ((genomes_map | europe_map_plot) / (food_plot_with_inset | taxonomy_plot_with_inset)) +
   plot_layout(heights = c(1, 1.1))
 
 combined_plot
 
 ggsave("figures/combined-grid-plot.png", combined_plot, height=8, width=15, units=c("in"))
+ggsave("figures/combined-grid-plot.pdf", combined_plot, height=9, width=15, units=c("in"))
