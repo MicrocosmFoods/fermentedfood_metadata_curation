@@ -2,6 +2,7 @@ library(tidyverse)
 library(RColorBrewer)
 library(grid)
 library(patchwork)
+library(cowplot)
 library(viridis)
 library(colorspace)
 library(ggbreak)
@@ -160,29 +161,24 @@ bacillota_families <- bacillota_families %>%
 tax_inset_plot <- ggplot(bacillota_families, aes(x = fct_reorder(family, n), y = n)) +
   geom_col(fill = "#7B8F78") +  # Softer green tone
   coord_flip() +
-  labs(title = "Families within Bacillota", x = "Family", y = "Number of Genomes") +
   theme_minimal(base_size = 9) +
   theme(
     panel.grid = element_blank(),
     axis.line = element_line(color = "black"),
     axis.ticks = element_line(color = "black"),
-    axis.text = element_text(size = 10, color = "black"),
-    axis.title.x = element_text(
-      size = 14, face = "bold", color = "black",
-      margin = margin(t = 10)  # Adds space above x-axis title
-    ),
-    axis.title.y = element_text(
-      size = 14, face = "bold", color = "black",
-      margin = margin(r = 10)  # Adds space to the right of y-axis title
-    ),
-    plot.title = element_text(size = 14, face = "bold", color = "black")
+    axis.text = element_text(size = 8, color = "black"),
+    axis.title.x = element_blank(),
+    axis.title.y = element_blank(),
+    plot.title = element_blank()
   ) +
   scale_y_continuous(expand=c(0,0))
 
 # Combine with inset
-taxonomy_plot <- main_plot + inset_element(tax_inset_plot, left = 0.35, bottom = 0.05, right = 0.90, top = 0.75)
+taxonomy_plot_with_inset <- ggdraw() +
+  draw_plot(main_plot) +
+  draw_plot(tax_inset_plot, x = 0.45, y = 0.15, width = 0.50, height = 0.55)
 
-taxonomy_plot
+taxonomy_plot_with_inset
 
 # food type bar graph
 food_data <- genome_food_metadata %>%
@@ -209,23 +205,15 @@ beverage_counts <- beverage_groups %>%
 beverage_inset_plot <- ggplot(beverage_counts, aes(x = fct_reorder(sample_name, n), y = n)) +
   geom_col(fill = "#ED90A4") +
   coord_flip() +
-  labs(x = "Beverage Type", y = "Number of Genomes") +
   theme_minimal(base_size = 9) +
   theme(
     panel.grid = element_blank(),
     axis.line = element_line(color = "black"),
     axis.ticks = element_line(color = "black"),
-    axis.text = element_text(size = 10, color = "black"),
-    axis.title.x = element_text(
-      size = 14, face = "bold", color = "black",
-      margin = margin(t = 10) 
-    ),
-    axis.title.y = element_text(
-      size = 14, face = "bold", color = "black",
-      margin = margin(r = 10) 
-    ),
-    plot.title = element_text(size = 14, face = "bold", color = "black")
-  ) +
+    axis.text = element_text(size = 8, color = "black"),
+    axis.title.x = element_blank(),
+    axis.title.y = element_blank(),
+    plot.title = element_blank()) +
   scale_y_continuous(expand=c(0,0))
 
 # Generate a palette with correct number of colors
@@ -255,10 +243,11 @@ main_food_plot <- ggplot(food_data, aes(x = fct_reorder(food_type, n), y = n, fi
 
 # combined food plot with inset beverage plot
 
-food_plot <- wrap_elements(main_food_plot) + 
-  inset_element(beverage_inset_plot, left = 0.25, bottom = 0.15, right = 0.90, top = 0.75)
+food_plot_with_inset <- ggdraw() +
+  draw_plot(main_food_plot) +
+  draw_plot(beverage_inset_plot, x = 0.30, y = 0.15, width = 0.60, height = 0.60)
 
-food_plot
+food_plot_with_inset
 
 # world map of # genomes
 
@@ -280,7 +269,8 @@ country_plot_data <- country_counts %>%
   left_join(world_centroids, by = c("country" = "name")) %>%
   filter(!is.na(longitude)) 
 
-world_map <- ne_countries(scale = "medium", returnclass = "sf")
+world_map <- ne_countries(scale = "medium", returnclass = "sf") %>%
+  filter(name != "Antarctica")
 
 genomes_map <- ggplot() +
   geom_sf(data = world_map, fill = "gray95", color = "gray80") +
@@ -301,14 +291,18 @@ genomes_map <- ggplot() +
     plot.title = element_text(size = 14, face = "bold")
   )
 
+# create subset europe map
+
+genomes_map
 # save figures
 ggsave("figures/genomes-map.png", genomes_map, width=11, height=8, units=c("in"))
 ggsave("figures/food-counts.png", food_plot, width=11, height=8, units=c("in"))
 ggsave("figures/taxonomy-counts.png", taxonomy_plot, width=11, height=8, units=c("in"))
 
 # combine all 3 together
-combined_plot <- (genomes_map / (food_plot | taxonomy_plot)) +
-  plot_layout(heights = c(1, 1.5))
+combined_plot <- (genomes_map / (food_plot_with_inset | taxonomy_plot_with_inset)) +
+  plot_layout(heights = c(1, 1.1))
+
 combined_plot
 
-ggsave("figures/combined-grid-plot.png", combined_plot, height=8, width=11, units=c("in"))
+ggsave("figures/combined-grid-plot.png", combined_plot, height=8, width=15, units=c("in"))
