@@ -125,7 +125,7 @@ main_plot <- genome_clean %>%
   geom_bar(show.legend = FALSE) +
   scale_fill_met_d("Cassatt2") +  # Softer, food-friendly palette
   labs(
-    title = "Phylum Distribution in Fermented Foods",
+    title = "Number of Genomes by Phylum \n",
     y = "Phylum",
     x = "Number of Genomes"
   ) +
@@ -162,15 +162,16 @@ bacillota_families <- bacillota_families %>%
 tax_inset_plot <- ggplot(bacillota_families, aes(x = fct_reorder(family, n), y = n)) +
   geom_col(fill = "#2C4B27") +  # Softer green tone
   coord_flip() +
+  labs(title="Families within Bacillota") + 
   theme_minimal(base_size = 9) +
   theme(
     panel.grid = element_blank(),
     axis.line = element_line(color = "black"),
     axis.ticks = element_line(color = "black"),
-    axis.text = element_text(size = 8, color = "black"),
+    axis.text = element_text(size = 9, color = "black"),
     axis.title.x = element_blank(),
     axis.title.y = element_blank(),
-    plot.title = element_blank()
+    plot.title = element_text(face="italic", size = 8, color="black")
   ) +
   scale_y_continuous(expand=c(0,0))
 
@@ -212,6 +213,7 @@ beverage_counts <- beverage_groups %>%
 beverage_inset_plot <- ggplot(beverage_counts, aes(x = fct_reorder(sample_name, n), y = n)) +
   geom_col(fill = "#ED90A4") +
   coord_flip() +
+  labs(title="Specific Beverages") +
   theme_minimal(base_size = 9) +
   theme(
     panel.grid = element_blank(),
@@ -220,7 +222,7 @@ beverage_inset_plot <- ggplot(beverage_counts, aes(x = fct_reorder(sample_name, 
     axis.text = element_text(size = 8, color = "black"),
     axis.title.x = element_blank(),
     axis.title.y = element_blank(),
-    plot.title = element_blank()) +
+    plot.title = element_text(face="italic", size=9, color="black", hjust=0.5)) +
   scale_y_continuous(expand=c(0,0))
 
 # Generate a palette with correct number of colors
@@ -231,7 +233,7 @@ main_food_plot <- ggplot(food_data, aes(x = fct_reorder(food_type, n), y = n, fi
   geom_col(show.legend = FALSE) +
   coord_flip() +
   labs(
-    title = "Number of Genomes by Food Type",
+    title = "Number of Genomes by Food Type \n",
     x = "Food Type",
     y = "Number of Genomes"
   ) +
@@ -286,10 +288,10 @@ genomes_map <- ggplot() +
     aes(x = longitude, y = latitude, size = n),
     color = "#1f78b4", alpha = 0.8
   ) +
-  scale_size_continuous(range = c(2, 10), name = "Genomes") +
+  scale_size_continuous(range = c(2, 10), name = "Number of Genomes") +
   theme_void() +
   labs(
-    title = "Geographic Distribution of Genomes by Country of Origin",
+    title = "Geographic Distribution of Genomes by Country of Origin \n",
     x = NULL, y = NULL
   ) +
   theme(
@@ -325,17 +327,16 @@ europe_map_plot <- ggplot() +
     aes(x = longitude, y = latitude, size = n),
     color = "#1f78b4", alpha = 0.8
   ) +
-  scale_size_continuous(range = c(2, 10), name = "Genomes") +
+  scale_size_continuous(range = c(2, 10), name = "Number of Genomes") +
   coord_sf(xlim = c(-25, 45), ylim = c(34, 72), expand = FALSE) +
   theme_void() +
   labs(
-    title = "Genomes from European Countries",
+    title = NULL,
     x = NULL, y = NULL
   ) +
   theme(
     panel.grid = element_blank(),
-    legend.position = "right",
-    plot.title = element_text(size = 14, face = "bold")
+    legend.position = "right"
   )
 
 europe_map_plot
@@ -347,8 +348,8 @@ ggsave("figures/food-counts.png", food_plot, width=11, height=8, units=c("in"))
 ggsave("figures/taxonomy-counts.png", taxonomy_plot, width=11, height=8, units=c("in"))
 
 # combine all 3 together
-combined_plot <- ((genomes_map | europe_map_plot) / (food_plot_with_inset | taxonomy_plot_with_inset)) +
-  plot_layout(heights = c(1, 1.1))
+combined_plot <- ((genomes_map | europe_map_plot) / plot_spacer() / (food_plot_with_inset | taxonomy_plot_with_inset)) +
+  plot_layout(heights = c(1, 0.03, 1.1))
 
 combined_plot
 
